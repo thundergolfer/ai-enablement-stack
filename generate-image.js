@@ -7,7 +7,14 @@ function imageToDataURL(imagePath) {
     if (!imagePath) return '';
     try {
         const imageBuffer = fs.readFileSync(path.resolve(__dirname, imagePath));
-        const imageExt = path.extname(imagePath).substring(1);
+        const imageExt = path.extname(imagePath).substring(1).toLowerCase();
+
+        // Special handling for SVG files
+        if (imageExt === 'svg') {
+            return `data:image/svg+xml;base64,${imageBuffer.toString('base64')}`;
+        }
+
+        // For other image formats
         return `data:image/${imageExt};base64,${imageBuffer.toString('base64')}`;
     } catch (error) {
         console.error(`Error loading image: ${imagePath}`, error);
