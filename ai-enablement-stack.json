@@ -82,7 +82,7 @@
       "color": "#FCE4EC",
       "sections": [
         {
-          "name": "AGENTS & FRAMEWORKS",
+          "name": "FRAMEWORKS",
           "companies": [
             {
               "name": "LangChain",
@@ -105,27 +105,7 @@
               "logo": ""
             },
             {
-              "name": "AutoGen",
-              "description": "",
-              "logo": ""
-            },
-            {
-              "name": "BabyAGI",
-              "description": "",
-              "logo": ""
-            },
-            {
-              "name": "AgentGPT",
-              "description": "",
-              "logo": ""
-            },
-            {
               "name": "Pydantic AI",
-              "description": "",
-              "logo": ""
-            },
-            {
-              "name": "Superagent",
               "description": "",
               "logo": ""
             },
@@ -491,6 +471,26 @@
             },
             {
               "name": "Lovable",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "AutoGen",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "BabyAGI",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "AgentGPT",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Superagent",
               "description": "",
               "logo": ""
             }
