@@ -19,8 +19,7 @@ TBD:
   A comprehensive list of tools and technologies for AI Enabled Development
 </h3>
 
-<h5 align="center">🌟 <a href="https://your-website.com">Visit our website</a></h5>
-<h5 align="center">👉 <a href="https://forms.your-form.com">Submit new tool</a></h5>
+<h5 align="center">👉 <a href="CONTRIBUTING.md">Contribute new tool</a></h5>
 
 <img src="./ai-enablement-stack.png" width="100%" alt="AI Enablement Stack" />
 
@@ -1077,4 +1076,4 @@ Foundation Layer - INFRASTRUCTURE BACKBONE
 Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details
