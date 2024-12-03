@@ -1,10 +1,12 @@
 {
   "name": "ai-enablemenstack-generator",
   "version": "1.0.0",
-  "description": "Generate AI Enablement Stack diagram from JSON",
+  "description": "Generate AI Enablement Stack diagram and documentation from JSON",
   "main": "generate-image.js",
   "scripts": {
-    "generate": "node generate-image.js"
+    "generate:image": "node generate-image.js",
+    "generate:readme": "node generate-readme.js",
+    "generate": "npm run generate:image && npm run generate:readme"
   },
   "devDependencies": {
     "@playwright/test": "^1.49.0",

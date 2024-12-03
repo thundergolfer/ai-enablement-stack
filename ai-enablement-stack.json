@@ -14,23 +14,27 @@
           "companies": [
             {
               "name": "Daytona",
-              "description": "",
-              "logo": "./assets/daytonaio.png"
+              "description": "Daytona.io is an open-source Development Environment Manager designed to simplify the setup and management of development environments across various platforms, including local, remote, and cloud infrastructures.",
+              "logo": "./assets/daytonaio.png",
+              "link": "https://daytona.io/"
             },
             {
               "name": "runloop",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "morph",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "e2b",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -40,37 +44,44 @@
             {
               "name": "Nvidia",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "AMD",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Intel",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "SambaNova",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "AWS",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Azure",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "GCP",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         }
@@ -87,37 +98,44 @@
             {
               "name": "LangChain",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "LlamaIndex",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Haystack",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "DSPy",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Pydantic AI",
               "description": "",
-              "logo": "./assets/pydantic-ai.svg"
+              "logo": "./assets/pydantic-ai.svg",
+              "link": "https://ai.pydantic.dev/"
             },
             {
               "name": "Letta",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "GoCharlie",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -127,72 +145,86 @@
             {
               "name": "Pinecone",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Weaviate",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Chroma",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Milvus",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Qdrant",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "MongoDB Atlas",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Supabase",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Sciphi",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "LiteLLM",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Relevance AI",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Gretel.ai",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Mostly.ai",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Tonic.ai",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Rockfish.ai",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -202,27 +234,32 @@
             {
               "name": "Codestral",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Claude 3.5",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "OpenAI GPT4o",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Qwen",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Mistral",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         }
@@ -239,52 +276,62 @@
             {
               "name": "Mutable AI",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Greptile",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Sourcegraph",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Bloop",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Hex Magic",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Julius",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Flowise",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "LLM Stack",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "broadn",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Fine Tuner",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -294,22 +341,26 @@
             {
               "name": "Confident AI",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "GitHub Copilot X",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Cursor",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Codeanywhere",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -319,17 +370,20 @@
             {
               "name": "Confident AI",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Codegen",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Hide.sh",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -339,32 +393,38 @@
             {
               "name": "LangSmith",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Galileo",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Arize",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Weight & Biases",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "AgentOps",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Confident AI",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         }
@@ -381,42 +441,50 @@
             {
               "name": "Modal",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Baseten",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Fireworks",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "LangServe",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Vercel",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Kong",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Apigee",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "LiteLLM",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -426,7 +494,8 @@
             {
               "name": "Pydantic Logfire",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -436,17 +505,20 @@
             {
               "name": "Alinia",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Guardrails AI",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Lakera",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -467,32 +539,38 @@
             {
               "name": "OpenHands",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Lovable",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "AutoGen",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "BabyAGI",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "AgentGPT",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Superagent",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -502,12 +580,14 @@
             {
               "name": "Copilot",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Continue.dev",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -517,12 +597,14 @@
             {
               "name": "CodeRabbit",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             },
             {
               "name": "Qodo",
               "description": "",
-              "logo": ""
+              "logo": "",
+              "link": ""
             }
           ]
         }
