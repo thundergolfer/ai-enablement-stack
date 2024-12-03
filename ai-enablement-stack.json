@@ -1,50 +1,118 @@
 {
-    "title": {
-      "highlight": "Modern AI Stack:",
-      "text": "The Emerging Building Blocks for GenAI"
+  "title": {
+    "highlight": "Modern AI Stack:",
+    "text": "The Emerging Building Blocks for GenAI"
+  },
+  "layers": [
+    {
+      "number": 4,
+      "name": "Observability",
+      "color": "#FFF3E0",
+      "sections": [
+        {
+          "name": "OBSERVABILITY, EVALUATION, SECURITY",
+          "companies": [
+            "Helicone",
+            "AgentOps",
+            "Humanloop",
+            "Credal.ai",
+            "Truera",
+            "Eppo",
+            "BrainTrust",
+            "Patronus AI",
+            "LOG10"
+          ]
+        }
+      ]
     },
-    "layers": [
-      {
-        "number": 4,
-        "name": "Observability",
-        "color": "#FFF3E0",
-        "sections": [
-          {
-            "name": "OBSERVABILITY, EVALUATION, SECURITY",
-            "companies": [
-              "Helicone",
-              "AgentOps",
-              "Humanloop",
-              "Credal.ai",
-              "Truera",
-              "Eppo"
-            ]
-          }
-        ]
-      },
-      {
-        "number": 3,
-        "name": "Deployment",
-        "color": "#E3F2FD",
-        "sections": [
-          {
-            "name": "PROMPT MANAGEMENT",
-            "companies": [
-              "Vellum",
-              "LangSmith"
-            ]
-          },
-          {
-            "name": "AGENT TOOL FRAMEWORKS",
-            "companies": [
-              "LangChain",
-              "AutoGPT",
-              "Fixie",
-              "LlamaIndex"
-            ]
-          }
-        ]
-      }
-      // ... other layers
-    ]
-  }
+    {
+      "number": 3,
+      "name": "Deployment",
+      "color": "#E3F2FD",
+      "sections": [
+        {
+          "name": "PROMPT MANAGEMENT",
+          "companies": [
+            "Vellum",
+            "LangSmith"
+          ]
+        },
+        {
+          "name": "ORCHESTRATION",
+          "companies": [
+            "Martian",
+            "Orkes",
+            "Radiant"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Data",
+      "color": "#FCE4EC",
+      "sections": [
+        {
+          "name": "DATA PRE-PROCESSING",
+          "companies": [
+            "Gable",
+            "Datology.ai",
+            "Cleanlab"
+          ]
+        },
+        {
+          "name": "DATABASES (VECTOR, DB, METADATA STORE, CONTEXT CACHE)",
+          "companies": [
+            "Databricks",
+            "Upstash",
+            "Pinecone",
+            "Neon",
+            "WarpStream",
+            "Momento"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "name": "Compute + Foundation",
+      "color": "#E8F5E9",
+      "sections": [
+        {
+          "name": "MODEL DEPLOYMENT + INFERENCE",
+          "companies": [
+            "Baseten",
+            "Modal",
+            "Replicate",
+            "Clarifai",
+            "Substrate",
+            "Fireworks.ai"
+          ]
+        },
+        {
+          "name": "FOUNDATION MODELS",
+          "companies": [
+            "OpenAI",
+            "Anthropic",
+            "Mistral AI",
+            "Contextual AI",
+            "Hugging Face",
+            "Llama 2"
+          ]
+        },
+        {
+          "name": "GPU PROVIDERS",
+          "companies": [
+            "AWS",
+            "Azure",
+            "Google Cloud",
+            "CoreWeave",
+            "Lambda",
+            "Foundry",
+            "Together.ai"
+          ]
+        }
+      ]
+    }
+  ]
+}
