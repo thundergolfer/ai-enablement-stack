@@ -12,22 +12,66 @@
         {
           "name": "DEVELOPMENT ENVIRONMENTS",
           "companies": [
-            "daytona",
-            "runloop",
-            "morph",
-            "e2b"
+            {
+              "name": "daytona",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "runloop",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "morph",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "e2b",
+              "description": "",
+              "logo": ""
+            }
           ]
         },
         {
           "name": "INFRASTRUCTURE BACKBONE",
           "companies": [
-            "Nvidia",
-            "AMD",
-            "Intel",
-            "SambaNova",
-            "AWS",
-            "Azure",
-            "GCP"
+            {
+              "name": "Nvidia",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "AMD",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Intel",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "SambaNova",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "AWS",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Azure",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "GCP",
+              "description": "",
+              "logo": ""
+            }
           ]
         }
       ]
@@ -38,38 +82,168 @@
       "color": "#FCE4EC",
       "sections": [
         {
-          "name": "AI DEVELOPMENT TOOLKIT",
+          "name": "AGENTS & FRAMEWORKS",
           "companies": [
-            "LangChain",
-            "LlamaIndex",
-            "Haystack",
-            "DSPy",
-            "AutoGen",
-            "BabyAGI",
-            "AgentGPT",
-            "Pydantic AI",
-            "Superagent",
-            "Letta",
-            "GoCharlie"
+            {
+              "name": "LangChain",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "LlamaIndex",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Haystack",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "DSPy",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "AutoGen",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "BabyAGI",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "AgentGPT",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Pydantic AI",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Superagent",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Letta",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "GoCharlie",
+              "description": "",
+              "logo": ""
+            }
           ]
         },
         {
-          "name": "KNOWLEDGE ENGINE",
+          "name": "KNOWLEDGE ENGINES",
           "companies": [
-            "Pinecone",
-            "Weaviate",
-            "Chroma",
-            "Milvus",
-            "Qdrant",
-            "MongoDB Atlas",
-            "Supabase",
-            "Sciphi",
-            "LiteLLM",
-            "Relevance AI",
-            "Gretel.ai",
-            "Mostly.ai",
-            "Tonic.ai",
-            "Rockfish.ai"
+            {
+              "name": "Pinecone",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Weaviate",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Chroma",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Milvus",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Qdrant",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "MongoDB Atlas",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Supabase",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Sciphi",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "LiteLLM",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Relevance AI",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Gretel.ai",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Mostly.ai",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Tonic.ai",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Rockfish.ai",
+              "description": "",
+              "logo": ""
+            }
+          ]
+        },
+        {
+          "name": "SPECIALIZED CODING MODELS",
+          "companies": [
+            {
+              "name": "Codestral",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Claude 3.5",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "OpenAI GPT4o",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Qwen",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Mistral",
+              "description": "",
+              "logo": ""
+            }
           ]
         }
       ]
@@ -82,31 +256,111 @@
         {
           "name": "DEVELOPER EXPERIENCE",
           "companies": [
-            "GitHub Copilot X",
-            "Mutable AI",
-            "Codegen",
-            "Greptile",
-            "Sourcegraph",
-            "Bloop",
-            "Cursor",
-            "Hide.sh",
-            "Hex Magic",
-            "Julius",
-            "Flowise",
-            "LLM Stack",
-            "broadn",
-            "Fine Tuner"
+            {
+              "name": "GitHub Copilot X",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Mutable AI",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Codegen",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Greptile",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Sourcegraph",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Bloop",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Cursor",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Hide.sh",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Hex Magic",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Julius",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Flowise",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "LLM Stack",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "broadn",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Fine Tuner",
+              "description": "",
+              "logo": ""
+            }
           ]
         },
         {
           "name": "QUALITY ASSURANCE",
           "companies": [
-            "LangSmith",
-            "Galileo",
-            "Arize",
-            "Weight & Biases",
-            "AgentOps",
-            "Confident AI"
+            {
+              "name": "LangSmith",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Galileo",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Arize",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Weight & Biases",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "AgentOps",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Confident AI",
+              "description": "",
+              "logo": ""
+            }
           ]
         }
       ]
@@ -119,20 +373,56 @@
         {
           "name": "DEVELOPMENT PIPELINE",
           "companies": [
-            "Modal",
-            "Baseten",
-            "Fireworks",
-            "LangServe",
-            "Vercel",
-            "Kong",
-            "Apigee",
-            "LiteLLM"
+            {
+              "name": "Modal",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Baseten",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Fireworks",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "LangServe",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Vercel",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Kong",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Apigee",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "LiteLLM",
+              "description": "",
+              "logo": ""
+            }
           ]
         },
         {
           "name": "MONITORING & FEEDBACK",
           "companies": [
-            "Pydantic Logfire"
+            {
+              "name": "Pydantic Logfire",
+              "description": "",
+              "logo": ""
+            }
           ]
         }
       ]
@@ -145,9 +435,21 @@
         {
           "name": "RISK & COMPLIANCE",
           "companies": [
-            "Alinia",
-            "Guardrails AI",
-            "Lakera"
+            {
+              "name": "Alinia",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Guardrails AI",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Lakera",
+              "description": "",
+              "logo": ""
+            }
           ]
         },
         {
