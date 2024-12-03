@@ -257,17 +257,7 @@
           "name": "TRAINING & FINE-TUNING",
           "companies": [
             {
-              "name": "GitHub Copilot X",
-              "description": "",
-              "logo": ""
-            },
-            {
               "name": "Mutable AI",
-              "description": "",
-              "logo": ""
-            },
-            {
-              "name": "Codegen",
               "description": "",
               "logo": ""
             },
@@ -283,16 +273,6 @@
             },
             {
               "name": "Bloop",
-              "description": "",
-              "logo": ""
-            },
-            {
-              "name": "Cursor",
-              "description": "",
-              "logo": ""
-            },
-            {
-              "name": "Hide.sh",
               "description": "",
               "logo": ""
             },
@@ -337,6 +317,16 @@
               "logo": ""
             },
             {
+              "name": "GitHub Copilot X",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Cursor",
+              "description": "",
+              "logo": ""
+            },
+            {
               "name": "Codeanywhere",
               "description": "",
               "logo": ""
@@ -348,6 +338,16 @@
           "companies": [
             {
               "name": "Confident AI",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Codegen",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Hide.sh",
               "description": "",
               "logo": ""
             }
