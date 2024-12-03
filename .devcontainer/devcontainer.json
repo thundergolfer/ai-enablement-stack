@@ -8,14 +8,15 @@
                 "dbaeumer.vscode-eslint",
                 "esbenp.prettier-vscode",
                 "ritwickdey.LiveServer",
-                "github.vscode-github-actions"
+                "github.vscode-github-actions",
+                "ms-playwright.playwright"
             ]
         }
     },
 
     "forwardPorts": [5500],
 
-    "postCreateCommand": "yarn create playwright && yarn install",
+    "postCreateCommand": "yarn init -y playwright@latest && yarn playwright install",
 
     "remoteUser": "node"
 }

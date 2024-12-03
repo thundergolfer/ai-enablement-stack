@@ -9,5 +9,8 @@
   "devDependencies": {
     "@playwright/test": "^1.49.0",
     "@types/node": "^22.10.1"
-  }
+  },
+  "repository": "https://github.com/nkkko/ai-enablement-stack.git",
+  "author": "Nikola Balic <niko@daytona.io>",
+  "license": "Apache-2.0"
 }
