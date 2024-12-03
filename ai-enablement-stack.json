@@ -10,6 +10,15 @@
       "color": "#E8F5E9",
       "sections": [
         {
+          "name": "DEVELOPMENT ENVIRONMENTS",
+          "companies": [
+            "daytona",
+            "runloop",
+            "morph",
+            "e2b"
+          ]
+        },
+        {
           "name": "INFRASTRUCTURE BACKBONE",
           "companies": [
             "Nvidia",
@@ -19,15 +28,6 @@
             "AWS",
             "Azure",
             "GCP"
-          ]
-        },
-        {
-          "name": "DEVELOPMENT ENVIRONMENTS",
-          "companies": [
-            "daytona",
-            "runloop",
-            "morph",
-            "e2b"
           ]
         }
       ]
