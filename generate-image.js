@@ -4,6 +4,12 @@ const generateHTML = require('./template');
 
 async function generateImage() {
     const data = JSON.parse(fs.readFileSync('./ai-enablement-stack.json', 'utf8'));
+
+    // Reverse the layers array if it exists in your data structure
+    if (data.layers) {
+        data.layers = data.layers.reverse();
+    }
+
     const html = generateHTML(data);
 
     const browser = await playwright.chromium.launch();

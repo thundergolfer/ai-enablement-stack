@@ -11,6 +11,7 @@ const generateHTML = (data) => `
         .container {
             width: 1200px;
             margin: 0 auto;
+            padding: 0 20px 0 0;
         }
         .title {
             font-size: 24px;
@@ -39,6 +40,7 @@ const generateHTML = (data) => `
             font-size: 12px;
             color: #666;
             margin-bottom: 10px;
+            padding-top: 10px;
         }
         .companies {
             display: grid;
