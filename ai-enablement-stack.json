@@ -10,7 +10,7 @@
       "color": "#E8F5E9",
       "sections": [
         {
-          "name": "DEVELOPMENT ENVIRONMENTS",
+          "name": "WORKSPACES",
           "companies": [
             {
               "name": "daytona",
@@ -254,7 +254,7 @@
       "color": "#E3F2FD",
       "sections": [
         {
-          "name": "DEVELOPER EXPERIENCE",
+          "name": "TRAINING & FINE-TUNING",
           "companies": [
             {
               "name": "GitHub Copilot X",
@@ -329,7 +329,32 @@
           ]
         },
         {
-          "name": "QUALITY ASSURANCE",
+          "name": "HUMAN INTERFACES",
+          "companies": [
+            {
+              "name": "Confident AI",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Codeanywhere",
+              "description": "",
+              "logo": ""
+            }
+          ]
+        },
+        {
+          "name": "TOOLS",
+          "companies": [
+            {
+              "name": "Confident AI",
+              "description": "",
+              "logo": ""
+            }
+          ]
+        },
+        {
+          "name": "TESTING & QUALITY ASSURANCE",
           "companies": [
             {
               "name": "LangSmith",
@@ -367,7 +392,7 @@
     },
     {
       "number": 4,
-      "name": "Integration Layer",
+      "name": "Integration and Governance",
       "color": "#FFF3E0",
       "sections": [
         {
@@ -424,14 +449,7 @@
               "logo": ""
             }
           ]
-        }
-      ]
-    },
-    {
-      "number": 5,
-      "name": "Enterprise Governance",
-      "color": "#E1BEE7",
-      "sections": [
+        },
         {
           "name": "RISK & COMPLIANCE",
           "companies": [
@@ -455,6 +473,58 @@
         {
           "name": "SECURITY & ACCESS CONTROL",
           "companies": []
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Agent Consumer Layer",
+      "color": "#E1BEE7",
+      "sections": [
+        {
+          "name": "AUTONOMOUS AGENTS",
+          "companies": [
+            {
+              "name": "OpenHands",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Lovable",
+              "description": "",
+              "logo": ""
+            }
+          ]
+        },
+        {
+          "name": "ASSISTIVE AGENTS",
+          "companies": [
+            {
+              "name": "Copilot",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Continue.dev",
+              "description": "",
+              "logo": ""
+            }
+          ]
+        },
+        {
+          "name": "SPECIALIZED AGENTS",
+          "companies": [
+            {
+              "name": "CodeRabbit",
+              "description": "",
+              "logo": ""
+            },
+            {
+              "name": "Qodo",
+              "description": "",
+              "logo": ""
+            }
+          ]
         }
       ]
     }
