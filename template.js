@@ -9,7 +9,7 @@ const generateHTML = (data) => `
             font-family: Arial, sans-serif;
         }
         .container {
-            width: 1200px;
+            width: 1600px;
             margin: 0 auto;
             padding: 0 20px 0 0;
         }

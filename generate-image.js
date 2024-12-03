@@ -16,7 +16,7 @@ async function generateImage() {
     const page = await browser.newPage();
 
     await page.setContent(html);
-    await page.setViewportSize({ width: 1200, height: 800 });
+    await page.setViewportSize({ width: 1600, height: 1000 });
 
     // Wait for any animations/fonts to load
     await page.waitForTimeout(1000);
