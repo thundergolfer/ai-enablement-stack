@@ -1,0 +1,50 @@
+{
+    "title": {
+      "highlight": "Modern AI Stack:",
+      "text": "The Emerging Building Blocks for GenAI"
+    },
+    "layers": [
+      {
+        "number": 4,
+        "name": "Observability",
+        "color": "#FFF3E0",
+        "sections": [
+          {
+            "name": "OBSERVABILITY, EVALUATION, SECURITY",
+            "companies": [
+              "Helicone",
+              "AgentOps",
+              "Humanloop",
+              "Credal.ai",
+              "Truera",
+              "Eppo"
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "name": "Deployment",
+        "color": "#E3F2FD",
+        "sections": [
+          {
+            "name": "PROMPT MANAGEMENT",
+            "companies": [
+              "Vellum",
+              "LangSmith"
+            ]
+          },
+          {
+            "name": "AGENT TOOL FRAMEWORKS",
+            "companies": [
+              "LangChain",
+              "AutoGPT",
+              "Fixie",
+              "LlamaIndex"
+            ]
+          }
+        ]
+      }
+      // ... other layers
+    ]
+  }

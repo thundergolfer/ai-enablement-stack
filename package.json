@@ -1,0 +1,9 @@
+{
+    "name": "ai-stack-generator",
+    "version": "1.0.0",
+    "description": "Generate AI Stack diagram from JSON",
+    "main": "generate-image.js",
+    "scripts": {
+        "generate": "node generate-image.js"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "AI Enablement Stack Generator",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "dbaeumer.vscode-eslint",
+                "esbenp.prettier-vscode",
+                "ritwickdey.LiveServer",
+                "github.vscode-github-actions"
+            ]
+        }
+    },
+
+    "forwardPorts": [5500],
+
+    "postCreateCommand": "yarn create playwright && yarn install",
+
+    "remoteUser": "node"
+}
