@@ -13,9 +13,9 @@
           "name": "WORKSPACES",
           "companies": [
             {
-              "name": "daytona",
+              "name": "Daytona",
               "description": "",
-              "logo": ""
+              "logo": "./assets/daytonaio.png"
             },
             {
               "name": "runloop",

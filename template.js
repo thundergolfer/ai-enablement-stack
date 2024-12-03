@@ -54,6 +54,11 @@ const generateHTML = (data) => `
             text-align: center;
             box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
+        .company img {
+            max-width: 100%;
+            height: auto;
+            max-height: 30px;
+        }
     </style>
 </head>
 <body>
@@ -74,7 +79,12 @@ const generateHTML = (data) => `
                                 <div class="section-title">${section.name}</div>
                                 <div class="companies">
                                     ${section.companies.map(company => `
-                                        <div class="company">${company}</div>
+                                        <div class="company">
+                                            ${company.logo
+                                                ? `<img src="${company.logo}" alt="${company.name}">`
+                                                : `${company.name}`  // Changed from company to company.name
+                                            }
+                                        </div>
                                     `).join('')}
                                 </div>
                             </div>

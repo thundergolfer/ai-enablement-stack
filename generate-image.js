@@ -1,23 +1,40 @@
 const playwright = require('playwright');
 const fs = require('fs');
 const generateHTML = require('./template');
+const path = require('path');
+
+function imageToDataURL(imagePath) {
+    if (!imagePath) return '';
+    try {
+        const imageBuffer = fs.readFileSync(path.resolve(__dirname, imagePath));
+        const imageExt = path.extname(imagePath).substring(1);
+        return `data:image/${imageExt};base64,${imageBuffer.toString('base64')}`;
+    } catch (error) {
+        console.error(`Error loading image: ${imagePath}`, error);
+        return '';
+    }
+}
 
 async function generateImage() {
     // Read and parse the JSON file
     const data = JSON.parse(fs.readFileSync('./ai-enablement-stack.json', 'utf8'));
 
-    // Process the data to extract company names and ensure backwards compatibility
+    // Process the data while preserving the company object structure
     const processedData = {
         ...data,
         layers: data.layers.map(layer => ({
             ...layer,
             sections: layer.sections.map(section => ({
                 ...section,
-                // Transform company objects to just their names for the existing template
-                // or handle both string and object formats for backwards compatibility
-                companies: section.companies.map(company =>
-                    typeof company === 'string' ? company : company.name
-                )
+                companies: section.companies.map(company => {
+                    if (typeof company === 'string') {
+                        return { name: company, logo: '' };
+                    }
+                    return {
+                        ...company,
+                        logo: imageToDataURL(company.logo)
+                    };
+                })
             }))
         }))
     };
