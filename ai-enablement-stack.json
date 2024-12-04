@@ -1,12 +1,12 @@
 {
   "title": {
-    "highlight": "AI Enablement Stack:",
-    "text": "Tools and Technologies for AI Enabled Development"
+    "highlight": "AI Enablement Stack 🔮",
+    "text": "Tools and Technologies for Enabling Agentic AI Development"
   },
   "layers": [
     {
       "number": 1,
-      "name": "Foundation Layer",
+      "name": "Infrastructure Layer",
       "color": "#E8F5E9",
       "sections": [
         {
@@ -39,7 +39,36 @@
           ]
         },
         {
-          "name": "INFRASTRUCTURE BACKBONE",
+          "name": "INFERENCE PROVIDERS",
+          "companies": [
+            {
+              "name": "OpenAI",
+              "description": "",
+              "logo": "",
+              "link": ""
+            },
+            {
+              "name": "Anthropic",
+              "description": "",
+              "logo": "",
+              "link": ""
+            },
+            {
+              "name": "Mistral",
+              "description": "",
+              "logo": "",
+              "link": ""
+            },
+            {
+              "name": "Groq",
+              "description": "",
+              "logo": "",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "name": "CLOUD PROVIDERS",
           "companies": [
             {
               "name": "Nvidia",
@@ -332,33 +361,10 @@
               "description": "",
               "logo": "",
               "link": ""
-            }
-          ]
-        },
-        {
-          "name": "HUMAN INTERFACES",
-          "companies": [
-            {
-              "name": "Confident AI",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
-              "name": "GitHub Copilot X",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
-              "name": "Cursor",
-              "description": "",
-              "logo": "",
-              "link": ""
             },
             {
               "name": "Codeanywhere",
-              "description": "",
+              "description": "Provides workspaces with GPU",
               "logo": "",
               "link": ""
             }
@@ -432,7 +438,7 @@
     },
     {
       "number": 4,
-      "name": "Integration and Governance",
+      "name": "Observability and Governance Layer",
       "color": "#FFF3E0",
       "sections": [
         {
@@ -489,7 +495,7 @@
           ]
         },
         {
-          "name": "MONITORING & FEEDBACK",
+          "name": "EVALUATION & MONITORING",
           "companies": [
             {
               "name": "Pydantic Logfire",
@@ -585,6 +591,12 @@
             },
             {
               "name": "Continue.dev",
+              "description": "",
+              "logo": "",
+              "link": ""
+            },
+            {
+              "name": "Cursor",
               "description": "",
               "logo": "",
               "link": ""

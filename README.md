@@ -27,10 +27,10 @@ Welcome to our AI Enablement Stack.
 We structured the list into layers based on their functionality in the AI development ecosystem:
 
 - **Agent Consumer Layer**: Layer 5
-- **Integration and Governance**: Layer 4
+- **Observability and Governance Layer**: Layer 4
 - **Engineering Layer**: Layer 3
 - **Intelligence Layer**: Layer 2
-- **Foundation Layer**: Layer 1
+- **Infrastructure Layer**: Layer 1
 
 To contribute to this list:
 1. Fork the repository
@@ -141,6 +141,18 @@ Agent Consumer Layer - ASSISTIVE AGENTS
 ##### Links
 </details>
 
+#### [Cursor]()
+<details>
+
+##### Category
+Agent Consumer Layer - ASSISTIVE AGENTS
+
+##### Description
+- No description available
+
+##### Links
+</details>
+
 ### SPECIALIZED AGENTS
 
 #### [CodeRabbit]()
@@ -167,7 +179,7 @@ Agent Consumer Layer - SPECIALIZED AGENTS
 ##### Links
 </details>
 
-## Integration and Governance
+## Observability and Governance Layer
 
 ### DEVELOPMENT PIPELINE
 
@@ -175,7 +187,7 @@ Agent Consumer Layer - SPECIALIZED AGENTS
 <details>
 
 ##### Category
-Integration and Governance - DEVELOPMENT PIPELINE
+Observability and Governance Layer - DEVELOPMENT PIPELINE
 
 ##### Description
 - No description available
@@ -187,7 +199,7 @@ Integration and Governance - DEVELOPMENT PIPELINE
 <details>
 
 ##### Category
-Integration and Governance - DEVELOPMENT PIPELINE
+Observability and Governance Layer - DEVELOPMENT PIPELINE
 
 ##### Description
 - No description available
@@ -199,7 +211,7 @@ Integration and Governance - DEVELOPMENT PIPELINE
 <details>
 
 ##### Category
-Integration and Governance - DEVELOPMENT PIPELINE
+Observability and Governance Layer - DEVELOPMENT PIPELINE
 
 ##### Description
 - No description available
@@ -211,7 +223,7 @@ Integration and Governance - DEVELOPMENT PIPELINE
 <details>
 
 ##### Category
-Integration and Governance - DEVELOPMENT PIPELINE
+Observability and Governance Layer - DEVELOPMENT PIPELINE
 
 ##### Description
 - No description available
@@ -223,7 +235,7 @@ Integration and Governance - DEVELOPMENT PIPELINE
 <details>
 
 ##### Category
-Integration and Governance - DEVELOPMENT PIPELINE
+Observability and Governance Layer - DEVELOPMENT PIPELINE
 
 ##### Description
 - No description available
@@ -235,7 +247,7 @@ Integration and Governance - DEVELOPMENT PIPELINE
 <details>
 
 ##### Category
-Integration and Governance - DEVELOPMENT PIPELINE
+Observability and Governance Layer - DEVELOPMENT PIPELINE
 
 ##### Description
 - No description available
@@ -247,7 +259,7 @@ Integration and Governance - DEVELOPMENT PIPELINE
 <details>
 
 ##### Category
-Integration and Governance - DEVELOPMENT PIPELINE
+Observability and Governance Layer - DEVELOPMENT PIPELINE
 
 ##### Description
 - No description available
@@ -259,7 +271,7 @@ Integration and Governance - DEVELOPMENT PIPELINE
 <details>
 
 ##### Category
-Integration and Governance - DEVELOPMENT PIPELINE
+Observability and Governance Layer - DEVELOPMENT PIPELINE
 
 ##### Description
 - No description available
@@ -267,13 +279,13 @@ Integration and Governance - DEVELOPMENT PIPELINE
 ##### Links
 </details>
 
-### MONITORING & FEEDBACK
+### EVALUATION & MONITORING
 
 #### [Pydantic Logfire]()
 <details>
 
 ##### Category
-Integration and Governance - MONITORING & FEEDBACK
+Observability and Governance Layer - EVALUATION & MONITORING
 
 ##### Description
 - No description available
@@ -287,7 +299,7 @@ Integration and Governance - MONITORING & FEEDBACK
 <details>
 
 ##### Category
-Integration and Governance - RISK & COMPLIANCE
+Observability and Governance Layer - RISK & COMPLIANCE
 
 ##### Description
 - No description available
@@ -299,7 +311,7 @@ Integration and Governance - RISK & COMPLIANCE
 <details>
 
 ##### Category
-Integration and Governance - RISK & COMPLIANCE
+Observability and Governance Layer - RISK & COMPLIANCE
 
 ##### Description
 - No description available
@@ -311,7 +323,7 @@ Integration and Governance - RISK & COMPLIANCE
 <details>
 
 ##### Category
-Integration and Governance - RISK & COMPLIANCE
+Observability and Governance Layer - RISK & COMPLIANCE
 
 ##### Description
 - No description available
@@ -445,52 +457,14 @@ Engineering Layer - TRAINING & FINE-TUNING
 ##### Links
 </details>
 
-### HUMAN INTERFACES
-
-#### [Confident AI]()
-<details>
-
-##### Category
-Engineering Layer - HUMAN INTERFACES
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [GitHub Copilot X]()
-<details>
-
-##### Category
-Engineering Layer - HUMAN INTERFACES
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [Cursor]()
-<details>
-
-##### Category
-Engineering Layer - HUMAN INTERFACES
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
 #### [Codeanywhere]()
 <details>
 
 ##### Category
-Engineering Layer - HUMAN INTERFACES
+Engineering Layer - TRAINING & FINE-TUNING
 
 ##### Description
-- No description available
+Provides workspaces with GPU
 
 ##### Links
 </details>
@@ -930,7 +904,7 @@ Intelligence Layer - SPECIALIZED CODING MODELS
 ##### Links
 </details>
 
-## Foundation Layer
+## Infrastructure Layer
 
 ### WORKSPACES
 
@@ -940,7 +914,7 @@ Intelligence Layer - SPECIALIZED CODING MODELS
 ![Daytona](./assets/daytonaio.png)
 
 ##### Category
-Foundation Layer - WORKSPACES
+Infrastructure Layer - WORKSPACES
 
 ##### Description
 Daytona.io is an open-source Development Environment Manager designed to simplify the setup and management of development environments across various platforms, including local, remote, and cloud infrastructures.
@@ -953,7 +927,7 @@ Daytona.io is an open-source Development Environment Manager designed to simplif
 <details>
 
 ##### Category
-Foundation Layer - WORKSPACES
+Infrastructure Layer - WORKSPACES
 
 ##### Description
 - No description available
@@ -965,7 +939,7 @@ Foundation Layer - WORKSPACES
 <details>
 
 ##### Category
-Foundation Layer - WORKSPACES
+Infrastructure Layer - WORKSPACES
 
 ##### Description
 - No description available
@@ -977,7 +951,7 @@ Foundation Layer - WORKSPACES
 <details>
 
 ##### Category
-Foundation Layer - WORKSPACES
+Infrastructure Layer - WORKSPACES
 
 ##### Description
 - No description available
@@ -985,13 +959,63 @@ Foundation Layer - WORKSPACES
 ##### Links
 </details>
 
-### INFRASTRUCTURE BACKBONE
+### INFERENCE PROVIDERS
+
+#### [OpenAI]()
+<details>
+
+##### Category
+Infrastructure Layer - INFERENCE PROVIDERS
+
+##### Description
+- No description available
+
+##### Links
+</details>
+
+#### [Anthropic]()
+<details>
+
+##### Category
+Infrastructure Layer - INFERENCE PROVIDERS
+
+##### Description
+- No description available
+
+##### Links
+</details>
+
+#### [Mistral]()
+<details>
+
+##### Category
+Infrastructure Layer - INFERENCE PROVIDERS
+
+##### Description
+- No description available
+
+##### Links
+</details>
+
+#### [Groq]()
+<details>
+
+##### Category
+Infrastructure Layer - INFERENCE PROVIDERS
+
+##### Description
+- No description available
+
+##### Links
+</details>
+
+### CLOUD PROVIDERS
 
 #### [Nvidia]()
 <details>
 
 ##### Category
-Foundation Layer - INFRASTRUCTURE BACKBONE
+Infrastructure Layer - CLOUD PROVIDERS
 
 ##### Description
 - No description available
@@ -1003,7 +1027,7 @@ Foundation Layer - INFRASTRUCTURE BACKBONE
 <details>
 
 ##### Category
-Foundation Layer - INFRASTRUCTURE BACKBONE
+Infrastructure Layer - CLOUD PROVIDERS
 
 ##### Description
 - No description available
@@ -1015,7 +1039,7 @@ Foundation Layer - INFRASTRUCTURE BACKBONE
 <details>
 
 ##### Category
-Foundation Layer - INFRASTRUCTURE BACKBONE
+Infrastructure Layer - CLOUD PROVIDERS
 
 ##### Description
 - No description available
@@ -1027,7 +1051,7 @@ Foundation Layer - INFRASTRUCTURE BACKBONE
 <details>
 
 ##### Category
-Foundation Layer - INFRASTRUCTURE BACKBONE
+Infrastructure Layer - CLOUD PROVIDERS
 
 ##### Description
 - No description available
@@ -1039,7 +1063,7 @@ Foundation Layer - INFRASTRUCTURE BACKBONE
 <details>
 
 ##### Category
-Foundation Layer - INFRASTRUCTURE BACKBONE
+Infrastructure Layer - CLOUD PROVIDERS
 
 ##### Description
 - No description available
@@ -1051,7 +1075,7 @@ Foundation Layer - INFRASTRUCTURE BACKBONE
 <details>
 
 ##### Category
-Foundation Layer - INFRASTRUCTURE BACKBONE
+Infrastructure Layer - CLOUD PROVIDERS
 
 ##### Description
 - No description available
@@ -1063,7 +1087,7 @@ Foundation Layer - INFRASTRUCTURE BACKBONE
 <details>
 
 ##### Category
-Foundation Layer - INFRASTRUCTURE BACKBONE
+Infrastructure Layer - CLOUD PROVIDERS
 
 ##### Description
 - No description available
