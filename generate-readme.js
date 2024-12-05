@@ -1,12 +1,7 @@
 const fs = require('fs');
 
 function generateReadme(data) {
-  let readme = `<!--
-TBD:
-- Add to visual:
--->
-
-<h1 align="center">
+  let readme = `<h1 align="center">
 	🔮 AI Enablement Stack
 	<p align="center">
 		<a href="https://go.daytona.io/slack" target="_blank">
@@ -34,13 +29,17 @@ We structured the list into layers based on their functionality in the AI develo
   // Add layers description
   const reversedLayers = [...data.layers].reverse();
   reversedLayers.forEach(layer => {
-    readme += `- **${layer.name}**: Layer ${layer.number}\n`;
+    readme += `**${layer.name}**: Layer ${layer.number}\n`;
+    if (layer.description) {
+      readme += `${layer.description}\n\n`;
+    }
   });
 
-  readme += `\nTo contribute to this list:\n`;
+  readme += `## How to Contribute\n`;
+  readme += `To contribute to this list:\n`;
   readme += `1. Fork the repository\n`;
-  readme += `2. Add your tool in the appropriate category in the file ai-enablement-stack.json\n`;
-  readme += `3. Add logo under the assets folder\n\n`;
+  readme += `2. Add logo under the assets folder\n`;
+  readme += `3. Add your tool in the appropriate category in the file ai-enablement-stack.json\n`;
   readme += `4. Submit a pull request\n\n`;
 
   // Add detailed sections

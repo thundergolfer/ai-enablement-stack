@@ -1,8 +1,3 @@
-<!--
-TBD:
-- Add to visual:
--->
-
 <h1 align="center">
 	🔮 AI Enablement Stack
 	<p align="center">
@@ -26,17 +21,26 @@ TBD:
 Welcome to our AI Enablement Stack.
 We structured the list into layers based on their functionality in the AI development ecosystem:
 
-- **Agent Consumer Layer**: Layer 5
-- **Observability and Governance Layer**: Layer 4
-- **Engineering Layer**: Layer 3
-- **Intelligence Layer**: Layer 2
-- **Infrastructure Layer**: Layer 1
+**Agent Consumer Layer**: Layer 5
+The interface layer where AI agents interact with users and systems. This includes standalone autonomous agents, assistive tools that enhance human capabilities, and specialized agents built for specific tasks. It's where AI capabilities are packaged into practical, user-facing applications.
 
+**Observability and Governance Layer**: Layer 4
+The control layer for monitoring, evaluating, securing, and governing AI systems. This layer handles everything from development pipelines and performance monitoring to risk management and compliance. It ensures AI systems operate reliably and meet organizational standards.
+
+**Engineering Layer**: Layer 3
+The developer's toolkit for building AI applications. This layer provides essential resources for training models, developing applications, and ensuring quality through testing. It provides tools and methods for transforming raw AI capabilities into production-ready solutions.
+
+**Intelligence Layer**: Layer 2
+The cognitive core of AI systems. This layer contains the frameworks, knowledge engines, and specialized models that power AI applications. It manages the actual processing, decision-making, and information retrieval that makes AI systems intelligent.
+
+**Infrastructure Layer**: Layer 1
+The foundation that powers AI development and deployment. This includes development workspaces, model serving infrastructure, and cloud computing resources. It provides the essential computing backbone that supports all AI operations.
+
+## How to Contribute
 To contribute to this list:
 1. Fork the repository
-2. Add your tool in the appropriate category in the file ai-enablement-stack.json
-3. Add logo under the assets folder
-
+2. Add logo under the assets folder
+3. Add your tool in the appropriate category in the file ai-enablement-stack.json
 4. Submit a pull request
 
 ## Agent Consumer Layer
