@@ -29,7 +29,7 @@ We structured the list into layers based on their functionality in the AI develo
   // Add layers description
   const reversedLayers = [...data.layers].reverse();
   reversedLayers.forEach(layer => {
-    readme += `**${layer.name}**: Layer ${layer.number}\n`;
+    readme += `**${layer.name}**: `;
     if (layer.description) {
       readme += `${layer.description}\n\n`;
     }
