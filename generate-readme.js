@@ -2,13 +2,13 @@ const fs = require('fs');
 
 function generateReadme(data) {
   let readme = `<h1 align="center">
-	🔮 AI Enablement Stack
+	🔮 AI Enablement Stack 🔮
 	<p align="center">
 		<a href="https://go.daytona.io/slack" target="_blank">
 			<img src="https://img.shields.io/static/v1?label=Join&message=%20Slack!&color=mediumslateblue">
 		</a>
-		<a href="https://twitter.com/daytonaio" target="_blank">
-			<img src="https://img.shields.io/twitter/follow/daytonaio.svg?logo=twitter">
+		<a href="https://x.com/daytonaio" target="_blank">
+			<img src="https://img.shields.io/twitter/follow/daytonaio.svg?logo=x">
 		</a>
 	</p>
 </h1>
