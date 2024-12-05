@@ -1,1 +1,89 @@
-wip
+# Contributing to AI Enablement Stack
+
+Thank you for your interest in contributing to the AI Enablement Stack! We welcome contributions from the community to help maintain and improve this comprehensive resource for agentic AI development.
+
+> If you like the project but don't have time to contribute, there are other ways to show your support:
+> - Star the project on GitHub
+> - Tweet about it
+> - Share it in your AI development communities
+> - Reference it in your projects
+
+## Code of Conduct
+
+This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to the project maintainers.
+
+## How to Contribute
+
+### Adding a New Company/Product
+
+1. Fork the repository
+2. Add the company logo to the `assets` folder (if available)
+   - Image should be high quality and preferably in SVG, PNG, or WebP format
+   - Name the file consistently with the company/product name
+3. Add your entry to the `ai-enablement-stack.json` file in the appropriate category
+4. Submit a pull request
+
+### JSON Entry Format
+
+Each entry in the `ai-enablement-stack.json` should follow this structure:
+
+```json
+{
+  "name": "Company/Product Name",
+  "description": "Clear and short one-liner description of the product/company",
+  "logo": "./assets/logo-filename.svg",
+  "link": "https://company-website.com"
+}
+```
+
+### Categories
+
+Ensure your entry falls into one of these main layers and their respective subcategories:
+
+- Agent Consumer Layer
+  - AUTONOMOUS AGENTS
+  - ASSISTIVE AGENTS
+  - SPECIALIZED AGENTS
+- Observability and Governance Layer
+  - DEVELOPMENT PIPELINE
+  - EVALUATION & MONITORING
+  - RISK & COMPLIANCE
+  - SECURITY & ACCESS CONTROL
+- Engineering Layer
+  - TRAINING & FINE-TUNING
+  - TOOLS
+  - TESTING & QUALITY ASSURANCE
+- Intelligence Layer
+  - FRAMEWORKS
+  - KNOWLEDGE ENGINES
+  - SPECIALIZED CODING MODELS
+- Infrastructure Layer
+  - WORKSPACES
+  - INFERENCE PROVIDERS
+  - CLOUD PROVIDERS
+
+### Pull Request Process
+
+1. Ensure your PR includes only one addition/change
+2. Verify that your entry follows the format guidelines
+3. Include relevant links and documentation
+4. Add a your reasoning and brief description of your changes in the PR
+
+### Quality Guidelines
+
+- Ensure descriptions are clear, concise, and accurate
+- Verify all links are working
+- Use proper formatting and spelling
+- Include relevant technical details
+- Avoid marketing language
+
+## Need Help?
+
+If you have questions about contributing, feel free to:
+- Open an issue
+- Join our community discussions
+- Reach out on [Slack](https://go.daytona.io/slack)
+
+## License
+
+By contributing to AI Enablement Stack, you agree that your contributions will be licensed under the Apache License, Version 2.0.

@@ -14,7 +14,7 @@
   A comprehensive list of tools and technologies for enabling agentic AI development
 </h3>
 
-<h5 align="center">👉 <a href="CONTRIBUTING.md">Contribute new tool</a></h5>
+<h5 align="center">👉 <a href="CONTRIBUTING.md">Contribute New Company/Product</a></h5>
 
 <img src="./ai-enablement-stack.png" width="100%" alt="AI Enablement Stack" />
 
