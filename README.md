@@ -325,18 +325,6 @@ Observability and Governance Layer - DEVELOPMENT PIPELINE
 ##### Links
 </details>
 
-#### [LiteLLM]()
-<details>
-
-##### Category
-Observability and Governance Layer - DEVELOPMENT PIPELINE
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
 #### [Stack AI](https://www.stack-ai.com/)
 <details>
 
@@ -468,6 +456,19 @@ Observability and Governance Layer - RISK & COMPLIANCE
 </details>
 
 ### SECURITY & ACCESS CONTROL
+
+#### [LiteLLM](https://litellm.ai/)
+<details>
+
+##### Category
+Observability and Governance Layer - SECURITY & ACCESS CONTROL
+
+##### Description
+LiteLLM provides a unified API gateway for managing 100+ LLM providers with OpenAI-compatible formatting, offering features like authentication, load balancing, spend tracking, and monitoring integrations, available both as an open-source solution and enterprise service.
+
+##### Links
+- [https://litellm.ai/](https://litellm.ai/)
+</details>
 
 ## Engineering Layer
 

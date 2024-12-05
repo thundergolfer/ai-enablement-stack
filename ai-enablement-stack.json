@@ -590,12 +590,6 @@
               "link": ""
             },
             {
-              "name": "LiteLLM",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
               "name": "Stack AI",
               "description": "Stack AI provides an enterprise generative AI platform for building and deploying AI applications with a no-code interface, offering pre-built templates, workflow automation, enterprise security features (SOC2, HIPAA, GDPR), and on-premise deployment options with support for multiple AI models and data sources.",
               "logo": "",
@@ -669,7 +663,14 @@
         },
         {
           "name": "SECURITY & ACCESS CONTROL",
-          "companies": []
+          "companies": [
+            {
+              "name": "LiteLLM",
+              "description": "LiteLLM provides a unified API gateway for managing 100+ LLM providers with OpenAI-compatible formatting, offering features like authentication, load balancing, spend tracking, and monitoring integrations, available both as an open-source solution and enterprise service.",
+              "logo": "",
+              "link": "https://litellm.ai/"
+            }
+          ]
         }
       ]
     },
