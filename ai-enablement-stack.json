@@ -11,6 +11,7 @@
       "sections": [
         {
           "name": "WORKSPACES",
+          "description": "Development environments for sandboxing and building AI applications",
           "companies": [
             {
               "name": "Daytona",
@@ -40,6 +41,7 @@
         },
         {
           "name": "INFERENCE PROVIDERS",
+          "description": "Services for deploying and running AI models",
           "companies": [
             {
               "name": "OpenAI",
@@ -123,6 +125,7 @@
         },
         {
           "name": "CLOUD PROVIDERS",
+          "description": "Computing infrastructure that powers AI systems and their workspaces",
           "companies": [
             {
               "name": "Nvidia",
@@ -183,6 +186,7 @@
       "sections": [
         {
           "name": "FRAMEWORKS",
+          "description": "Core libraries and building blocks for AI application development",
           "companies": [
             {
               "name": "LangChain",
@@ -254,6 +258,7 @@
         },
         {
           "name": "KNOWLEDGE ENGINES",
+          "description": "Systems for managing and retrieving information",
           "companies": [
             {
               "name": "Pinecone",
@@ -319,6 +324,7 @@
         },
         {
           "name": "SPECIALIZED CODING MODELS",
+          "description": "AI models optimized for software development",
           "companies": [
             {
               "name": "Codestral",
@@ -361,6 +367,7 @@
       "sections": [
         {
           "name": "TRAINING & FINE-TUNING",
+          "description": "Resources for customizing and optimizing AI models",
           "companies": [
             {
               "name": "Lamini",
@@ -426,6 +433,7 @@
         },
         {
           "name": "TOOLS",
+          "description": "Development utilities, libraries and services for building AI applications",
           "companies": [
             {
               "name": "Codegen",
@@ -497,6 +505,7 @@
         },
         {
           "name": "TESTING & QUALITY ASSURANCE",
+          "description": "Systems for validating AI performance and reliability",
           "companies": [
             {
               "name": "LangSmith",
@@ -558,6 +567,7 @@
       "sections": [
         {
           "name": "DEVELOPMENT PIPELINE",
+          "description": "Tools for managing and monitoring AI application lifecycles",
           "companies": [
             {
               "name": "Portkey",
@@ -599,6 +609,7 @@
         },
         {
           "name": "EVALUATION & MONITORING",
+          "description": "Systems for tracking AI performance and behavior",
           "companies": [
             {
               "name": "Pydantic Logfire",
@@ -640,6 +651,7 @@
         },
         {
           "name": "RISK & COMPLIANCE",
+          "description": "Frameworks for ensuring responsible AI use and regulatory compliance",
           "companies": [
             {
               "name": "Alinia",
@@ -663,6 +675,7 @@
         },
         {
           "name": "SECURITY & ACCESS CONTROL",
+          "description": "Tools for protecting AI systems and managing access and user permissions",
           "companies": [
             {
               "name": "LiteLLM",
@@ -681,6 +694,7 @@
       "sections": [
         {
           "name": "AUTONOMOUS AGENTS",
+          "description": "Self-operating AI systems that can complete complex tasks independently",
           "companies": [
             {
               "name": "Devin",
@@ -746,6 +760,7 @@
         },
         {
           "name": "ASSISTIVE AGENTS",
+          "description": "AI tools that enhance human capabilities and workflow efficiency",
           "companies": [
             {
               "name": "Copilot",
@@ -775,6 +790,7 @@
         },
         {
           "name": "SPECIALIZED AGENTS",
+          "description": "Purpose-built AI agents designed for specific functions, like PR reviews and similar.",
           "companies": [
             {
               "name": "CodeRabbit",

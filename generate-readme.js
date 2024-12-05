@@ -21,8 +21,8 @@ function generateReadme(data) {
 
 <img src="./ai-enablement-stack.png" width="100%" alt="AI Enablement Stack" />
 
-Welcome to our AI Enablement Stack.
-We structured the list into layers based on their functionality in the AI development ecosystem:
+Welcome to AI Enablement Stack mapping.
+The list is structured into layers based on their functionality in the agentic AI development ecosystem:
 
 `;
 
@@ -35,8 +35,9 @@ We structured the list into layers based on their functionality in the AI develo
     }
   });
 
-  readme += `## How to Contribute\n`;
-  readme += `To contribute to this list:\n`;
+  readme += `## How to Contribute\n\n`;
+  readme += `To contribute to this list:\n\n`;
+  readme += `0. Read the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>\n`;
   readme += `1. Fork the repository\n`;
   readme += `2. Add logo under the assets folder\n`;
   readme += `3. Add your tool in the appropriate category in the file ai-enablement-stack.json\n`;
@@ -48,6 +49,9 @@ We structured the list into layers based on their functionality in the AI develo
 
     layer.sections.forEach(section => {
       readme += `### ${section.name}\n\n`;
+      if (section.description) {
+        readme += `${section.description}\n\n`;
+      }
 
       section.companies.forEach(company => {
         if (typeof company === 'string') {

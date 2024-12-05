@@ -18,8 +18,8 @@
 
 <img src="./ai-enablement-stack.png" width="100%" alt="AI Enablement Stack" />
 
-Welcome to our AI Enablement Stack.
-We structured the list into layers based on their functionality in the AI development ecosystem:
+Welcome to AI Enablement Stack mapping.
+The list is structured into layers based on their functionality in the agentic AI development ecosystem:
 
 **Agent Consumer Layer**: The interface layer where AI agents interact with users and systems. This includes standalone autonomous agents, assistive tools that enhance human capabilities, and specialized agents built for specific tasks. It's where AI capabilities are packaged into practical, user-facing applications.
 
@@ -32,7 +32,10 @@ We structured the list into layers based on their functionality in the AI develo
 **Infrastructure Layer**: The foundation that powers AI development and deployment. This includes development workspaces, model serving infrastructure, and cloud computing resources. It provides the essential computing backbone that supports all AI operations.
 
 ## How to Contribute
+
 To contribute to this list:
+
+0. Read the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>
 1. Fork the repository
 2. Add logo under the assets folder
 3. Add your tool in the appropriate category in the file ai-enablement-stack.json
@@ -41,6 +44,8 @@ To contribute to this list:
 ## Agent Consumer Layer
 
 ### AUTONOMOUS AGENTS
+
+Self-operating AI systems that can complete complex tasks independently
 
 #### [Devin](https://devin.ai/)
 <details>
@@ -171,6 +176,8 @@ Kubiya provides AI-powered teammates for operations teams, enabling automated ta
 
 ### ASSISTIVE AGENTS
 
+AI tools that enhance human capabilities and workflow efficiency
+
 #### [Copilot]()
 <details>
 
@@ -222,6 +229,8 @@ Agent Consumer Layer - ASSISTIVE AGENTS
 
 ### SPECIALIZED AGENTS
 
+Purpose-built AI agents designed for specific functions, like PR reviews and similar.
+
 #### [CodeRabbit]()
 <details>
 
@@ -262,6 +271,8 @@ Ellipsis provides AI-powered code reviews and automated bug fixes for GitHub rep
 ## Observability and Governance Layer
 
 ### DEVELOPMENT PIPELINE
+
+Tools for managing and monitoring AI application lifecycles
 
 #### [Portkey](https://portkey.ai/)
 <details>
@@ -338,6 +349,8 @@ Stack AI provides an enterprise generative AI platform for building and deployin
 </details>
 
 ### EVALUATION & MONITORING
+
+Systems for tracking AI performance and behavior
 
 #### [Pydantic Logfire]()
 <details>
@@ -418,6 +431,8 @@ WhyLabs provides a comprehensive AI Control Center for monitoring, securing, and
 
 ### RISK & COMPLIANCE
 
+Frameworks for ensuring responsible AI use and regulatory compliance
+
 #### [Alinia]()
 <details>
 
@@ -456,6 +471,8 @@ Observability and Governance Layer - RISK & COMPLIANCE
 
 ### SECURITY & ACCESS CONTROL
 
+Tools for protecting AI systems and managing access and user permissions
+
 #### [LiteLLM](https://litellm.ai/)
 <details>
 
@@ -472,6 +489,8 @@ LiteLLM provides a unified API gateway for managing 100+ LLM providers with Open
 ## Engineering Layer
 
 ### TRAINING & FINE-TUNING
+
+Resources for customizing and optimizing AI models
 
 #### [Lamini](https://lamini.ai/)
 <details>
@@ -596,6 +615,8 @@ Provides workspaces with GPU
 </details>
 
 ### TOOLS
+
+Development utilities, libraries and services for building AI applications
 
 #### [Codegen]()
 <details>
@@ -738,6 +759,8 @@ JigsawStack provides a comprehensive suite of AI APIs including web scraping, tr
 
 ### TESTING & QUALITY ASSURANCE
 
+Systems for validating AI performance and reliability
+
 #### [LangSmith]()
 <details>
 
@@ -840,6 +863,8 @@ Braintrust provides an end-to-end platform for evaluating and testing LLM applic
 ## Intelligence Layer
 
 ### FRAMEWORKS
+
+Core libraries and building blocks for AI application development
 
 #### [LangChain]()
 <details>
@@ -986,6 +1011,8 @@ CrewAI provides a comprehensive platform for building, deploying, and managing m
 
 ### KNOWLEDGE ENGINES
 
+Systems for managing and retrieving information
+
 #### [Pinecone]()
 <details>
 
@@ -1113,6 +1140,8 @@ SciPhi offers R2R, an all-in-one RAG (Retrieval Augmented Generation) solution t
 
 ### SPECIALIZED CODING MODELS
 
+AI models optimized for software development
+
 #### [Codestral]()
 <details>
 
@@ -1177,6 +1206,8 @@ Intelligence Layer - SPECIALIZED CODING MODELS
 
 ### WORKSPACES
 
+Development environments for sandboxing and building AI applications
+
 #### [Daytona](https://daytona.io/)
 <details>
 
@@ -1234,6 +1265,8 @@ Modal offers a serverless cloud platform for AI and ML applications that enables
 </details>
 
 ### INFERENCE PROVIDERS
+
+Services for deploying and running AI models
 
 #### [OpenAI](https://openai.com/)
 <details>
@@ -1408,6 +1441,8 @@ BentoML provides an open-source unified inference platform that enables organiza
 </details>
 
 ### CLOUD PROVIDERS
+
+Computing infrastructure that powers AI systems and their workspaces
 
 #### [Nvidia]()
 <details>
