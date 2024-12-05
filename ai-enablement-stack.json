@@ -19,22 +19,28 @@
               "link": "https://daytona.io/"
             },
             {
-              "name": "runloop",
-              "description": "",
+              "name": "RunloopAI",
+              "description": "Runloop provides a secure, high-performance infrastructure platform that enables developers to build, scale, and deploy AI-powered coding solutions with seamless integration and real-time monitoring capabilities.",
               "logo": "",
-              "link": ""
+              "link": "https://www.runloop.ai/"
             },
             {
-              "name": "morph",
-              "description": "",
+              "name": "E2B",
+              "description": "E2B provides an open-source runtime platform that enables developers to securely execute AI-generated code in cloud sandboxes, supporting multiple languages and frameworks for AI-powered development use cases.",
               "logo": "",
-              "link": ""
+              "link": "https://e2b.dev/"
             },
             {
-              "name": "e2b",
-              "description": "",
-              "logo": "",
-              "link": ""
+              "name": "Letta",
+              "description": "Letta provides an agent development platform with advanced memory management capabilities for LLMs, enabling developers to build, deploy, and scale production-ready AI agents with transparent reasoning and model-agnostic flexibility.",
+              "logo": "./assets/letta.png",
+              "link": "https://www.letta.com/"
+            },
+            {
+              "name": "Modal",
+              "description": "Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.",
+              "logo": "./assets/modal.svg",
+              "link": "https://modal.com/"
             }
           ]
         },
@@ -43,9 +49,9 @@
           "companies": [
             {
               "name": "OpenAI",
-              "description": "",
-              "logo": "",
-              "link": ""
+              "description": "OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, and Sora, focusing on creating safe AGI that benefits humanity through products spanning language models, image generation, and video creation while maintaining leadership in AI research and safety.",
+              "logo": "./assets/openai.png",
+              "link": "https://openai.com/"
             },
             {
               "name": "Anthropic",
@@ -64,6 +70,24 @@
               "description": "",
               "logo": "",
               "link": ""
+            },
+            {
+              "name": "AI21labs",
+              "description": "AI21 Labs delivers enterprise-grade generative AI solutions through its Jamba foundation model and RAG engine, enabling organizations to build secure, production-ready AI applications with flexible deployment options and dedicated integration support.",
+              "logo": "./assets/ai21labs.svg",
+              "link": "https://www.ai21.com/"
+            },
+            {
+              "name": "Cohere",
+              "description": "Cohere provides an enterprise AI platform featuring advanced language models, embedding, and retrieval capabilities that enables businesses to build production-ready AI applications with flexible deployment options across cloud or on-premises environments.",
+              "logo": "./assets/cohere.svg",
+              "link": "https://cohere.com/"
+            },
+            {
+              "name": "Cartesia",
+              "description": "Cartesia AI delivers real-time multimodal intelligence through state space models that enable fast, private, and offline inference capabilities across devices, offering streaming-first solutions with constant memory usage and low latency.",
+              "logo": "",
+              "link": "https://www.cartesia.ai/"
             }
           ]
         },
@@ -214,13 +238,13 @@
               "link": ""
             },
             {
-              "name": "Sciphi",
-              "description": "",
-              "logo": "",
-              "link": ""
+              "name": "Contextual AI",
+              "description": "Contextual AI provides enterprise-grade RAG (Retrieval-Augmented Generation) solutions that enable organizations in regulated industries to build and deploy production-ready AI applications for searching and analyzing large volumes of business-critical documents.",
+              "logo": "./assets/contextualai.webp",
+              "link": "https://contextual.ai/"
             },
             {
-              "name": "LiteLLM",
+              "name": "Sciphi",
               "description": "",
               "logo": "",
               "link": ""
@@ -390,6 +414,12 @@
               "description": "",
               "logo": "",
               "link": ""
+            },
+            {
+              "name": "LiteLLM",
+              "description": "",
+              "logo": "",
+              "link": ""
             }
           ]
         },
@@ -543,6 +573,12 @@
           "name": "AUTONOMOUS AGENTS",
           "companies": [
             {
+              "name": "Devin",
+              "description": "Cognition develops Devin, the world's first AI software engineer, designed to work as a collaborative teammate that helps engineering teams scale their capabilities through parallel task execution and comprehensive development support.",
+              "logo": "./assets/cognition.png",
+              "link": "https://devin.ai/"
+            },
+            {
               "name": "OpenHands",
               "description": "",
               "logo": "",
@@ -576,6 +612,12 @@
               "name": "Superagent",
               "description": "",
               "logo": "",
+              "link": ""
+            },
+            {
+              "name": "Morph",
+              "description": "Morph AI delivers an enterprise-grade developer assistant that automates engineering tasks across multiple languages and frameworks, enabling developers to focus on high-impact work while ensuring code quality through automated testing and compliance.",
+              "logo": "./assets/morph.svg",
               "link": ""
             }
           ]

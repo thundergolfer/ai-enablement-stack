@@ -43,6 +43,21 @@ To contribute to this list:
 
 ### AUTONOMOUS AGENTS
 
+#### [Devin](https://devin.ai/)
+<details>
+
+![Devin](./assets/cognition.png)
+
+##### Category
+Agent Consumer Layer - AUTONOMOUS AGENTS
+
+##### Description
+Cognition develops Devin, the world's first AI software engineer, designed to work as a collaborative teammate that helps engineering teams scale their capabilities through parallel task execution and comprehensive development support.
+
+##### Links
+- [https://devin.ai/](https://devin.ai/)
+</details>
+
 #### [OpenHands]()
 <details>
 
@@ -111,6 +126,20 @@ Agent Consumer Layer - AUTONOMOUS AGENTS
 
 ##### Description
 - No description available
+
+##### Links
+</details>
+
+#### [Morph]()
+<details>
+
+![Morph](./assets/morph.svg)
+
+##### Category
+Agent Consumer Layer - AUTONOMOUS AGENTS
+
+##### Description
+Morph AI delivers an enterprise-grade developer assistant that automates engineering tasks across multiple languages and frameworks, enabling developers to focus on high-impact work while ensuring code quality through automated testing and compliance.
 
 ##### Links
 </details>
@@ -507,6 +536,18 @@ Engineering Layer - TOOLS
 ##### Links
 </details>
 
+#### [LiteLLM]()
+<details>
+
+##### Category
+Engineering Layer - TOOLS
+
+##### Description
+- No description available
+
+##### Links
+</details>
+
 ### TESTING & QUALITY ASSURANCE
 
 #### [LangSmith]()
@@ -758,19 +799,22 @@ Intelligence Layer - KNOWLEDGE ENGINES
 ##### Links
 </details>
 
-#### [Sciphi]()
+#### [Contextual AI](https://contextual.ai/)
 <details>
+
+![Contextual AI](./assets/contextualai.webp)
 
 ##### Category
 Intelligence Layer - KNOWLEDGE ENGINES
 
 ##### Description
-- No description available
+Contextual AI provides enterprise-grade RAG (Retrieval-Augmented Generation) solutions that enable organizations in regulated industries to build and deploy production-ready AI applications for searching and analyzing large volumes of business-critical documents.
 
 ##### Links
+- [https://contextual.ai/](https://contextual.ai/)
 </details>
 
-#### [LiteLLM]()
+#### [Sciphi]()
 <details>
 
 ##### Category
@@ -923,54 +967,77 @@ Daytona.io is an open-source Development Environment Manager designed to simplif
 - [https://daytona.io/](https://daytona.io/)
 </details>
 
-#### [runloop]()
+#### [RunloopAI](https://www.runloop.ai/)
 <details>
 
 ##### Category
 Infrastructure Layer - WORKSPACES
 
 ##### Description
-- No description available
+Runloop provides a secure, high-performance infrastructure platform that enables developers to build, scale, and deploy AI-powered coding solutions with seamless integration and real-time monitoring capabilities.
 
 ##### Links
+- [https://www.runloop.ai/](https://www.runloop.ai/)
 </details>
 
-#### [morph]()
+#### [E2B](https://e2b.dev/)
 <details>
 
 ##### Category
 Infrastructure Layer - WORKSPACES
 
 ##### Description
-- No description available
+E2B provides an open-source runtime platform that enables developers to securely execute AI-generated code in cloud sandboxes, supporting multiple languages and frameworks for AI-powered development use cases.
 
 ##### Links
+- [https://e2b.dev/](https://e2b.dev/)
 </details>
 
-#### [e2b]()
+#### [Letta](https://www.letta.com/)
 <details>
+
+![Letta](./assets/letta.png)
 
 ##### Category
 Infrastructure Layer - WORKSPACES
 
 ##### Description
-- No description available
+Letta provides an agent development platform with advanced memory management capabilities for LLMs, enabling developers to build, deploy, and scale production-ready AI agents with transparent reasoning and model-agnostic flexibility.
 
 ##### Links
+- [https://www.letta.com/](https://www.letta.com/)
+</details>
+
+#### [Modal](https://modal.com/)
+<details>
+
+![Modal](./assets/modal.svg)
+
+##### Category
+Infrastructure Layer - WORKSPACES
+
+##### Description
+Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.
+
+##### Links
+- [https://modal.com/](https://modal.com/)
 </details>
 
 ### INFERENCE PROVIDERS
 
-#### [OpenAI]()
+#### [OpenAI](https://openai.com/)
 <details>
+
+![OpenAI](./assets/openai.png)
 
 ##### Category
 Infrastructure Layer - INFERENCE PROVIDERS
 
 ##### Description
-- No description available
+OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, and Sora, focusing on creating safe AGI that benefits humanity through products spanning language models, image generation, and video creation while maintaining leadership in AI research and safety.
 
 ##### Links
+- [https://openai.com/](https://openai.com/)
 </details>
 
 #### [Anthropic]()
@@ -1007,6 +1074,49 @@ Infrastructure Layer - INFERENCE PROVIDERS
 - No description available
 
 ##### Links
+</details>
+
+#### [AI21labs](https://www.ai21.com/)
+<details>
+
+![AI21labs](./assets/ai21labs.svg)
+
+##### Category
+Infrastructure Layer - INFERENCE PROVIDERS
+
+##### Description
+AI21 Labs delivers enterprise-grade generative AI solutions through its Jamba foundation model and RAG engine, enabling organizations to build secure, production-ready AI applications with flexible deployment options and dedicated integration support.
+
+##### Links
+- [https://www.ai21.com/](https://www.ai21.com/)
+</details>
+
+#### [Cohere](https://cohere.com/)
+<details>
+
+![Cohere](./assets/cohere.svg)
+
+##### Category
+Infrastructure Layer - INFERENCE PROVIDERS
+
+##### Description
+Cohere provides an enterprise AI platform featuring advanced language models, embedding, and retrieval capabilities that enables businesses to build production-ready AI applications with flexible deployment options across cloud or on-premises environments.
+
+##### Links
+- [https://cohere.com/](https://cohere.com/)
+</details>
+
+#### [Cartesia](https://www.cartesia.ai/)
+<details>
+
+##### Category
+Infrastructure Layer - INFERENCE PROVIDERS
+
+##### Description
+Cartesia AI delivers real-time multimodal intelligence through state space models that enable fast, private, and offline inference capabilities across devices, offering streaming-first solutions with constant memory usage and low latency.
+
+##### Links
+- [https://www.cartesia.ai/](https://www.cartesia.ai/)
 </details>
 
 ### CLOUD PROVIDERS
