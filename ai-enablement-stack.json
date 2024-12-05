@@ -80,6 +80,12 @@
               "link": "https://cohere.com/"
             },
             {
+              "name": "Hugging Face",
+              "description": "Hugging Face provides fully managed inference infrastructure for ML models with support for multiple hardware options (CPU, GPU, TPU) across various cloud providers, offering autoscaling and dedicated deployments with enterprise-grade security.",
+              "logo": "./assets/huggingface.png",
+              "link": "https://huggingface.co/"
+            },
+            {
               "name": "Cartesia",
               "description": "Cartesia AI delivers real-time multimodal intelligence through state space models that enable fast, private, and offline inference capabilities across devices, offering streaming-first solutions with constant memory usage and low latency.",
               "logo": "",
@@ -104,10 +110,10 @@
               "link": "https://cloud.google.com/vertex-ai"
             },
             {
-              "name": "Amazon SageMaker",
-              "description": "Facilitates easy and scalable deployment of machine learning models, including LLMs, with managed environments for real-time and batch processing.",
+              "name": "Amazon Nova",
+              "description": "Amazon Nova provides state-of-the-art foundation models through Amazon Bedrock, offering multiple model variants (Micro, Lite, Pro, Canvas, Reel) for text, image, and video processing with industry-leading price-performance, fine-tuning capabilities, and enterprise-grade features.",
               "logo": "",
-              "link": "https://aws.amazon.com/sagemaker/inference/"
+              "link": "https://aws.amazon.com/ai/generative-ai/nova/"
             },
             {
               "name": "Replicate",
@@ -646,6 +652,12 @@
               "description": "WhyLabs provides a comprehensive AI Control Center for monitoring, securing, and optimizing AI applications, offering real-time LLM monitoring, security guardrails, and privacy-preserving observability with SOC 2 Type 2 compliance and support for multiple modalities.",
               "logo": "",
               "link": "https://whylabs.ai/"
+            },
+            {
+              "name": "OpenLLMetry",
+              "description": "OpenLLMetry provides an open-source observability solution for LLMs built on OpenTelemetry standards, offering easy integration with major observability platforms like Datadog, New Relic, and Grafana, requiring just two lines of code to implement.",
+              "logo": "",
+              "link": "https://openllmetry.org/"
             }
           ]
         },
@@ -785,6 +797,12 @@
               "description": "",
               "logo": "",
               "link": ""
+            },
+            {
+              "name": "Pieces",
+              "description": "Pieces provides an on-device AI companion that captures and maintains long-term memory across the developer workflow, offering snippet management, multi-LLM support, and context-aware assistance while processing all data locally for enhanced security and privacy.",
+              "logo": "",
+              "link": "https://pieces.app/"
             }
           ]
         },

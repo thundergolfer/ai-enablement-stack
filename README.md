@@ -227,6 +227,19 @@ Agent Consumer Layer - ASSISTIVE AGENTS
 ##### Links
 </details>
 
+#### [Pieces](https://pieces.app/)
+<details>
+
+##### Category
+Agent Consumer Layer - ASSISTIVE AGENTS
+
+##### Description
+Pieces provides an on-device AI companion that captures and maintains long-term memory across the developer workflow, offering snippet management, multi-LLM support, and context-aware assistance while processing all data locally for enhanced security and privacy.
+
+##### Links
+- [https://pieces.app/](https://pieces.app/)
+</details>
+
 ### SPECIALIZED AGENTS
 
 Purpose-built AI agents designed for specific functions, like PR reviews and similar.
@@ -427,6 +440,19 @@ WhyLabs provides a comprehensive AI Control Center for monitoring, securing, and
 
 ##### Links
 - [https://whylabs.ai/](https://whylabs.ai/)
+</details>
+
+#### [OpenLLMetry](https://openllmetry.org/)
+<details>
+
+##### Category
+Observability and Governance Layer - EVALUATION & MONITORING
+
+##### Description
+OpenLLMetry provides an open-source observability solution for LLMs built on OpenTelemetry standards, offering easy integration with major observability platforms like Datadog, New Relic, and Grafana, requiring just two lines of code to implement.
+
+##### Links
+- [https://openllmetry.org/](https://openllmetry.org/)
 </details>
 
 ### RISK & COMPLIANCE
@@ -1349,6 +1375,21 @@ Cohere provides an enterprise AI platform featuring advanced language models, em
 - [https://cohere.com/](https://cohere.com/)
 </details>
 
+#### [Hugging Face](https://huggingface.co/)
+<details>
+
+![Hugging Face](./assets/huggingface.png)
+
+##### Category
+Infrastructure Layer - INFERENCE PROVIDERS
+
+##### Description
+Hugging Face provides fully managed inference infrastructure for ML models with support for multiple hardware options (CPU, GPU, TPU) across various cloud providers, offering autoscaling and dedicated deployments with enterprise-grade security.
+
+##### Links
+- [https://huggingface.co/](https://huggingface.co/)
+</details>
+
 #### [Cartesia](https://www.cartesia.ai/)
 <details>
 
@@ -1401,17 +1442,17 @@ End-to-end platform for deploying and managing AI models, including LLMs, with i
 - [https://cloud.google.com/vertex-ai](https://cloud.google.com/vertex-ai)
 </details>
 
-#### [Amazon SageMaker](https://aws.amazon.com/sagemaker/inference/)
+#### [Amazon Nova](https://aws.amazon.com/ai/generative-ai/nova/)
 <details>
 
 ##### Category
 Infrastructure Layer - INFERENCE PROVIDERS
 
 ##### Description
-Facilitates easy and scalable deployment of machine learning models, including LLMs, with managed environments for real-time and batch processing.
+Amazon Nova provides state-of-the-art foundation models through Amazon Bedrock, offering multiple model variants (Micro, Lite, Pro, Canvas, Reel) for text, image, and video processing with industry-leading price-performance, fine-tuning capabilities, and enterprise-grade features.
 
 ##### Links
-- [https://aws.amazon.com/sagemaker/inference/](https://aws.amazon.com/sagemaker/inference/)
+- [https://aws.amazon.com/ai/generative-ai/nova/](https://aws.amazon.com/ai/generative-ai/nova/)
 </details>
 
 #### [Replicate](https://replicate.com/)
