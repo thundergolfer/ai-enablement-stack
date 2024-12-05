@@ -1,4 +1,11 @@
-const generateHTML = (data) => `
+const generateHTML = (data) => {
+    const generationDate = new Date().toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+    });
+
+    return `
 <!DOCTYPE html>
 <html>
 <head>
@@ -128,6 +135,13 @@ const generateHTML = (data) => `
             padding: 16px;
             border-radius: 8px;
         }
+
+        .generation-date {
+            font-family: "Inter", sans-serif;
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.5);
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
@@ -160,9 +174,11 @@ const generateHTML = (data) => `
                 </div>
             </div>
         `).join('')}
+        <div class="generation-date">Generated on ${generationDate}</div>
     </div>
 </body>
 </html>
 `;
+};
 
 module.exports = generateHTML;
