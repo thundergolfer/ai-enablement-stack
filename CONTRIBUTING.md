@@ -62,12 +62,22 @@ Ensure your entry falls into one of these main layers and their respective subca
   - INFERENCE PROVIDERS
   - CLOUD PROVIDERS
 
-### Pull Request Process
+## Pull Request Process
 
 1. Ensure your PR includes only one addition/change
-2. Verify that your entry follows the format guidelines
-3. Include relevant links and documentation
-4. Add a your reasoning and brief description of your changes in the PR
+2. Update the README.md if necessary
+3. Verify that your entry follows the format guidelines
+4. Include relevant links and documentation
+5. Add a brief description of your changes in the PR
+6. Sign off on your commits to certify the Developer Certificate of Origin (DCO)
+
+### Developer Certificate of Origin (DCO)
+
+We require all contributions to be signed off, indicating that you certify the origin of the code. This is done using the `-s` flag when committing:
+
+```bash
+git commit -s -m "Add [Company/Product] to [Category]"
+```
 
 ### Quality Guidelines
 
