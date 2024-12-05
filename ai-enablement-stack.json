@@ -539,6 +539,12 @@
               "description": "AI agent specifically designed for software testing and quality assurance, automating the testing process and providing comprehensive test coverage.",
               "logo": "",
               "link": "https://contextqa.com/"
+            },
+            {
+              "name": "Braintrust",
+              "description": "Braintrust provides an end-to-end platform for evaluating and testing LLM applications, offering features like prompt testing, custom scoring, dataset management, real-time tracing, and production monitoring, with support for both UI-based and SDK-driven workflows.",
+              "logo": "",
+              "link": "https://www.braintrustdata.com/"
             }
 
           ]
@@ -588,6 +594,12 @@
               "description": "",
               "logo": "",
               "link": ""
+            },
+            {
+              "name": "Stack AI",
+              "description": "Stack AI provides an enterprise generative AI platform for building and deploying AI applications with a no-code interface, offering pre-built templates, workflow automation, enterprise security features (SOC2, HIPAA, GDPR), and on-premise deployment options with support for multiple AI models and data sources.",
+              "logo": "",
+              "link": "https://www.stack-ai.com/"
             }
           ]
         },
@@ -605,6 +617,30 @@
               "description": "Cleanlab provides an AI-powered data curation platform that helps organizations improve their GenAI and ML solutions by automatically detecting and fixing data quality issues, reducing hallucinations, and enabling trustworthy AI deployment while offering VPC integration for enhanced security.",
               "logo": "",
               "link": "https://cleanlab.ai/"
+            },
+            {
+              "name": "Patronus",
+              "description": "Patronus provides a comprehensive AI evaluation platform built on industry-leading research, offering features for testing hallucinations, security risks, alignment, and performance monitoring, with both pre-built evaluators and custom evaluation capabilities for RAG systems and AI agents.",
+              "logo": "",
+              "link": "https://www.patronus.ai/"
+            },
+            {
+              "name": "Log10",
+              "description": "Log10 provides an end-to-end AI accuracy platform for evaluating and monitoring LLM applications in high-stakes industries, featuring expert-driven evaluation, automated feedback systems, real-time monitoring, and continuous improvement workflows with built-in security and compliance features.",
+              "logo": "",
+              "link": "https://www.log10.io/"
+            },
+            {
+              "name": "Traceloop",
+              "description": "Traceloop provides open-source LLM monitoring through OpenLLMetry, offering real-time hallucination detection, output quality monitoring, and prompt debugging capabilities across 22+ LLM providers with zero-intrusion integration.",
+              "logo": "",
+              "link": "https://traceloop.com/"
+            },
+            {
+              "name": "WhyLabs",
+              "description": "WhyLabs provides a comprehensive AI Control Center for monitoring, securing, and optimizing AI applications, offering real-time LLM monitoring, security guardrails, and privacy-preserving observability with SOC 2 Type 2 compliance and support for multiple modalities.",
+              "logo": "",
+              "link": "https://whylabs.ai/"
             }
           ]
         },

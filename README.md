@@ -337,6 +337,19 @@ Observability and Governance Layer - DEVELOPMENT PIPELINE
 ##### Links
 </details>
 
+#### [Stack AI](https://www.stack-ai.com/)
+<details>
+
+##### Category
+Observability and Governance Layer - DEVELOPMENT PIPELINE
+
+##### Description
+Stack AI provides an enterprise generative AI platform for building and deploying AI applications with a no-code interface, offering pre-built templates, workflow automation, enterprise security features (SOC2, HIPAA, GDPR), and on-premise deployment options with support for multiple AI models and data sources.
+
+##### Links
+- [https://www.stack-ai.com/](https://www.stack-ai.com/)
+</details>
+
 ### EVALUATION & MONITORING
 
 #### [Pydantic Logfire]()
@@ -362,6 +375,58 @@ Cleanlab provides an AI-powered data curation platform that helps organizations 
 
 ##### Links
 - [https://cleanlab.ai/](https://cleanlab.ai/)
+</details>
+
+#### [Patronus](https://www.patronus.ai/)
+<details>
+
+##### Category
+Observability and Governance Layer - EVALUATION & MONITORING
+
+##### Description
+Patronus provides a comprehensive AI evaluation platform built on industry-leading research, offering features for testing hallucinations, security risks, alignment, and performance monitoring, with both pre-built evaluators and custom evaluation capabilities for RAG systems and AI agents.
+
+##### Links
+- [https://www.patronus.ai/](https://www.patronus.ai/)
+</details>
+
+#### [Log10](https://www.log10.io/)
+<details>
+
+##### Category
+Observability and Governance Layer - EVALUATION & MONITORING
+
+##### Description
+Log10 provides an end-to-end AI accuracy platform for evaluating and monitoring LLM applications in high-stakes industries, featuring expert-driven evaluation, automated feedback systems, real-time monitoring, and continuous improvement workflows with built-in security and compliance features.
+
+##### Links
+- [https://www.log10.io/](https://www.log10.io/)
+</details>
+
+#### [Traceloop](https://traceloop.com/)
+<details>
+
+##### Category
+Observability and Governance Layer - EVALUATION & MONITORING
+
+##### Description
+Traceloop provides open-source LLM monitoring through OpenLLMetry, offering real-time hallucination detection, output quality monitoring, and prompt debugging capabilities across 22+ LLM providers with zero-intrusion integration.
+
+##### Links
+- [https://traceloop.com/](https://traceloop.com/)
+</details>
+
+#### [WhyLabs](https://whylabs.ai/)
+<details>
+
+##### Category
+Observability and Governance Layer - EVALUATION & MONITORING
+
+##### Description
+WhyLabs provides a comprehensive AI Control Center for monitoring, securing, and optimizing AI applications, offering real-time LLM monitoring, security guardrails, and privacy-preserving observability with SOC 2 Type 2 compliance and support for multiple modalities.
+
+##### Links
+- [https://whylabs.ai/](https://whylabs.ai/)
 </details>
 
 ### RISK & COMPLIANCE
@@ -757,6 +822,19 @@ AI agent specifically designed for software testing and quality assurance, autom
 
 ##### Links
 - [https://contextqa.com/](https://contextqa.com/)
+</details>
+
+#### [Braintrust](https://www.braintrustdata.com/)
+<details>
+
+##### Category
+Engineering Layer - TESTING & QUALITY ASSURANCE
+
+##### Description
+Braintrust provides an end-to-end platform for evaluating and testing LLM applications, offering features like prompt testing, custom scoring, dataset management, real-time tracing, and production monitoring, with support for both UI-based and SDK-driven workflows.
+
+##### Links
+- [https://www.braintrustdata.com/](https://www.braintrustdata.com/)
 </details>
 
 ## Intelligence Layer
