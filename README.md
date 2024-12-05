@@ -16,7 +16,7 @@ TBD:
 </h1>
 
 <h3 align="center">
-  A comprehensive list of tools and technologies for AI Enabled Development
+  A comprehensive list of tools and technologies for enabling agentic AI development
 </h3>
 
 <h5 align="center">👉 <a href="CONTRIBUTING.md">Contribute new tool</a></h5>
