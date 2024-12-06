@@ -16,7 +16,7 @@
 
     "forwardPorts": [5500],
 
-    "postCreateCommand": "yarn init -y playwright@latest && yarn playwright install",
+    "postCreateCommand": "./install-playwright.sh",
 
     "remoteUser": "node"
 }
