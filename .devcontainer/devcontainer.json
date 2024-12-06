@@ -16,7 +16,7 @@
 
     "forwardPorts": [5500],
 
-    "postCreateCommand": "./install-playwright.sh",
+    "postCreateCommand": "chmod +x .devcontainer/init-playwright.sh && .devcontainer/init-playwright.sh",
 
     "remoteUser": "node"
 }
