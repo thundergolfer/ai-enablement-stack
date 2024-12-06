@@ -1,9 +1,6 @@
 {
     "name": "AI Enablement Stack Generator",
-
-    "build": {
-        "dockerfile": "Dockerfile"
-    },
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:20-bullseye",
 
     "customizations": {
         "vscode": {
