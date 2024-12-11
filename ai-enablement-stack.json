@@ -799,6 +799,12 @@
               "link": ""
             },
             {
+              "name": "Tabnine",
+              "description": "Tabnine provides a privacy-focused AI code assistant that offers personalized code generation, testing, and review capabilities, featuring bespoke models trained on team codebases, zero data retention, and enterprise-grade security with support for on-premises deployment.",
+              "logo": "",
+              "link": "https://www.tabnine.com/"
+            },
+            {
               "name": "Pieces",
               "description": "Pieces provides an on-device AI companion that captures and maintains long-term memory across the developer workflow, offering snippet management, multi-LLM support, and context-aware assistance while processing all data locally for enhanced security and privacy.",
               "logo": "",
