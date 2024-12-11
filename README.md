@@ -227,6 +227,19 @@ Agent Consumer Layer - ASSISTIVE AGENTS
 ##### Links
 </details>
 
+#### [Tabnine](https://www.tabnine.com/)
+<details>
+
+##### Category
+Agent Consumer Layer - ASSISTIVE AGENTS
+
+##### Description
+Tabnine provides a privacy-focused AI code assistant that offers personalized code generation, testing, and review capabilities, featuring bespoke models trained on team codebases, zero data retention, and enterprise-grade security with support for on-premises deployment.
+
+##### Links
+- [https://www.tabnine.com/](https://www.tabnine.com/)
+</details>
+
 #### [Pieces](https://pieces.app/)
 <details>
 
@@ -279,6 +292,21 @@ Ellipsis provides AI-powered code reviews and automated bug fixes for GitHub rep
 
 ##### Links
 - [https://www.ellipsis.dev/](https://www.ellipsis.dev/)
+</details>
+
+#### [Codeflash](https://www.codeflash.ai/)
+<details>
+
+![Codeflash](./assets/codeflash.png)
+
+##### Category
+Agent Consumer Layer - SPECIALIZED AGENTS
+
+##### Description
+Codeflash is a CI tool that keeps your Python code performant by using AI to automatically find the most optimized version of your code through benchmarking and verifying the new code for correctness.
+
+##### Links
+- [https://www.codeflash.ai/](https://www.codeflash.ai/)
 </details>
 
 ## Observability and Governance Layer
