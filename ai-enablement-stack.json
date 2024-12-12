@@ -839,6 +839,12 @@
               "description": "Codeflash is a CI tool that keeps your Python code performant by using AI to automatically find the most optimized version of your code through benchmarking and verifying the new code for correctness.",
               "logo": "./assets/codeflash.png",
               "link": "https://www.codeflash.ai/"
+            },
+            {
+              "name": "Superflex",
+              "description": "Superflex is a VSCode Extension that builds features from Figma designs, images and text prompts, while maintaining your design standards, code style, and reusing your UI components.",
+              "logo": "./assets/superflex.svg",
+              "link": "https://superflex.ai/"
             }
           ]
         }
