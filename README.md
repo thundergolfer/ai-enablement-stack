@@ -1196,64 +1196,56 @@ SciPhi offers R2R, an all-in-one RAG (Retrieval Augmented Generation) solution t
 
 AI models optimized for software development
 
-#### [Codestral]()
+#### [Codestral](https://mistral.ai/news/codestral/)
 <details>
 
 ##### Category
 Intelligence Layer - SPECIALIZED CODING MODELS
 
 ##### Description
-- No description available
+Codestral is Mistral AI's specialized 22B code generation model supporting 80+ programming languages, featuring a 32k context window, fill-in-the-middle capabilities, and state-of-the-art performance on coding benchmarks, available through API endpoints and IDE integrations.
 
 ##### Links
+- [https://mistral.ai/news/codestral/](https://mistral.ai/news/codestral/)
 </details>
 
-#### [Claude 3.5]()
+#### [Poolside](https://poolside.ai/)
 <details>
 
 ##### Category
 Intelligence Layer - SPECIALIZED CODING MODELS
 
 ##### Description
-- No description available
+Poolside provides a specialized AI foundation model (Malibu) built specifically for software engineering, featuring Reinforcement Learning from Code Execution Feedback, custom fine-tuning on company codebases, and a fully integrated development assistant with IDE support, all deployable within private infrastructure.
 
 ##### Links
+- [https://poolside.ai/](https://poolside.ai/)
 </details>
 
-#### [OpenAI GPT4o]()
+#### [Claude 3.5 Sonnet](https://www.anthropic.com/claude)
 <details>
 
 ##### Category
 Intelligence Layer - SPECIALIZED CODING MODELS
 
 ##### Description
-- No description available
+Claude 3.5 Sonnet is Anthropic's frontier AI model offering state-of-the-art performance in reasoning, coding, and vision tasks, featuring a 200K token context window, computer use capabilities, and enhanced safety measures, available through multiple platforms including Claude.ai and major cloud providers.
 
 ##### Links
+- [https://www.anthropic.com/claude](https://www.anthropic.com/claude)
 </details>
 
-#### [Qwen]()
+#### [Qwen2.5-Coder-32B](https://huggingface.co/Qwen/Qwen2.5-Coder-32B)
 <details>
 
 ##### Category
 Intelligence Layer - SPECIALIZED CODING MODELS
 
 ##### Description
-- No description available
+Qwen2.5-Coder is a specialized code-focused model matching GPT-4's coding capabilities, featuring 32B parameters, 128K token context window, support for 80+ programming languages, and state-of-the-art performance on coding benchmarks, available as an open-source Apache 2.0 licensed model.
 
 ##### Links
-</details>
-
-#### [Mistral]()
-<details>
-
-##### Category
-Intelligence Layer - SPECIALIZED CODING MODELS
-
-##### Description
-- No description available
-
-##### Links
+- [https://huggingface.co/Qwen/Qwen2.5-Coder-32B](https://huggingface.co/Qwen/Qwen2.5-Coder-32B)
 </details>
 
 ## Infrastructure Layer
@@ -1337,40 +1329,43 @@ OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, an
 - [https://openai.com/](https://openai.com/)
 </details>
 
-#### [Anthropic]()
+#### [Anthropic](https://www.anthropic.com/)
 <details>
 
 ##### Category
 Infrastructure Layer - INFERENCE PROVIDERS
 
 ##### Description
-- No description available
+Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.
 
 ##### Links
+- [https://www.anthropic.com/](https://www.anthropic.com/)
 </details>
 
-#### [Mistral]()
+#### [Mistral AI](https://mistral.ai/)
 <details>
 
 ##### Category
 Infrastructure Layer - INFERENCE PROVIDERS
 
 ##### Description
-- No description available
+Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.
 
 ##### Links
+- [https://mistral.ai/](https://mistral.ai/)
 </details>
 
-#### [Groq]()
+#### [Groq](https://groq.com/)
 <details>
 
 ##### Category
 Infrastructure Layer - INFERENCE PROVIDERS
 
 ##### Description
-- No description available
+Groq provides ultra-fast AI inference infrastructure for openly-available models like Llama 3.1, Mixtral, and Gemma, offering OpenAI-compatible API endpoints with industry-leading speed and simple three-line integration for existing applications.
 
 ##### Links
+- [https://groq.com/](https://groq.com/)
 </details>
 
 #### [AI21labs](https://www.ai21.com/)
@@ -1494,6 +1489,19 @@ Serverless platform for running machine learning models, allowing developers to 
 
 ##### Links
 - [https://replicate.com/](https://replicate.com/)
+</details>
+
+#### [SambaNova](https://sambanova.ai/)
+<details>
+
+##### Category
+Infrastructure Layer - INFERENCE PROVIDERS
+
+##### Description
+SambaNova provides custom AI infrastructure featuring their SN40L Reconfigurable Dataflow Unit (RDU), offering world-record inference speeds for large language models, with integrated fine-tuning capabilities and enterprise-grade security, delivered through both cloud and on-premises solutions.
+
+##### Links
+- [https://sambanova.ai/](https://sambanova.ai/)
 </details>
 
 #### [BentoML](https://www.bentoml.com/)

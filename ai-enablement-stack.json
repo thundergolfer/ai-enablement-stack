@@ -51,21 +51,21 @@
             },
             {
               "name": "Anthropic",
-              "description": "",
+              "description": "Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.",
               "logo": "",
-              "link": ""
+              "link": "https://www.anthropic.com/"
             },
             {
-              "name": "Mistral",
-              "description": "",
+              "name": "Mistral AI",
+              "description": "Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.",
               "logo": "",
-              "link": ""
+              "link": "https://mistral.ai/"
             },
             {
               "name": "Groq",
-              "description": "",
+              "description": "Groq provides ultra-fast AI inference infrastructure for openly-available models like Llama 3.1, Mixtral, and Gemma, offering OpenAI-compatible API endpoints with industry-leading speed and simple three-line integration for existing applications.",
               "logo": "",
-              "link": ""
+              "link": "https://groq.com/"
             },
             {
               "name": "AI21labs",
@@ -120,6 +120,12 @@
               "description": "Serverless platform for running machine learning models, allowing developers to deploy and scale models without managing infrastructure.",
               "logo": "",
               "link": "https://replicate.com/"
+            },
+            {
+              "name": "SambaNova",
+              "description": "SambaNova provides custom AI infrastructure featuring their SN40L Reconfigurable Dataflow Unit (RDU), offering world-record inference speeds for large language models, with integrated fine-tuning capabilities and enterprise-grade security, delivered through both cloud and on-premises solutions.",
+              "logo": "",
+              "link": "https://sambanova.ai/"
             },
             {
               "name": "BentoML",
@@ -334,33 +340,27 @@
           "companies": [
             {
               "name": "Codestral",
-              "description": "",
+              "description": "Codestral is Mistral AI's specialized 22B code generation model supporting 80+ programming languages, featuring a 32k context window, fill-in-the-middle capabilities, and state-of-the-art performance on coding benchmarks, available through API endpoints and IDE integrations.",
               "logo": "",
-              "link": ""
+              "link": "https://mistral.ai/news/codestral/"
             },
             {
-              "name": "Claude 3.5",
-              "description": "",
+              "name": "Poolside",
+              "description": "Poolside provides a specialized AI foundation model (Malibu) built specifically for software engineering, featuring Reinforcement Learning from Code Execution Feedback, custom fine-tuning on company codebases, and a fully integrated development assistant with IDE support, all deployable within private infrastructure.",
               "logo": "",
-              "link": ""
+              "link": "https://poolside.ai/"
             },
             {
-              "name": "OpenAI GPT4o",
-              "description": "",
+              "name": "Claude 3.5 Sonnet",
+              "description": "Claude 3.5 Sonnet is Anthropic's frontier AI model offering state-of-the-art performance in reasoning, coding, and vision tasks, featuring a 200K token context window, computer use capabilities, and enhanced safety measures, available through multiple platforms including Claude.ai and major cloud providers.",
               "logo": "",
-              "link": ""
+              "link": "https://www.anthropic.com/claude"
             },
             {
-              "name": "Qwen",
-              "description": "",
+              "name": "Qwen2.5-Coder-32B",
+              "description": "Qwen2.5-Coder is a specialized code-focused model matching GPT-4's coding capabilities, featuring 32B parameters, 128K token context window, support for 80+ programming languages, and state-of-the-art performance on coding benchmarks, available as an open-source Apache 2.0 licensed model.",
               "logo": "",
-              "link": ""
-            },
-            {
-              "name": "Mistral",
-              "description": "",
-              "logo": "",
-              "link": ""
+              "link": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B"
             }
           ]
         }
