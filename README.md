@@ -1091,6 +1091,19 @@ CrewAI provides a comprehensive platform for building, deploying, and managing m
 - [https://www.crewai.io/](https://www.crewai.io/)
 </details>
 
+#### [AI Suite](https://github.com/andrewyng/aisuite)
+<details>
+
+##### Category
+Intelligence Layer - FRAMEWORKS
+
+##### Description
+AI Suite provides a unified interface for multiple LLM providers (OpenAI, Anthropic, Azure, Google, AWS, Groq, Mistral, etc.), offering standardized API access with OpenAI-compatible syntax, easy provider switching, and seamless integration capabilities, available as an open-source MIT-licensed framework.
+
+##### Links
+- [https://github.com/andrewyng/aisuite](https://github.com/andrewyng/aisuite)
+</details>
+
 ### KNOWLEDGE ENGINES
 
 Systems for managing and retrieving information

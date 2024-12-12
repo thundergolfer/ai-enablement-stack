@@ -271,6 +271,12 @@
               "description": "CrewAI provides a comprehensive platform for building, deploying, and managing multi-agent AI systems, offering both open-source framework and enterprise solutions with support for any LLM and cloud platform, enabling organizations to create automated workflows across various industries.",
               "logo": "",
               "link": "https://www.crewai.io/"
+            },
+            {
+              "name": "AI Suite",
+              "description": "AI Suite provides a unified interface for multiple LLM providers (OpenAI, Anthropic, Azure, Google, AWS, Groq, Mistral, etc.), offering standardized API access with OpenAI-compatible syntax, easy provider switching, and seamless integration capabilities, available as an open-source MIT-licensed framework.",
+              "logo": "",
+              "link": "https://github.com/andrewyng/aisuite"
             }
           ]
         },
