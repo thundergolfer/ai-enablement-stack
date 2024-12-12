@@ -1209,19 +1209,6 @@ Codestral is Mistral AI's specialized 22B code generation model supporting 80+ p
 - [https://mistral.ai/news/codestral/](https://mistral.ai/news/codestral/)
 </details>
 
-#### [Poolside](https://poolside.ai/)
-<details>
-
-##### Category
-Intelligence Layer - SPECIALIZED CODING MODELS
-
-##### Description
-Poolside provides a specialized AI foundation model (Malibu) built specifically for software engineering, featuring Reinforcement Learning from Code Execution Feedback, custom fine-tuning on company codebases, and a fully integrated development assistant with IDE support, all deployable within private infrastructure.
-
-##### Links
-- [https://poolside.ai/](https://poolside.ai/)
-</details>
-
 #### [Claude 3.5 Sonnet](https://www.anthropic.com/claude)
 <details>
 
@@ -1310,7 +1297,7 @@ Modal offers a serverless cloud platform for AI and ML applications that enables
 - [https://modal.com/](https://modal.com/)
 </details>
 
-### INFERENCE PROVIDERS
+### MODEL ACCESS & DEPLOYMENT
 
 Services for deploying and running AI models
 
@@ -1320,7 +1307,7 @@ Services for deploying and running AI models
 ![OpenAI](./assets/openai.png)
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, and Sora, focusing on creating safe AGI that benefits humanity through products spanning language models, image generation, and video creation while maintaining leadership in AI research and safety.
@@ -1333,7 +1320,7 @@ OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, an
 <details>
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.
@@ -1346,7 +1333,7 @@ Anthropic provides frontier AI models through the Claude family, emphasizing saf
 <details>
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.
@@ -1355,11 +1342,24 @@ Mistral AI provides frontier AI models with emphasis on openness and portability
 - [https://mistral.ai/](https://mistral.ai/)
 </details>
 
+#### [Poolside](https://poolside.ai/)
+<details>
+
+##### Category
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+
+##### Description
+Poolside provides a specialized AI foundation model (Malibu) built specifically for software engineering, featuring Reinforcement Learning from Code Execution Feedback, custom fine-tuning on company codebases, and a fully integrated development assistant with IDE support, all deployable within private infrastructure.
+
+##### Links
+- [https://poolside.ai/](https://poolside.ai/)
+</details>
+
 #### [Groq](https://groq.com/)
 <details>
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 Groq provides ultra-fast AI inference infrastructure for openly-available models like Llama 3.1, Mixtral, and Gemma, offering OpenAI-compatible API endpoints with industry-leading speed and simple three-line integration for existing applications.
@@ -1374,7 +1374,7 @@ Groq provides ultra-fast AI inference infrastructure for openly-available models
 ![AI21labs](./assets/ai21labs.svg)
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 AI21 Labs delivers enterprise-grade generative AI solutions through its Jamba foundation model and RAG engine, enabling organizations to build secure, production-ready AI applications with flexible deployment options and dedicated integration support.
@@ -1389,7 +1389,7 @@ AI21 Labs delivers enterprise-grade generative AI solutions through its Jamba fo
 ![Cohere](./assets/cohere.svg)
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 Cohere provides an enterprise AI platform featuring advanced language models, embedding, and retrieval capabilities that enables businesses to build production-ready AI applications with flexible deployment options across cloud or on-premises environments.
@@ -1404,7 +1404,7 @@ Cohere provides an enterprise AI platform featuring advanced language models, em
 ![Hugging Face](./assets/huggingface.png)
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 Hugging Face provides fully managed inference infrastructure for ML models with support for multiple hardware options (CPU, GPU, TPU) across various cloud providers, offering autoscaling and dedicated deployments with enterprise-grade security.
@@ -1417,7 +1417,7 @@ Hugging Face provides fully managed inference infrastructure for ML models with 
 <details>
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 Cartesia AI delivers real-time multimodal intelligence through state space models that enable fast, private, and offline inference capabilities across devices, offering streaming-first solutions with constant memory usage and low latency.
@@ -1430,7 +1430,7 @@ Cartesia AI delivers real-time multimodal intelligence through state space model
 <details>
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 Provides easy access to open-source language models through a simple API, similar to offerings from closed-source providers.
@@ -1443,7 +1443,7 @@ Provides easy access to open-source language models through a simple API, simila
 <details>
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 Offers an API for accessing and running open-source LLMs, facilitating seamless integration into AI applications.
@@ -1456,7 +1456,7 @@ Offers an API for accessing and running open-source LLMs, facilitating seamless 
 <details>
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 End-to-end platform for deploying and managing AI models, including LLMs, with integrated tools for monitoring, versioning, and scaling.
@@ -1469,7 +1469,7 @@ End-to-end platform for deploying and managing AI models, including LLMs, with i
 <details>
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 Amazon Nova provides state-of-the-art foundation models through Amazon Bedrock, offering multiple model variants (Micro, Lite, Pro, Canvas, Reel) for text, image, and video processing with industry-leading price-performance, fine-tuning capabilities, and enterprise-grade features.
@@ -1482,7 +1482,7 @@ Amazon Nova provides state-of-the-art foundation models through Amazon Bedrock, 
 <details>
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 Serverless platform for running machine learning models, allowing developers to deploy and scale models without managing infrastructure.
@@ -1495,7 +1495,7 @@ Serverless platform for running machine learning models, allowing developers to 
 <details>
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 SambaNova provides custom AI infrastructure featuring their SN40L Reconfigurable Dataflow Unit (RDU), offering world-record inference speeds for large language models, with integrated fine-tuning capabilities and enterprise-grade security, delivered through both cloud and on-premises solutions.
@@ -1508,7 +1508,7 @@ SambaNova provides custom AI infrastructure featuring their SN40L Reconfigurable
 <details>
 
 ##### Category
-Infrastructure Layer - INFERENCE PROVIDERS
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
 
 ##### Description
 BentoML provides an open-source unified inference platform that enables organizations to build, deploy, and scale AI systems across any cloud with high performance and flexibility, while offering enterprise features like auto-scaling, rapid iteration, and SOC II compliance.
