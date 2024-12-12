@@ -779,6 +779,12 @@
               "description": "Kubiya provides AI-powered teammates for operations teams, enabling automated task delegation and execution across DevOps workflows, with hallucination-free operations, enterprise-grade security, and native integration with tools like Slack, Jira, and Terraform.",
               "logo": "",
               "link": "https://www.kubiya.ai/"
+            },
+            {
+              "name": "Goose",
+              "description": "Goose is an open-source autonomous developer agent that operates directly on your machine, capable of executing shell commands, debugging code, managing dependencies, and interacting with development tools like GitHub and Jira, featuring extensible toolkits and support for multiple LLM providers.",
+              "logo": "",
+              "link": "https://github.com/block/goose"
             }
           ]
         },

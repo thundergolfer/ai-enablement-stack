@@ -174,6 +174,19 @@ Kubiya provides AI-powered teammates for operations teams, enabling automated ta
 - [https://www.kubiya.ai/](https://www.kubiya.ai/)
 </details>
 
+#### [Goose](https://github.com/block/goose)
+<details>
+
+##### Category
+Agent Consumer Layer - AUTONOMOUS AGENTS
+
+##### Description
+Goose is an open-source autonomous developer agent that operates directly on your machine, capable of executing shell commands, debugging code, managing dependencies, and interacting with development tools like GitHub and Jira, featuring extensible toolkits and support for multiple LLM providers.
+
+##### Links
+- [https://github.com/block/goose](https://github.com/block/goose)
+</details>
+
 ### ASSISTIVE AGENTS
 
 AI tools that enhance human capabilities and workflow efficiency
