@@ -65,11 +65,9 @@ Ensure your entry falls into one of these main layers and their respective subca
 ## Pull Request Process
 
 1. Ensure your PR includes only one addition/change
-2. Update the README.md if necessary
-3. Verify that your entry follows the format guidelines
-4. Include relevant links and documentation
-5. Add a brief description of your changes in the PR
-6. Sign off on your commits to certify the Developer Certificate of Origin (DCO)
+2. Verify that your entry follows the format guidelines
+3. Add a brief description of your changes in the PR
+4. Sign off on your commits to certify the Developer Certificate of Origin (DCO)
 
 ### Developer Certificate of Origin (DCO)
 
