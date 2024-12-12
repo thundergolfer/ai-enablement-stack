@@ -58,9 +58,9 @@ const generateHTML = (data) => {
 
         .layer {
             margin-bottom: 24px;
-            border-radius: 8px;
+            border-radius: 0px;
             padding: 24px;
-            border: 1px solid var(--border-light);
+            border: 2px dashed var(--border-light, #252525);
             background: rgba(255, 255, 255, 0.02);
         }
 
