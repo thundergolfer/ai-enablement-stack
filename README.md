@@ -309,6 +309,21 @@ Codeflash is a CI tool that keeps your Python code performant by using AI to aut
 - [https://www.codeflash.ai/](https://www.codeflash.ai/)
 </details>
 
+#### [Superflex](https://superflex.ai/)
+<details>
+
+![Superflex](./assets/superflex.svg)
+
+##### Category
+Agent Consumer Layer - SPECIALIZED AGENTS
+
+##### Description
+Superflex is a VSCode Extension that builds features from Figma designs, images and text prompts, while maintaining your design standards, code style, and reusing your UI components.
+
+##### Links
+- [https://superflex.ai/](https://superflex.ai/)
+</details>
+
 ## Observability and Governance Layer
 
 ### DEVELOPMENT PIPELINE
@@ -481,6 +496,19 @@ OpenLLMetry provides an open-source observability solution for LLMs built on Ope
 
 ##### Links
 - [https://openllmetry.org/](https://openllmetry.org/)
+</details>
+
+#### [LangWatch](https://langwatch.ai/)
+<details>
+
+##### Category
+Observability and Governance Layer - EVALUATION & MONITORING
+
+##### Description
+LangWatch provides a comprehensive LLMOps platform for optimizing and monitoring LLM performance, featuring automated prompt optimization using DSPy, quality evaluations, performance monitoring, and collaborative tools for AI teams, with enterprise-grade security and self-hosting options.
+
+##### Links
+- [https://langwatch.ai/](https://langwatch.ai/)
 </details>
 
 ### RISK & COMPLIANCE

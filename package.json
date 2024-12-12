@@ -9,7 +9,7 @@
     "generate": "npm run generate:image && npm run generate:readme"
   },
   "devDependencies": {
-    "@playwright/test": "^1.49.0",
+    "@playwright/test": "^1.49.1",
     "@types/node": "^22.10.1"
   },
   "repository": "https://github.com/nkkko/ai-enablement-stack.git",
