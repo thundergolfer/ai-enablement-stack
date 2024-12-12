@@ -350,6 +350,19 @@ Superflex is a VSCode Extension that builds features from Figma designs, images 
 - [https://superflex.ai/](https://superflex.ai/)
 </details>
 
+#### [Codemod](https://codemod.com/)
+<details>
+
+##### Category
+Agent Consumer Layer - SPECIALIZED AGENTS
+
+##### Description
+Codemod provides AI-powered code migration agents that automate framework migrations, API upgrades, and refactoring at scale, featuring a community registry of migration recipes, AI-assisted codemod creation, and comprehensive migration management capabilities.
+
+##### Links
+- [https://codemod.com/](https://codemod.com/)
+</details>
+
 ## Observability and Governance Layer
 
 ### DEVELOPMENT PIPELINE

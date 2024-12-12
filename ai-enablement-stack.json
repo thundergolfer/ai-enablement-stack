@@ -869,6 +869,12 @@
               "description": "Superflex is a VSCode Extension that builds features from Figma designs, images and text prompts, while maintaining your design standards, code style, and reusing your UI components.",
               "logo": "./assets/superflex.svg",
               "link": "https://superflex.ai/"
+            },
+            {
+              "name": "Codemod",
+              "description": "Codemod provides AI-powered code migration agents that automate framework migrations, API upgrades, and refactoring at scale, featuring a community registry of migration recipes, AI-assisted codemod creation, and comprehensive migration management capabilities.",
+              "logo": "",
+              "link": "https://codemod.com/"
             }
           ]
         }
