@@ -59,7 +59,7 @@ Ensure your entry falls into one of these main layers and their respective subca
   - SPECIALIZED CODING MODELS
 - Infrastructure Layer
   - WORKSPACES
-  - INFERENCE PROVIDERS
+  - MODEL ACCESS & DEPLOYMENT
   - CLOUD PROVIDERS
 
 ## Pull Request Process

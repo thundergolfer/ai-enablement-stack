@@ -40,7 +40,7 @@
           ]
         },
         {
-          "name": "INFERENCE PROVIDERS",
+          "name": "MODEL ACCESS & DEPLOYMENT",
           "description": "Services for deploying and running AI models",
           "companies": [
             {
@@ -60,6 +60,12 @@
               "description": "Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.",
               "logo": "",
               "link": "https://mistral.ai/"
+            },
+            {
+              "name": "Poolside",
+              "description": "Poolside provides a specialized AI foundation model (Malibu) built specifically for software engineering, featuring Reinforcement Learning from Code Execution Feedback, custom fine-tuning on company codebases, and a fully integrated development assistant with IDE support, all deployable within private infrastructure.",
+              "logo": "",
+              "link": "https://poolside.ai/"
             },
             {
               "name": "Groq",
@@ -343,12 +349,6 @@
               "description": "Codestral is Mistral AI's specialized 22B code generation model supporting 80+ programming languages, featuring a 32k context window, fill-in-the-middle capabilities, and state-of-the-art performance on coding benchmarks, available through API endpoints and IDE integrations.",
               "logo": "",
               "link": "https://mistral.ai/news/codestral/"
-            },
-            {
-              "name": "Poolside",
-              "description": "Poolside provides a specialized AI foundation model (Malibu) built specifically for software engineering, featuring Reinforcement Learning from Code Execution Feedback, custom fine-tuning on company codebases, and a fully integrated development assistant with IDE support, all deployable within private infrastructure.",
-              "logo": "",
-              "link": "https://poolside.ai/"
             },
             {
               "name": "Claude 3.5 Sonnet",
