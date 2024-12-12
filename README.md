@@ -266,6 +266,19 @@ Pieces provides an on-device AI companion that captures and maintains long-term 
 - [https://pieces.app/](https://pieces.app/)
 </details>
 
+#### [Aider](https://aider.chat/)
+<details>
+
+##### Category
+Agent Consumer Layer - ASSISTIVE AGENTS
+
+##### Description
+Aider provides AI pair programming in the terminal, enabling direct code editing in git repositories with support for multiple LLMs (GPT-4, Claude 3.5), featuring multi-file editing, voice coding, image support, and automatic git commits, with top-tier performance on software engineering benchmarks.
+
+##### Links
+- [https://aider.chat/](https://aider.chat/)
+</details>
+
 ### SPECIALIZED AGENTS
 
 Purpose-built AI agents designed for specific functions, like PR reviews and similar.

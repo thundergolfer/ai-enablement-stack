@@ -827,6 +827,12 @@
               "description": "Pieces provides an on-device AI companion that captures and maintains long-term memory across the developer workflow, offering snippet management, multi-LLM support, and context-aware assistance while processing all data locally for enhanced security and privacy.",
               "logo": "",
               "link": "https://pieces.app/"
+            },
+            {
+              "name": "Aider",
+              "description": "Aider provides AI pair programming in the terminal, enabling direct code editing in git repositories with support for multiple LLMs (GPT-4, Claude 3.5), featuring multi-file editing, voice coding, image support, and automatic git commits, with top-tier performance on software engineering benchmarks.",
+              "logo": "",
+              "link": "https://aider.chat/"
             }
           ]
         },
