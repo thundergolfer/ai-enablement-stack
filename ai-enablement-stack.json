@@ -658,6 +658,12 @@
               "description": "OpenLLMetry provides an open-source observability solution for LLMs built on OpenTelemetry standards, offering easy integration with major observability platforms like Datadog, New Relic, and Grafana, requiring just two lines of code to implement.",
               "logo": "",
               "link": "https://openllmetry.org/"
+            },
+            {
+              "name": "LangWatch",
+              "description": "LangWatch provides a comprehensive LLMOps platform for optimizing and monitoring LLM performance, featuring automated prompt optimization using DSPy, quality evaluations, performance monitoring, and collaborative tools for AI teams, with enterprise-grade security and self-hosting options.",
+              "logo": "",
+              "link": "https://langwatch.ai/"
             }
           ]
         },
