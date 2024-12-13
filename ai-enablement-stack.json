@@ -277,6 +277,12 @@
               "description": "AI Suite provides a unified interface for multiple LLM providers (OpenAI, Anthropic, Azure, Google, AWS, Groq, Mistral, etc.), offering standardized API access with OpenAI-compatible syntax, easy provider switching, and seamless integration capabilities, available as an open-source MIT-licensed framework.",
               "logo": "",
               "link": "https://github.com/andrewyng/aisuite"
+            },
+            {
+              "name": "Promptflow",
+              "description": "Promptflow is Microsoft's open-source development framework for LLM applications, offering tools for flow creation, testing, evaluation, and deployment, featuring visual flow design through VS Code extension, built-in evaluation metrics, and CI/CD integration capabilities.",
+              "logo": "",
+              "link": "https://microsoft.github.io/promptflow/index.html"
             }
           ]
         },
@@ -512,6 +518,12 @@
               "description": "JigsawStack provides a comprehensive suite of AI APIs including web scraping, translation, speech-to-text, OCR, prediction, and prompt optimization, offering globally distributed infrastructure with type-safe SDKs and built-in monitoring capabilities across 99+ locations.",
               "logo": "",
               "link": "https://www.jigsawstack.com/"
+            },
+            {
+              "name": "LSProxy",
+              "description": "LSProxy provides IDE-like code analysis and navigation functionality through a REST API in a Docker container, supporting multiple programming languages via Language Servers and ast-grep, enabling precise code navigation and symbol resolution for AI assistants and custom code RAG systems.",
+              "logo": "",
+              "link": "https://github.com/agentic-labs/lsproxy"
             }
           ]
         },

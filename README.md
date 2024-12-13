@@ -878,6 +878,19 @@ JigsawStack provides a comprehensive suite of AI APIs including web scraping, tr
 - [https://www.jigsawstack.com/](https://www.jigsawstack.com/)
 </details>
 
+#### [LSProxy](https://github.com/agentic-labs/lsproxy)
+<details>
+
+##### Category
+Engineering Layer - TOOLS
+
+##### Description
+LSProxy provides IDE-like code analysis and navigation functionality through a REST API in a Docker container, supporting multiple programming languages via Language Servers and ast-grep, enabling precise code navigation and symbol resolution for AI assistants and custom code RAG systems.
+
+##### Links
+- [https://github.com/agentic-labs/lsproxy](https://github.com/agentic-labs/lsproxy)
+</details>
+
 ### TESTING & QUALITY ASSURANCE
 
 Systems for validating AI performance and reliability
@@ -1141,6 +1154,19 @@ AI Suite provides a unified interface for multiple LLM providers (OpenAI, Anthro
 
 ##### Links
 - [https://github.com/andrewyng/aisuite](https://github.com/andrewyng/aisuite)
+</details>
+
+#### [Promptflow](https://microsoft.github.io/promptflow/index.html)
+<details>
+
+##### Category
+Intelligence Layer - FRAMEWORKS
+
+##### Description
+Promptflow is Microsoft's open-source development framework for LLM applications, offering tools for flow creation, testing, evaluation, and deployment, featuring visual flow design through VS Code extension, built-in evaluation metrics, and CI/CD integration capabilities.
+
+##### Links
+- [https://microsoft.github.io/promptflow/index.html](https://microsoft.github.io/promptflow/index.html)
 </details>
 
 ### KNOWLEDGE ENGINES
