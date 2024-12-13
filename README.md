@@ -1354,6 +1354,19 @@ Qwen2.5-Coder is a specialized code-focused model matching GPT-4's coding capabi
 - [https://huggingface.co/Qwen/Qwen2.5-Coder-32B](https://huggingface.co/Qwen/Qwen2.5-Coder-32B)
 </details>
 
+#### [OpenCoder](https://arxiv.org/pdf/2411.04905)
+<details>
+
+##### Category
+Intelligence Layer - SPECIALIZED CODING MODELS
+
+##### Description
+OpenCoder is an open-source family of code-specialized LLMs (1.5B and 8B parameters) trained on 2.5T tokens, featuring base and chat models with English/Chinese support, complete with training data, processing pipeline, and reproducible protocols, achieving top-tier code LLM performance.
+
+##### Links
+- [https://arxiv.org/pdf/2411.04905](https://arxiv.org/pdf/2411.04905)
+</details>
+
 ## Infrastructure Layer
 
 ### WORKSPACES

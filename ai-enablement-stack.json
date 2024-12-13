@@ -373,6 +373,12 @@
               "description": "Qwen2.5-Coder is a specialized code-focused model matching GPT-4's coding capabilities, featuring 32B parameters, 128K token context window, support for 80+ programming languages, and state-of-the-art performance on coding benchmarks, available as an open-source Apache 2.0 licensed model.",
               "logo": "",
               "link": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B"
+            },
+            {
+              "name": "OpenCoder",
+              "description": "OpenCoder is an open-source family of code-specialized LLMs (1.5B and 8B parameters) trained on 2.5T tokens, featuring base and chat models with English/Chinese support, complete with training data, processing pipeline, and reproducible protocols, achieving top-tier code LLM performance.",
+              "logo": "",
+              "link": "https://arxiv.org/pdf/2411.04905"
             }
           ]
         }
