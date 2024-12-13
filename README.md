@@ -456,6 +456,19 @@ Stack AI provides an enterprise generative AI platform for building and deployin
 - [https://www.stack-ai.com/](https://www.stack-ai.com/)
 </details>
 
+#### [Lightning AI](https://lightning.ai/)
+<details>
+
+##### Category
+Observability and Governance Layer - DEVELOPMENT PIPELINE
+
+##### Description
+Lightning AI provides a comprehensive platform for building AI products, featuring GPU access, development environments, training capabilities, and deployment tools, with support for enterprise-grade security, multi-cloud deployment, and team collaboration, used by major organizations like NVIDIA and Microsoft.
+
+##### Links
+- [https://lightning.ai/](https://lightning.ai/)
+</details>
+
 ### EVALUATION & MONITORING
 
 Systems for tracking AI performance and behavior
@@ -1427,6 +1440,19 @@ Modal offers a serverless cloud platform for AI and ML applications that enables
 
 ##### Links
 - [https://modal.com/](https://modal.com/)
+</details>
+
+#### [Morph Labs](https://morph.so/)
+<details>
+
+##### Category
+Infrastructure Layer - WORKSPACES
+
+##### Description
+Morph Labs provides infrastructure for developing and deploying autonomous software engineers at scale, offering Infinibranch for Morph Cloud and focusing on advanced infrastructure for AI-powered development, backed by partnerships with Together AI, Nomic AI, and other leading AI companies.
+
+##### Links
+- [https://morph.so/](https://morph.so/)
 </details>
 
 ### MODEL ACCESS & DEPLOYMENT

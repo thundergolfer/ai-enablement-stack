@@ -36,6 +36,12 @@
               "description": "Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.",
               "logo": "./assets/modal.svg",
               "link": "https://modal.com/"
+            },
+            {
+              "name": "Morph Labs",
+              "description": "Morph Labs provides infrastructure for developing and deploying autonomous software engineers at scale, offering Infinibranch for Morph Cloud and focusing on advanced infrastructure for AI-powered development, backed by partnerships with Together AI, Nomic AI, and other leading AI companies.",
+              "logo": "",
+              "link": "https://morph.so/"
             }
           ]
         },
@@ -640,6 +646,12 @@
               "description": "Stack AI provides an enterprise generative AI platform for building and deploying AI applications with a no-code interface, offering pre-built templates, workflow automation, enterprise security features (SOC2, HIPAA, GDPR), and on-premise deployment options with support for multiple AI models and data sources.",
               "logo": "",
               "link": "https://www.stack-ai.com/"
+            },
+            {
+              "name": "Lightning AI",
+              "description": "Lightning AI provides a comprehensive platform for building AI products, featuring GPU access, development environments, training capabilities, and deployment tools, with support for enterprise-grade security, multi-cloud deployment, and team collaboration, used by major organizations like NVIDIA and Microsoft.",
+              "logo": "",
+              "link": "https://lightning.ai/"
             }
           ]
         },
