@@ -1649,6 +1649,19 @@ BentoML provides an open-source unified inference platform that enables organiza
 - [https://www.bentoml.com/](https://www.bentoml.com/)
 </details>
 
+#### [OpenRouter](https://openrouter.ai/)
+<details>
+
+##### Category
+Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+
+##### Description
+OpenRouter provides a unified OpenAI-compatible API for accessing 282+ models across multiple providers, offering standardized access, provider routing, and model rankings, with support for multiple SDKs and framework integrations.
+
+##### Links
+- [https://openrouter.ai/](https://openrouter.ai/)
+</details>
+
 ### CLOUD PROVIDERS
 
 Computing infrastructure that powers AI systems and their workspaces

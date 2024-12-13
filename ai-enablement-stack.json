@@ -138,6 +138,12 @@
               "description": "BentoML provides an open-source unified inference platform that enables organizations to build, deploy, and scale AI systems across any cloud with high performance and flexibility, while offering enterprise features like auto-scaling, rapid iteration, and SOC II compliance.",
               "logo": "",
               "link": "https://www.bentoml.com/"
+            },
+            {
+              "name": "OpenRouter",
+              "description": "OpenRouter provides a unified OpenAI-compatible API for accessing 282+ models across multiple providers, offering standardized access, provider routing, and model rankings, with support for multiple SDKs and framework integrations.",
+              "logo": "",
+              "link": "https://openrouter.ai/"
             }
           ]
         },
