@@ -361,6 +361,12 @@
               "description": "SciPhi offers R2R, an all-in-one RAG (Retrieval Augmented Generation) solution that enables developers to build and scale AI applications with advanced features including document management, hybrid vector search, and knowledge graphs, while providing superior ingestion performance compared to competitors.",
               "logo": "",
               "link": "https://www.sciphi.ai/"
+            },
+            {
+              "name": "pgAI",
+              "description": "pgAI is a PostgreSQL extension that enables AI capabilities directly in the database, featuring automated vector embedding creation, RAG implementation, semantic search, and LLM integration (OpenAI, Claude, Cohere, Llama) with support for high-performance vector operations through pgvector and pgvectorscale.",
+              "logo": "",
+              "link": "https://github.com/timescale/pgai"
             }
           ]
         },
