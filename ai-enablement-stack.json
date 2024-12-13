@@ -835,6 +835,12 @@
               "link": "https://www.tabnine.com/"
             },
             {
+              "name": "Supermaven",
+              "description": "Supermaven provides ultra-fast code completion and assistance with a 1M token context window, supporting multiple IDEs (VS Code, JetBrains, Neovim) and LLMs (GPT-4, Claude 3.5), featuring real-time chat interface, codebase scanning, and 3x faster response times compared to competitors.",
+              "logo": "",
+              "link": "https://supermaven.com/"
+            },
+            {
               "name": "Pieces",
               "description": "Pieces provides an on-device AI companion that captures and maintains long-term memory across the developer workflow, offering snippet management, multi-LLM support, and context-aware assistance while processing all data locally for enhanced security and privacy.",
               "logo": "",

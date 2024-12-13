@@ -253,6 +253,19 @@ Tabnine provides a privacy-focused AI code assistant that offers personalized co
 - [https://www.tabnine.com/](https://www.tabnine.com/)
 </details>
 
+#### [Supermaven](https://supermaven.com/)
+<details>
+
+##### Category
+Agent Consumer Layer - ASSISTIVE AGENTS
+
+##### Description
+Supermaven provides ultra-fast code completion and assistance with a 1M token context window, supporting multiple IDEs (VS Code, JetBrains, Neovim) and LLMs (GPT-4, Claude 3.5), featuring real-time chat interface, codebase scanning, and 3x faster response times compared to competitors.
+
+##### Links
+- [https://supermaven.com/](https://supermaven.com/)
+</details>
+
 #### [Pieces](https://pieces.app/)
 <details>
 
