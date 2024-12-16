@@ -95,23 +95,23 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
         }
 
         /* Add this to your existing CSS */
-        .layer1 {
+        .layer1 .layer-header {
             background-color: var(--layer1-bg);
         }
 
-        .layer2 {
+        .layer2 .layer-header {
             background-color: var(--layer2-bg);
         }
 
-        .layer3 {
+        .layer3 .layer-header {
             background-color: var(--layer3-bg);
         }
 
-        .layer4 {
+        .layer4 .layer-header {
             background-color: var(--layer4-bg);
         }
 
-        .layer5 {
+        .layer5 .layer-header {
             background-color: var(--layer5-bg);
         }
 
@@ -194,18 +194,23 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
             text-align: center;
             border: 1px solid var(--border-light);
             transition: all 0.2s ease;
-        }
-
-        .company:hover {
-            background: rgba(255, 255, 255, 0.05);
-            transform: translateY(-2px);
-            border-color: var(--primary);
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
         .company img {
             max-width: 100%;
             height: auto;
             max-height: 24px;
+            object-fit: contain;
+            display: block;
+        }
+
+        .company:hover {
+            background: rgba(255, 255, 255, 0.05);
+            transform: translateY(-2px);
+            border-color: var(--primary);
         }
 
         .sections {
