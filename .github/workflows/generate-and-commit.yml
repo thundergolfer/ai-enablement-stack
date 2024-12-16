@@ -6,6 +6,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate-and-commit:
     if: github.event.pull_request.merged == true
@@ -30,22 +33,14 @@ jobs:
 
       - name: Generate files
         run: yarn run generate
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
 
-      - name: Configure Git
+      - name: Commit and push artifacts if changed
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}
-
-      - name: Add files
-        run: |
-          git add README.md
-          git add ai-enablement-stack.png
-
-      - name: Commit files
-        run: git commit -m "Update README.md and ai-enablement-stack.png"
-
-      - name: Push changes
-        run: git push origin ${{ github.ref_name }}
-    env:
-      PAT: ${{ secrets.PAT }}
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md ai-enablement-stack.png
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README.md and ai-enablement-stack.png" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
