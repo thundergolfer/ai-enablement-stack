@@ -1625,6 +1625,8 @@ Computing infrastructure that powers AI systems and their workspaces
 #### [AWS]()
 <details>
 
+![AWS](./public/images/aws.png)
+
 ##### Category
 INFRASTRUCTURE LAYER - Cloud Providers
 
@@ -1636,6 +1638,8 @@ INFRASTRUCTURE LAYER - Cloud Providers
 
 #### [Azure]()
 <details>
+
+![Azure](./public/images/azure.png)
 
 ##### Category
 INFRASTRUCTURE LAYER - Cloud Providers
@@ -1649,6 +1653,8 @@ INFRASTRUCTURE LAYER - Cloud Providers
 #### [GCP]()
 <details>
 
+![GCP](./public/images/gcp.png)
+
 ##### Category
 INFRASTRUCTURE LAYER - Cloud Providers
 
@@ -1660,6 +1666,8 @@ INFRASTRUCTURE LAYER - Cloud Providers
 
 #### [Koyeb](https://www.koyeb.com/)
 <details>
+
+![Koyeb](./public/images/koyeb.png)
 
 ##### Category
 INFRASTRUCTURE LAYER - Cloud Providers
@@ -1674,6 +1682,8 @@ Koyeb provides a high-performance serverless platform specifically optimized for
 #### [CoreWeave](https://coreweave.com/)
 <details>
 
+![CoreWeave](./public/images/coreweave.png)
+
 ##### Category
 INFRASTRUCTURE LAYER - Cloud Providers
 
@@ -1686,6 +1696,8 @@ CoreWeave is an AI-focused cloud provider offering Kubernetes-native infrastruct
 
 #### [Nebius](https://nebius.com/)
 <details>
+
+![Nebius](./public/images/nebius.svg)
 
 ##### Category
 INFRASTRUCTURE LAYER - Cloud Providers

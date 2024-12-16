@@ -148,37 +148,37 @@
             {
               "name": "AWS",
               "description": "",
-              "logo": "",
+              "logo": "./public/images/aws.png",
               "link": ""
             },
             {
               "name": "Azure",
               "description": "",
-              "logo": "",
+              "logo": "./public/images/azure.png",
               "link": ""
             },
             {
               "name": "GCP",
               "description": "",
-              "logo": "",
+              "logo": "./public/images/gcp.png",
               "link": ""
             },
             {
               "name": "Koyeb",
               "description": "Koyeb provides a high-performance serverless platform specifically optimized for AI workloads, offering GPU/NPU infrastructure, global deployment across 50+ locations, and seamless scaling capabilities for ML model inference and training with built-in observability.",
-              "logo": "",
+              "logo": "./public/images/koyeb.png",
               "link": "https://www.koyeb.com/"
             },
             {
               "name": "CoreWeave",
               "description": "CoreWeave is an AI-focused cloud provider offering Kubernetes-native infrastructure optimized for GPU workloads, featuring 11+ NVIDIA GPU types, up to 35x faster performance and 80% cost reduction compared to traditional providers, with specialized solutions for ML/AI, VFX, and inference at scale.",
-              "logo": "",
+              "logo": "./public/images/coreweave.png",
               "link": "https://coreweave.com/"
             },
             {
               "name": "Nebius",
               "description": "Nebius provides an AI-optimized cloud platform featuring latest NVIDIA GPUs (H200, H100, L40S) with InfiniBand networking, offering managed Kubernetes and Slurm clusters, MLflow integration, and specialized infrastructure for AI training, fine-tuning, and inference workloads.",
-              "logo": "",
+              "logo": "./public/images/nebius.svg",
               "link": "https://nebius.com/"
             }
           ]
