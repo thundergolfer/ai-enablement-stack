@@ -57,7 +57,7 @@
             },
             {
               "name": "Mistral AI",
-              "description": "Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.",
+              "description": "Mistral AI provides AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.",
               "logo": "",
               "link": "https://mistral.ai/"
             },
