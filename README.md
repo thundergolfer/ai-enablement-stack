@@ -382,16 +382,17 @@ Portkey provides a comprehensive AI gateway and control panel that enables teams
 - [https://portkey.ai/](https://portkey.ai/)
 </details>
 
-#### [Baseten]()
+#### [Baseten](https://baseten.co/)
 <details>
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
 ##### Description
-- No description available
+Baseten provides inference infrastructure featuring up to 1,500 tokens/second throughput, sub-100ms latency, and GPU autoscaling, with Truss open-source model packaging, enterprise security (SOC2, HIPAA), and support for deployment in customer clouds or self-hosted environments.
 
 ##### Links
+- [https://baseten.co/](https://baseten.co/)
 </details>
 
 #### [LangServe]()
