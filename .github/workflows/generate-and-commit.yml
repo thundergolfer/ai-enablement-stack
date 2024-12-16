@@ -17,7 +17,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20 # or your desired node version
+          node-version: 20
 
       - name: Install dependencies
         run: yarn install
@@ -47,5 +47,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT }}
           branch: ${{ github.ref_name }}
+    env:
+      PAT: ${{ secrets.PAT }}
