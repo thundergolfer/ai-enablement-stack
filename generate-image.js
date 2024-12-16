@@ -51,7 +51,12 @@ async function generateImage() {
         processedData.layers = processedData.layers.reverse();
     }
 
-    const html = generateHTML(processedData);
+      // Generate base64 for the background image
+    const bgImageDataUrl = imageToDataURL('./public/bg.png');
+    const dtnLogoUrl = imageToDataURL('./public/images/daytonaio.png');
+
+
+    const html = generateHTML(processedData, bgImageDataUrl, dtnLogoUrl);
 
     const browser = await playwright.chromium.launch();
     const page = await browser.newPage();

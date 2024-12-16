@@ -1,4 +1,4 @@
-const generateHTML = (data, bgImageDataUrl) => {
+const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
     const generationDate = new Date().toLocaleDateString('en-US', {
         year: 'numeric',
         month: 'long',
@@ -41,10 +41,10 @@ const generateHTML = (data, bgImageDataUrl) => {
             background-color: var(--bg-color);
             color: var(--text-primary);
             padding: 64px 80px;
-            background-image: url('./bg.png');
+            background-image: url('${bgImageDataUrl}');
             background-repeat: no-repeat;
             background-position: top right;
-            background-size: 50% auto; /* Adjust this value to control the size */
+            background-size: 50% auto;
         }
 
         .container {
@@ -68,7 +68,7 @@ const generateHTML = (data, bgImageDataUrl) => {
             letter-spacing: -0.2px;
             color: var(--text-secondary);
             width: 700px;
-            padding-bottom: 10px;
+             padding-bottom: 10px;
         }
 
         .layer {
@@ -160,7 +160,7 @@ const generateHTML = (data, bgImageDataUrl) => {
         }
 
         .section {
-            background: #F6F6F6;
+            background: rgba(246, 246, 246, 0.8);
             border: none;
             border-top: 1px dashed var(--border-color);
             padding: 20px;
@@ -306,11 +306,9 @@ const generateHTML = (data, bgImageDataUrl) => {
         <div class="footer">
             Crowdsourced by
             <div class="company">
-                <img src="./images/daytonaio.png" alt="Daytona">
+                <img src="${dtnLogoUrl}" alt="Daytona">
             </div>
         </div>
-    </div>
-
     </div>
 </body>
 </html>
