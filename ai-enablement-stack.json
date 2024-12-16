@@ -1,22 +1,22 @@
 {
   "title": {
-    "highlight": "AI Enablement Stack 🔮",
-    "text": "Tools and Technologies for Enabling Agentic AI Development"
+    "heading": "AI Enablement Stack",
+    "subtitle": "Tools and Technologies for Enabling Agentic AI Development"
   },
   "layers": [
     {
       "number": 1,
-      "name": "Infrastructure Layer",
+      "name": "INFRASTRUCTURE LAYER",
       "description": "The foundation that powers AI development and deployment. This includes development workspaces, model serving infrastructure, and cloud computing resources. It provides the essential computing backbone that supports all AI operations.",
       "sections": [
         {
-          "name": "WORKSPACES",
+          "name": "Workspaces",
           "description": "Development environments for sandboxing and building AI applications",
           "companies": [
             {
               "name": "Daytona",
               "description": "Daytona.io is an open-source Development Environment Manager designed to simplify the setup and management of development environments across various platforms, including local, remote, and cloud infrastructures.",
-              "logo": "./assets/daytonaio.png",
+              "logo": "./public/images/daytonaio.png",
               "link": "https://daytona.io/"
             },
             {
@@ -34,7 +34,7 @@
             {
               "name": "Modal",
               "description": "Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.",
-              "logo": "./assets/modal.svg",
+              "logo": "./public/images/modal.svg",
               "link": "https://modal.com/"
             },
             {
@@ -46,13 +46,13 @@
           ]
         },
         {
-          "name": "MODEL ACCESS & DEPLOYMENT",
+          "name": "Model Access & Deployment",
           "description": "Services for deploying and running AI models",
           "companies": [
             {
               "name": "OpenAI",
               "description": "OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, and Sora, focusing on creating safe AGI that benefits humanity through products spanning language models, image generation, and video creation while maintaining leadership in AI research and safety.",
-              "logo": "./assets/openai.png",
+              "logo": "./public/images/openai.png",
               "link": "https://openai.com/"
             },
             {
@@ -82,19 +82,19 @@
             {
               "name": "AI21labs",
               "description": "AI21 Labs delivers enterprise-grade generative AI solutions through its Jamba foundation model and RAG engine, enabling organizations to build secure, production-ready AI applications with flexible deployment options and dedicated integration support.",
-              "logo": "./assets/ai21labs.svg",
+              "logo": "./public/images/ai21labs.svg",
               "link": "https://www.ai21.com/"
             },
             {
               "name": "Cohere",
               "description": "Cohere provides an enterprise AI platform featuring advanced language models, embedding, and retrieval capabilities that enables businesses to build production-ready AI applications with flexible deployment options across cloud or on-premises environments.",
-              "logo": "./assets/cohere.svg",
+              "logo": "./public/images/cohere.svg",
               "link": "https://cohere.com/"
             },
             {
               "name": "Hugging Face",
               "description": "Hugging Face provides fully managed inference infrastructure for ML models with support for multiple hardware options (CPU, GPU, TPU) across various cloud providers, offering autoscaling and dedicated deployments with enterprise-grade security.",
-              "logo": "./assets/huggingface.png",
+              "logo": "./public/images/huggingface.png",
               "link": "https://huggingface.co/"
             },
             {
@@ -154,7 +154,7 @@
           ]
         },
         {
-          "name": "CLOUD PROVIDERS",
+          "name": "Cloud Providers",
           "description": "Computing infrastructure that powers AI systems and their workspaces",
           "companies": [
             {
@@ -211,11 +211,11 @@
     },
     {
       "number": 2,
-      "name": "Intelligence Layer",
+      "name": "INTELLIGENCE LAYER",
       "description": "The cognitive core of AI systems. This layer contains the frameworks, knowledge engines, and specialized models that power AI applications. It manages the actual processing, decision-making, and information retrieval that makes AI systems intelligent.",
       "sections": [
         {
-          "name": "FRAMEWORKS",
+          "name": "Frameworks",
           "description": "Core libraries and building blocks for AI application development",
           "companies": [
             {
@@ -245,13 +245,13 @@
             {
               "name": "Pydantic AI",
               "description": "",
-              "logo": "./assets/pydantic-ai.svg",
+              "logo": "./public/images/pydantic-ai.svg",
               "link": "https://ai.pydantic.dev/"
             },
             {
               "name": "Letta",
               "description": "Provides an agent development platform with advanced memory management for LLMs, enabling developers to build, deploy, and scale production-ready AI agents with transparent reasoning and model-agnostic flexibility.",
-              "logo": "./assets/letta.png",
+              "logo": "./public/images/letta.png",
               "link": "https://www.letta.com/"
             },
             {
@@ -299,7 +299,7 @@
           ]
         },
         {
-          "name": "KNOWLEDGE ENGINES",
+          "name": "Knowledge Engines",
           "description": "Systems for managing and retrieving information",
           "companies": [
             {
@@ -347,7 +347,7 @@
             {
               "name": "Contextual AI",
               "description": "Contextual AI provides enterprise-grade RAG (Retrieval-Augmented Generation) solutions that enable organizations in regulated industries to build and deploy production-ready AI applications for searching and analyzing large volumes of business-critical documents.",
-              "logo": "./assets/contextualai.webp",
+              "logo": "./public/images/contextualai.webp",
               "link": "https://contextual.ai/"
             },
             {
@@ -371,7 +371,7 @@
           ]
         },
         {
-          "name": "SPECIALIZED CODING MODELS",
+          "name": "Specialized Coding Models",
           "description": "AI models optimized for software development",
           "companies": [
             {
@@ -404,11 +404,11 @@
     },
     {
       "number": 3,
-      "name": "Engineering Layer",
+      "name": "ENGINEERING LAYER",
       "description": "The developer's toolkit for building AI applications. This layer provides essential resources for training models, developing applications, and ensuring quality through testing. It provides tools and methods for transforming raw AI capabilities into production-ready solutions.",
       "sections": [
         {
-          "name": "TRAINING & FINE-TUNING",
+          "name": "Training & Fine-Tuning",
           "description": "Resources for customizing and optimizing AI models",
           "companies": [
             {
@@ -474,7 +474,7 @@
           ]
         },
         {
-          "name": "TOOLS",
+          "name": "Tools",
           "description": "Development utilities, libraries and services for building AI applications",
           "companies": [
             {
@@ -510,7 +510,7 @@
             {
               "name": "PromptLayer",
               "description": "PromptLayer provides a comprehensive prompt engineering platform that enables technical and non-technical teams to collaboratively edit, evaluate, and deploy LLM prompts through a visual CMS, while offering version control, A/B testing, and monitoring capabilities with SOC 2 Type 2 compliance.",
-              "logo": "./assets/promptlayer.png",
+              "logo": "./public/images/promptlayer.png",
               "link": "https://www.promptlayer.com/"
             },
             {
@@ -552,7 +552,7 @@
           ]
         },
         {
-          "name": "TESTING & QUALITY ASSURANCE",
+          "name": "Testing & Quality Assurance",
           "description": "Systems for validating AI performance and reliability",
           "companies": [
             {
@@ -610,11 +610,11 @@
     },
     {
       "number": 4,
-      "name": "Observability and Governance Layer",
+      "name": "OBSERVABILITY AND GOVERNANCE LAYER",
       "description": "The control layer for monitoring, evaluating, securing, and governing AI systems. This layer handles everything from development pipelines and performance monitoring to risk management and compliance. It ensures AI systems operate reliably and meet organizational standards.",
       "sections": [
         {
-          "name": "DEVELOPMENT PIPELINE",
+          "name": "Development Pipeline",
           "description": "Tools for managing and monitoring AI application lifecycles",
           "companies": [
             {
@@ -662,7 +662,7 @@
           ]
         },
         {
-          "name": "EVALUATION & MONITORING",
+          "name": "Evaluation & Monitoring",
           "description": "Systems for tracking AI performance and behavior",
           "companies": [
             {
@@ -716,7 +716,7 @@
           ]
         },
         {
-          "name": "RISK & COMPLIANCE",
+          "name": "Risk & Compliance",
           "description": "Frameworks for ensuring responsible AI use and regulatory compliance",
           "companies": [
             {
@@ -740,7 +740,7 @@
           ]
         },
         {
-          "name": "SECURITY & ACCESS CONTROL",
+          "name": "Security & Access Control",
           "description": "Tools for protecting AI systems and managing access and user permissions",
           "companies": [
             {
@@ -755,17 +755,17 @@
     },
     {
       "number": 5,
-      "name": "Agent Consumer Layer",
+      "name": "AGENT CONSUMER LAYER",
       "description": "The interface layer where AI agents interact with users and systems. This includes standalone autonomous agents, assistive tools that enhance human capabilities, and specialized agents built for specific tasks. It's where AI capabilities are packaged into practical, user-facing applications.",
       "sections": [
         {
-          "name": "AUTONOMOUS AGENTS",
+          "name": "Autonomous Agents",
           "description": "Self-operating AI systems that can complete complex tasks independently",
           "companies": [
             {
               "name": "Devin",
               "description": "Cognition develops Devin, the world's first AI software engineer, designed to work as a collaborative teammate that helps engineering teams scale their capabilities through parallel task execution and comprehensive development support.",
-              "logo": "./assets/cognition.png",
+              "logo": "./public/images/cognition.png",
               "link": "https://devin.ai/"
             },
             {
@@ -807,7 +807,7 @@
             {
               "name": "Morph",
               "description": "Morph AI delivers an enterprise-grade developer assistant that automates engineering tasks across multiple languages and frameworks, enabling developers to focus on high-impact work while ensuring code quality through automated testing and compliance.",
-              "logo": "./assets/morph.svg",
+              "logo": "./public/images/morph.svg",
               "link": ""
             },
             {
@@ -831,7 +831,7 @@
           ]
         },
         {
-          "name": "ASSISTIVE AGENTS",
+          "name": "Assistive Agents",
           "description": "AI tools that enhance human capabilities and workflow efficiency",
           "companies": [
             {
@@ -885,7 +885,7 @@
           ]
         },
         {
-          "name": "SPECIALIZED AGENTS",
+          "name": "Specialized Agents",
           "description": "Purpose-built AI agents designed for specific functions, like PR reviews and similar.",
           "companies": [
             {
@@ -909,13 +909,13 @@
             {
               "name": "Codeflash",
               "description": "Codeflash is a CI tool that keeps your Python code performant by using AI to automatically find the most optimized version of your code through benchmarking and verifying the new code for correctness.",
-              "logo": "./assets/codeflash.png",
+              "logo": "./public/images/codeflash.png",
               "link": "https://www.codeflash.ai/"
             },
             {
               "name": "Superflex",
               "description": "Superflex is a VSCode Extension that builds features from Figma designs, images and text prompts, while maintaining your design standards, code style, and reusing your UI components.",
-              "logo": "./assets/superflex.svg",
+              "logo": "./public/images/superflex.svg",
               "link": "https://superflex.ai/"
             },
             {

@@ -39,7 +39,7 @@ The list is structured into layers based on their functionality in the agentic A
   readme += `To contribute to this list:\n\n`;
   readme += `0. Read the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>\n`;
   readme += `1. Fork the repository\n`;
-  readme += `2. Add logo under the assets folder\n`;
+  readme += `2. Add logo under the ./public/images/ folder\n`;
   readme += `3. Add your tool in the appropriate category in the file ai-enablement-stack.json\n`;
   readme += `4. Submit a pull request\n\n`;
 

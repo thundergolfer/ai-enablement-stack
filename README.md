@@ -21,15 +21,15 @@
 Welcome to AI Enablement Stack mapping.
 The list is structured into layers based on their functionality in the agentic AI development ecosystem:
 
-**Agent Consumer Layer**: The interface layer where AI agents interact with users and systems. This includes standalone autonomous agents, assistive tools that enhance human capabilities, and specialized agents built for specific tasks. It's where AI capabilities are packaged into practical, user-facing applications.
+**AGENT CONSUMER LAYER**: The interface layer where AI agents interact with users and systems. This includes standalone autonomous agents, assistive tools that enhance human capabilities, and specialized agents built for specific tasks. It's where AI capabilities are packaged into practical, user-facing applications.
 
-**Observability and Governance Layer**: The control layer for monitoring, evaluating, securing, and governing AI systems. This layer handles everything from development pipelines and performance monitoring to risk management and compliance. It ensures AI systems operate reliably and meet organizational standards.
+**OBSERVABILITY AND GOVERNANCE LAYER**: The control layer for monitoring, evaluating, securing, and governing AI systems. This layer handles everything from development pipelines and performance monitoring to risk management and compliance. It ensures AI systems operate reliably and meet organizational standards.
 
-**Engineering Layer**: The developer's toolkit for building AI applications. This layer provides essential resources for training models, developing applications, and ensuring quality through testing. It provides tools and methods for transforming raw AI capabilities into production-ready solutions.
+**ENGINEERING LAYER**: The developer's toolkit for building AI applications. This layer provides essential resources for training models, developing applications, and ensuring quality through testing. It provides tools and methods for transforming raw AI capabilities into production-ready solutions.
 
-**Intelligence Layer**: The cognitive core of AI systems. This layer contains the frameworks, knowledge engines, and specialized models that power AI applications. It manages the actual processing, decision-making, and information retrieval that makes AI systems intelligent.
+**INTELLIGENCE LAYER**: The cognitive core of AI systems. This layer contains the frameworks, knowledge engines, and specialized models that power AI applications. It manages the actual processing, decision-making, and information retrieval that makes AI systems intelligent.
 
-**Infrastructure Layer**: The foundation that powers AI development and deployment. This includes development workspaces, model serving infrastructure, and cloud computing resources. It provides the essential computing backbone that supports all AI operations.
+**INFRASTRUCTURE LAYER**: The foundation that powers AI development and deployment. This includes development workspaces, model serving infrastructure, and cloud computing resources. It provides the essential computing backbone that supports all AI operations.
 
 ## How to Contribute
 
@@ -37,23 +37,23 @@ To contribute to this list:
 
 0. Read the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>
 1. Fork the repository
-2. Add logo under the assets folder
+2. Add logo under the ./public/images/ folder
 3. Add your tool in the appropriate category in the file ai-enablement-stack.json
 4. Submit a pull request
 
-## Agent Consumer Layer
+## AGENT CONSUMER LAYER
 
-### AUTONOMOUS AGENTS
+### Autonomous Agents
 
 Self-operating AI systems that can complete complex tasks independently
 
 #### [Devin](https://devin.ai/)
 <details>
 
-![Devin](./assets/cognition.png)
+![Devin](./public/images/cognition.png)
 
 ##### Category
-Agent Consumer Layer - AUTONOMOUS AGENTS
+AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
 Cognition develops Devin, the world's first AI software engineer, designed to work as a collaborative teammate that helps engineering teams scale their capabilities through parallel task execution and comprehensive development support.
@@ -66,7 +66,7 @@ Cognition develops Devin, the world's first AI software engineer, designed to wo
 <details>
 
 ##### Category
-Agent Consumer Layer - AUTONOMOUS AGENTS
+AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
 - No description available
@@ -78,7 +78,7 @@ Agent Consumer Layer - AUTONOMOUS AGENTS
 <details>
 
 ##### Category
-Agent Consumer Layer - AUTONOMOUS AGENTS
+AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
 - No description available
@@ -90,7 +90,7 @@ Agent Consumer Layer - AUTONOMOUS AGENTS
 <details>
 
 ##### Category
-Agent Consumer Layer - AUTONOMOUS AGENTS
+AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
 - No description available
@@ -102,7 +102,7 @@ Agent Consumer Layer - AUTONOMOUS AGENTS
 <details>
 
 ##### Category
-Agent Consumer Layer - AUTONOMOUS AGENTS
+AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
 - No description available
@@ -114,7 +114,7 @@ Agent Consumer Layer - AUTONOMOUS AGENTS
 <details>
 
 ##### Category
-Agent Consumer Layer - AUTONOMOUS AGENTS
+AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
 - No description available
@@ -126,7 +126,7 @@ Agent Consumer Layer - AUTONOMOUS AGENTS
 <details>
 
 ##### Category
-Agent Consumer Layer - AUTONOMOUS AGENTS
+AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
 - No description available
@@ -137,10 +137,10 @@ Agent Consumer Layer - AUTONOMOUS AGENTS
 #### [Morph]()
 <details>
 
-![Morph](./assets/morph.svg)
+![Morph](./public/images/morph.svg)
 
 ##### Category
-Agent Consumer Layer - AUTONOMOUS AGENTS
+AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
 Morph AI delivers an enterprise-grade developer assistant that automates engineering tasks across multiple languages and frameworks, enabling developers to focus on high-impact work while ensuring code quality through automated testing and compliance.
@@ -152,7 +152,7 @@ Morph AI delivers an enterprise-grade developer assistant that automates enginee
 <details>
 
 ##### Category
-Agent Consumer Layer - AUTONOMOUS AGENTS
+AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
 Multimodal content creation autonomous agent.
@@ -165,7 +165,7 @@ Multimodal content creation autonomous agent.
 <details>
 
 ##### Category
-Agent Consumer Layer - AUTONOMOUS AGENTS
+AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
 Kubiya provides AI-powered teammates for operations teams, enabling automated task delegation and execution across DevOps workflows, with hallucination-free operations, enterprise-grade security, and native integration with tools like Slack, Jira, and Terraform.
@@ -178,7 +178,7 @@ Kubiya provides AI-powered teammates for operations teams, enabling automated ta
 <details>
 
 ##### Category
-Agent Consumer Layer - AUTONOMOUS AGENTS
+AGENT CONSUMER LAYER - Autonomous Agents
 
 ##### Description
 Goose is an open-source autonomous developer agent that operates directly on your machine, capable of executing shell commands, debugging code, managing dependencies, and interacting with development tools like GitHub and Jira, featuring extensible toolkits and support for multiple LLM providers.
@@ -187,7 +187,7 @@ Goose is an open-source autonomous developer agent that operates directly on you
 - [https://github.com/block/goose](https://github.com/block/goose)
 </details>
 
-### ASSISTIVE AGENTS
+### Assistive Agents
 
 AI tools that enhance human capabilities and workflow efficiency
 
@@ -195,7 +195,7 @@ AI tools that enhance human capabilities and workflow efficiency
 <details>
 
 ##### Category
-Agent Consumer Layer - ASSISTIVE AGENTS
+AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Description
 - No description available
@@ -207,7 +207,7 @@ Agent Consumer Layer - ASSISTIVE AGENTS
 <details>
 
 ##### Category
-Agent Consumer Layer - ASSISTIVE AGENTS
+AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Description
 - No description available
@@ -219,7 +219,7 @@ Agent Consumer Layer - ASSISTIVE AGENTS
 <details>
 
 ##### Category
-Agent Consumer Layer - ASSISTIVE AGENTS
+AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Description
 Sourcegraph's Cody is an AI coding assistant that combines the latest LLM models (including Claude 3 and GPT-4) with comprehensive codebase context to help developers write, understand, and fix code across multiple IDEs, while offering enterprise-grade security and flexible deployment options.
@@ -232,7 +232,7 @@ Sourcegraph's Cody is an AI coding assistant that combines the latest LLM models
 <details>
 
 ##### Category
-Agent Consumer Layer - ASSISTIVE AGENTS
+AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Description
 - No description available
@@ -244,7 +244,7 @@ Agent Consumer Layer - ASSISTIVE AGENTS
 <details>
 
 ##### Category
-Agent Consumer Layer - ASSISTIVE AGENTS
+AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Description
 Tabnine provides a privacy-focused AI code assistant that offers personalized code generation, testing, and review capabilities, featuring bespoke models trained on team codebases, zero data retention, and enterprise-grade security with support for on-premises deployment.
@@ -257,7 +257,7 @@ Tabnine provides a privacy-focused AI code assistant that offers personalized co
 <details>
 
 ##### Category
-Agent Consumer Layer - ASSISTIVE AGENTS
+AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Description
 Supermaven provides ultra-fast code completion and assistance with a 1M token context window, supporting multiple IDEs (VS Code, JetBrains, Neovim) and LLMs (GPT-4, Claude 3.5), featuring real-time chat interface, codebase scanning, and 3x faster response times compared to competitors.
@@ -270,7 +270,7 @@ Supermaven provides ultra-fast code completion and assistance with a 1M token co
 <details>
 
 ##### Category
-Agent Consumer Layer - ASSISTIVE AGENTS
+AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Description
 Pieces provides an on-device AI companion that captures and maintains long-term memory across the developer workflow, offering snippet management, multi-LLM support, and context-aware assistance while processing all data locally for enhanced security and privacy.
@@ -283,7 +283,7 @@ Pieces provides an on-device AI companion that captures and maintains long-term 
 <details>
 
 ##### Category
-Agent Consumer Layer - ASSISTIVE AGENTS
+AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Description
 Aider provides AI pair programming in the terminal, enabling direct code editing in git repositories with support for multiple LLMs (GPT-4, Claude 3.5), featuring multi-file editing, voice coding, image support, and automatic git commits, with top-tier performance on software engineering benchmarks.
@@ -292,7 +292,7 @@ Aider provides AI pair programming in the terminal, enabling direct code editing
 - [https://aider.chat/](https://aider.chat/)
 </details>
 
-### SPECIALIZED AGENTS
+### Specialized Agents
 
 Purpose-built AI agents designed for specific functions, like PR reviews and similar.
 
@@ -300,7 +300,7 @@ Purpose-built AI agents designed for specific functions, like PR reviews and sim
 <details>
 
 ##### Category
-Agent Consumer Layer - SPECIALIZED AGENTS
+AGENT CONSUMER LAYER - Specialized Agents
 
 ##### Description
 - No description available
@@ -312,7 +312,7 @@ Agent Consumer Layer - SPECIALIZED AGENTS
 <details>
 
 ##### Category
-Agent Consumer Layer - SPECIALIZED AGENTS
+AGENT CONSUMER LAYER - Specialized Agents
 
 ##### Description
 - No description available
@@ -324,7 +324,7 @@ Agent Consumer Layer - SPECIALIZED AGENTS
 <details>
 
 ##### Category
-Agent Consumer Layer - SPECIALIZED AGENTS
+AGENT CONSUMER LAYER - Specialized Agents
 
 ##### Description
 Ellipsis provides AI-powered code reviews and automated bug fixes for GitHub repositories, offering features like style guide enforcement, code generation, and automated testing while maintaining SOC 2 Type 1 compliance and secure processing without data retention.
@@ -336,10 +336,10 @@ Ellipsis provides AI-powered code reviews and automated bug fixes for GitHub rep
 #### [Codeflash](https://www.codeflash.ai/)
 <details>
 
-![Codeflash](./assets/codeflash.png)
+![Codeflash](./public/images/codeflash.png)
 
 ##### Category
-Agent Consumer Layer - SPECIALIZED AGENTS
+AGENT CONSUMER LAYER - Specialized Agents
 
 ##### Description
 Codeflash is a CI tool that keeps your Python code performant by using AI to automatically find the most optimized version of your code through benchmarking and verifying the new code for correctness.
@@ -351,10 +351,10 @@ Codeflash is a CI tool that keeps your Python code performant by using AI to aut
 #### [Superflex](https://superflex.ai/)
 <details>
 
-![Superflex](./assets/superflex.svg)
+![Superflex](./public/images/superflex.svg)
 
 ##### Category
-Agent Consumer Layer - SPECIALIZED AGENTS
+AGENT CONSUMER LAYER - Specialized Agents
 
 ##### Description
 Superflex is a VSCode Extension that builds features from Figma designs, images and text prompts, while maintaining your design standards, code style, and reusing your UI components.
@@ -367,7 +367,7 @@ Superflex is a VSCode Extension that builds features from Figma designs, images 
 <details>
 
 ##### Category
-Agent Consumer Layer - SPECIALIZED AGENTS
+AGENT CONSUMER LAYER - Specialized Agents
 
 ##### Description
 Codemod provides AI-powered code migration agents that automate framework migrations, API upgrades, and refactoring at scale, featuring a community registry of migration recipes, AI-assisted codemod creation, and comprehensive migration management capabilities.
@@ -376,9 +376,9 @@ Codemod provides AI-powered code migration agents that automate framework migrat
 - [https://codemod.com/](https://codemod.com/)
 </details>
 
-## Observability and Governance Layer
+## OBSERVABILITY AND GOVERNANCE LAYER
 
-### DEVELOPMENT PIPELINE
+### Development Pipeline
 
 Tools for managing and monitoring AI application lifecycles
 
@@ -386,7 +386,7 @@ Tools for managing and monitoring AI application lifecycles
 <details>
 
 ##### Category
-Observability and Governance Layer - DEVELOPMENT PIPELINE
+OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
 ##### Description
 Portkey provides a comprehensive AI gateway and control panel that enables teams to route to 200+ LLMs, implement guardrails, manage prompts, and monitor AI applications with detailed observability features while maintaining SOC2 compliance and HIPAA/GDPR standards.
@@ -399,7 +399,7 @@ Portkey provides a comprehensive AI gateway and control panel that enables teams
 <details>
 
 ##### Category
-Observability and Governance Layer - DEVELOPMENT PIPELINE
+OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
 ##### Description
 - No description available
@@ -411,7 +411,7 @@ Observability and Governance Layer - DEVELOPMENT PIPELINE
 <details>
 
 ##### Category
-Observability and Governance Layer - DEVELOPMENT PIPELINE
+OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
 ##### Description
 - No description available
@@ -423,7 +423,7 @@ Observability and Governance Layer - DEVELOPMENT PIPELINE
 <details>
 
 ##### Category
-Observability and Governance Layer - DEVELOPMENT PIPELINE
+OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
 ##### Description
 - No description available
@@ -435,7 +435,7 @@ Observability and Governance Layer - DEVELOPMENT PIPELINE
 <details>
 
 ##### Category
-Observability and Governance Layer - DEVELOPMENT PIPELINE
+OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
 ##### Description
 - No description available
@@ -447,7 +447,7 @@ Observability and Governance Layer - DEVELOPMENT PIPELINE
 <details>
 
 ##### Category
-Observability and Governance Layer - DEVELOPMENT PIPELINE
+OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
 ##### Description
 Stack AI provides an enterprise generative AI platform for building and deploying AI applications with a no-code interface, offering pre-built templates, workflow automation, enterprise security features (SOC2, HIPAA, GDPR), and on-premise deployment options with support for multiple AI models and data sources.
@@ -460,7 +460,7 @@ Stack AI provides an enterprise generative AI platform for building and deployin
 <details>
 
 ##### Category
-Observability and Governance Layer - DEVELOPMENT PIPELINE
+OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
 ##### Description
 Lightning AI provides a comprehensive platform for building AI products, featuring GPU access, development environments, training capabilities, and deployment tools, with support for enterprise-grade security, multi-cloud deployment, and team collaboration, used by major organizations like NVIDIA and Microsoft.
@@ -469,7 +469,7 @@ Lightning AI provides a comprehensive platform for building AI products, featuri
 - [https://lightning.ai/](https://lightning.ai/)
 </details>
 
-### EVALUATION & MONITORING
+### Evaluation & Monitoring
 
 Systems for tracking AI performance and behavior
 
@@ -477,7 +477,7 @@ Systems for tracking AI performance and behavior
 <details>
 
 ##### Category
-Observability and Governance Layer - EVALUATION & MONITORING
+OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
 ##### Description
 - No description available
@@ -489,7 +489,7 @@ Observability and Governance Layer - EVALUATION & MONITORING
 <details>
 
 ##### Category
-Observability and Governance Layer - EVALUATION & MONITORING
+OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
 ##### Description
 Cleanlab provides an AI-powered data curation platform that helps organizations improve their GenAI and ML solutions by automatically detecting and fixing data quality issues, reducing hallucinations, and enabling trustworthy AI deployment while offering VPC integration for enhanced security.
@@ -502,7 +502,7 @@ Cleanlab provides an AI-powered data curation platform that helps organizations 
 <details>
 
 ##### Category
-Observability and Governance Layer - EVALUATION & MONITORING
+OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
 ##### Description
 Patronus provides a comprehensive AI evaluation platform built on industry-leading research, offering features for testing hallucinations, security risks, alignment, and performance monitoring, with both pre-built evaluators and custom evaluation capabilities for RAG systems and AI agents.
@@ -515,7 +515,7 @@ Patronus provides a comprehensive AI evaluation platform built on industry-leadi
 <details>
 
 ##### Category
-Observability and Governance Layer - EVALUATION & MONITORING
+OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
 ##### Description
 Log10 provides an end-to-end AI accuracy platform for evaluating and monitoring LLM applications in high-stakes industries, featuring expert-driven evaluation, automated feedback systems, real-time monitoring, and continuous improvement workflows with built-in security and compliance features.
@@ -528,7 +528,7 @@ Log10 provides an end-to-end AI accuracy platform for evaluating and monitoring 
 <details>
 
 ##### Category
-Observability and Governance Layer - EVALUATION & MONITORING
+OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
 ##### Description
 Traceloop provides open-source LLM monitoring through OpenLLMetry, offering real-time hallucination detection, output quality monitoring, and prompt debugging capabilities across 22+ LLM providers with zero-intrusion integration.
@@ -541,7 +541,7 @@ Traceloop provides open-source LLM monitoring through OpenLLMetry, offering real
 <details>
 
 ##### Category
-Observability and Governance Layer - EVALUATION & MONITORING
+OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
 ##### Description
 WhyLabs provides a comprehensive AI Control Center for monitoring, securing, and optimizing AI applications, offering real-time LLM monitoring, security guardrails, and privacy-preserving observability with SOC 2 Type 2 compliance and support for multiple modalities.
@@ -554,7 +554,7 @@ WhyLabs provides a comprehensive AI Control Center for monitoring, securing, and
 <details>
 
 ##### Category
-Observability and Governance Layer - EVALUATION & MONITORING
+OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
 ##### Description
 OpenLLMetry provides an open-source observability solution for LLMs built on OpenTelemetry standards, offering easy integration with major observability platforms like Datadog, New Relic, and Grafana, requiring just two lines of code to implement.
@@ -567,7 +567,7 @@ OpenLLMetry provides an open-source observability solution for LLMs built on Ope
 <details>
 
 ##### Category
-Observability and Governance Layer - EVALUATION & MONITORING
+OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
 ##### Description
 LangWatch provides a comprehensive LLMOps platform for optimizing and monitoring LLM performance, featuring automated prompt optimization using DSPy, quality evaluations, performance monitoring, and collaborative tools for AI teams, with enterprise-grade security and self-hosting options.
@@ -576,7 +576,7 @@ LangWatch provides a comprehensive LLMOps platform for optimizing and monitoring
 - [https://langwatch.ai/](https://langwatch.ai/)
 </details>
 
-### RISK & COMPLIANCE
+### Risk & Compliance
 
 Frameworks for ensuring responsible AI use and regulatory compliance
 
@@ -584,7 +584,7 @@ Frameworks for ensuring responsible AI use and regulatory compliance
 <details>
 
 ##### Category
-Observability and Governance Layer - RISK & COMPLIANCE
+OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 
 ##### Description
 - No description available
@@ -596,7 +596,7 @@ Observability and Governance Layer - RISK & COMPLIANCE
 <details>
 
 ##### Category
-Observability and Governance Layer - RISK & COMPLIANCE
+OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 
 ##### Description
 - No description available
@@ -608,7 +608,7 @@ Observability and Governance Layer - RISK & COMPLIANCE
 <details>
 
 ##### Category
-Observability and Governance Layer - RISK & COMPLIANCE
+OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 
 ##### Description
 - No description available
@@ -616,7 +616,7 @@ Observability and Governance Layer - RISK & COMPLIANCE
 ##### Links
 </details>
 
-### SECURITY & ACCESS CONTROL
+### Security & Access Control
 
 Tools for protecting AI systems and managing access and user permissions
 
@@ -624,7 +624,7 @@ Tools for protecting AI systems and managing access and user permissions
 <details>
 
 ##### Category
-Observability and Governance Layer - SECURITY & ACCESS CONTROL
+OBSERVABILITY AND GOVERNANCE LAYER - Security & Access Control
 
 ##### Description
 LiteLLM provides a unified API gateway for managing 100+ LLM providers with OpenAI-compatible formatting, offering features like authentication, load balancing, spend tracking, and monitoring integrations, available both as an open-source solution and enterprise service.
@@ -633,9 +633,9 @@ LiteLLM provides a unified API gateway for managing 100+ LLM providers with Open
 - [https://litellm.ai/](https://litellm.ai/)
 </details>
 
-## Engineering Layer
+## ENGINEERING LAYER
 
-### TRAINING & FINE-TUNING
+### Training & Fine-Tuning
 
 Resources for customizing and optimizing AI models
 
@@ -643,7 +643,7 @@ Resources for customizing and optimizing AI models
 <details>
 
 ##### Category
-Engineering Layer - TRAINING & FINE-TUNING
+ENGINEERING LAYER - Training & Fine-Tuning
 
 ##### Description
 Provides tools for efficient fine-tuning of large language models, including techniques like quantization and memory optimization.
@@ -656,7 +656,7 @@ Provides tools for efficient fine-tuning of large language models, including tec
 <details>
 
 ##### Category
-Engineering Layer - TRAINING & FINE-TUNING
+ENGINEERING LAYER - Training & Fine-Tuning
 
 ##### Description
 Platform for building and deploying machine learning models, with a focus on simplifying the development process and enabling faster iteration.
@@ -669,7 +669,7 @@ Platform for building and deploying machine learning models, with a focus on sim
 <details>
 
 ##### Category
-Engineering Layer - TRAINING & FINE-TUNING
+ENGINEERING LAYER - Training & Fine-Tuning
 
 ##### Description
 - No description available
@@ -681,7 +681,7 @@ Engineering Layer - TRAINING & FINE-TUNING
 <details>
 
 ##### Category
-Engineering Layer - TRAINING & FINE-TUNING
+ENGINEERING LAYER - Training & Fine-Tuning
 
 ##### Description
 - No description available
@@ -693,7 +693,7 @@ Engineering Layer - TRAINING & FINE-TUNING
 <details>
 
 ##### Category
-Engineering Layer - TRAINING & FINE-TUNING
+ENGINEERING LAYER - Training & Fine-Tuning
 
 ##### Description
 - No description available
@@ -705,7 +705,7 @@ Engineering Layer - TRAINING & FINE-TUNING
 <details>
 
 ##### Category
-Engineering Layer - TRAINING & FINE-TUNING
+ENGINEERING LAYER - Training & Fine-Tuning
 
 ##### Description
 - No description available
@@ -717,7 +717,7 @@ Engineering Layer - TRAINING & FINE-TUNING
 <details>
 
 ##### Category
-Engineering Layer - TRAINING & FINE-TUNING
+ENGINEERING LAYER - Training & Fine-Tuning
 
 ##### Description
 - No description available
@@ -729,7 +729,7 @@ Engineering Layer - TRAINING & FINE-TUNING
 <details>
 
 ##### Category
-Engineering Layer - TRAINING & FINE-TUNING
+ENGINEERING LAYER - Training & Fine-Tuning
 
 ##### Description
 - No description available
@@ -741,7 +741,7 @@ Engineering Layer - TRAINING & FINE-TUNING
 <details>
 
 ##### Category
-Engineering Layer - TRAINING & FINE-TUNING
+ENGINEERING LAYER - Training & Fine-Tuning
 
 ##### Description
 - No description available
@@ -753,7 +753,7 @@ Engineering Layer - TRAINING & FINE-TUNING
 <details>
 
 ##### Category
-Engineering Layer - TRAINING & FINE-TUNING
+ENGINEERING LAYER - Training & Fine-Tuning
 
 ##### Description
 Provides workspaces with GPU
@@ -761,7 +761,7 @@ Provides workspaces with GPU
 ##### Links
 </details>
 
-### TOOLS
+### Tools
 
 Development utilities, libraries and services for building AI applications
 
@@ -769,7 +769,7 @@ Development utilities, libraries and services for building AI applications
 <details>
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 - No description available
@@ -781,7 +781,7 @@ Engineering Layer - TOOLS
 <details>
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 - No description available
@@ -793,7 +793,7 @@ Engineering Layer - TOOLS
 <details>
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 Relevance AI provides a no-code AI workforce platform that enables businesses to build, customize, and manage AI agents and tools for various functions like sales and support, featuring Bosh, their AI Sales Agent, while ensuring enterprise-grade security and compliance.
@@ -806,7 +806,7 @@ Relevance AI provides a no-code AI workforce platform that enables businesses to
 <details>
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 Greptile provides an AI-powered code analysis platform that helps software teams ship faster by offering intelligent code reviews, codebase chat, and custom dev tools with full contextual understanding, while maintaining SOC2 Type II compliance and optional self-hosting capabilities.
@@ -819,7 +819,7 @@ Greptile provides an AI-powered code analysis platform that helps software teams
 <details>
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 Sourcegraph provides a code intelligence platform featuring Cody, an AI coding assistant, and advanced code search capabilities that help developers navigate, understand, and modify complex codebases while automating routine tasks across enterprise environments.
@@ -831,10 +831,10 @@ Sourcegraph provides a code intelligence platform featuring Cody, an AI coding a
 #### [PromptLayer](https://www.promptlayer.com/)
 <details>
 
-![PromptLayer](./assets/promptlayer.png)
+![PromptLayer](./public/images/promptlayer.png)
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 PromptLayer provides a comprehensive prompt engineering platform that enables technical and non-technical teams to collaboratively edit, evaluate, and deploy LLM prompts through a visual CMS, while offering version control, A/B testing, and monitoring capabilities with SOC 2 Type 2 compliance.
@@ -847,7 +847,7 @@ PromptLayer provides a comprehensive prompt engineering platform that enables te
 <details>
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 - No description available
@@ -859,7 +859,7 @@ Engineering Layer - TOOLS
 <details>
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 - No description available
@@ -871,7 +871,7 @@ Engineering Layer - TOOLS
 <details>
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 - No description available
@@ -883,7 +883,7 @@ Engineering Layer - TOOLS
 <details>
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 - No description available
@@ -895,7 +895,7 @@ Engineering Layer - TOOLS
 <details>
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 JigsawStack provides a comprehensive suite of AI APIs including web scraping, translation, speech-to-text, OCR, prediction, and prompt optimization, offering globally distributed infrastructure with type-safe SDKs and built-in monitoring capabilities across 99+ locations.
@@ -908,7 +908,7 @@ JigsawStack provides a comprehensive suite of AI APIs including web scraping, tr
 <details>
 
 ##### Category
-Engineering Layer - TOOLS
+ENGINEERING LAYER - Tools
 
 ##### Description
 LSProxy provides IDE-like code analysis and navigation functionality through a REST API in a Docker container, supporting multiple programming languages via Language Servers and ast-grep, enabling precise code navigation and symbol resolution for AI assistants and custom code RAG systems.
@@ -917,7 +917,7 @@ LSProxy provides IDE-like code analysis and navigation functionality through a R
 - [https://github.com/agentic-labs/lsproxy](https://github.com/agentic-labs/lsproxy)
 </details>
 
-### TESTING & QUALITY ASSURANCE
+### Testing & Quality Assurance
 
 Systems for validating AI performance and reliability
 
@@ -925,7 +925,7 @@ Systems for validating AI performance and reliability
 <details>
 
 ##### Category
-Engineering Layer - TESTING & QUALITY ASSURANCE
+ENGINEERING LAYER - Testing & Quality Assurance
 
 ##### Description
 - No description available
@@ -937,7 +937,7 @@ Engineering Layer - TESTING & QUALITY ASSURANCE
 <details>
 
 ##### Category
-Engineering Layer - TESTING & QUALITY ASSURANCE
+ENGINEERING LAYER - Testing & Quality Assurance
 
 ##### Description
 - No description available
@@ -949,7 +949,7 @@ Engineering Layer - TESTING & QUALITY ASSURANCE
 <details>
 
 ##### Category
-Engineering Layer - TESTING & QUALITY ASSURANCE
+ENGINEERING LAYER - Testing & Quality Assurance
 
 ##### Description
 - No description available
@@ -961,7 +961,7 @@ Engineering Layer - TESTING & QUALITY ASSURANCE
 <details>
 
 ##### Category
-Engineering Layer - TESTING & QUALITY ASSURANCE
+ENGINEERING LAYER - Testing & Quality Assurance
 
 ##### Description
 - No description available
@@ -973,7 +973,7 @@ Engineering Layer - TESTING & QUALITY ASSURANCE
 <details>
 
 ##### Category
-Engineering Layer - TESTING & QUALITY ASSURANCE
+ENGINEERING LAYER - Testing & Quality Assurance
 
 ##### Description
 - No description available
@@ -985,7 +985,7 @@ Engineering Layer - TESTING & QUALITY ASSURANCE
 <details>
 
 ##### Category
-Engineering Layer - TESTING & QUALITY ASSURANCE
+ENGINEERING LAYER - Testing & Quality Assurance
 
 ##### Description
 Confident AI provides an LLM evaluation platform that enables organizations to benchmark, unit test, and monitor their LLM applications through automated regression testing, A/B testing, and synthetic dataset generation, while offering research-backed evaluation metrics and comprehensive observability features.
@@ -998,7 +998,7 @@ Confident AI provides an LLM evaluation platform that enables organizations to b
 <details>
 
 ##### Category
-Engineering Layer - TESTING & QUALITY ASSURANCE
+ENGINEERING LAYER - Testing & Quality Assurance
 
 ##### Description
 AI agent specifically designed for software testing and quality assurance, automating the testing process and providing comprehensive test coverage.
@@ -1011,7 +1011,7 @@ AI agent specifically designed for software testing and quality assurance, autom
 <details>
 
 ##### Category
-Engineering Layer - TESTING & QUALITY ASSURANCE
+ENGINEERING LAYER - Testing & Quality Assurance
 
 ##### Description
 Braintrust provides an end-to-end platform for evaluating and testing LLM applications, offering features like prompt testing, custom scoring, dataset management, real-time tracing, and production monitoring, with support for both UI-based and SDK-driven workflows.
@@ -1020,9 +1020,9 @@ Braintrust provides an end-to-end platform for evaluating and testing LLM applic
 - [https://www.braintrustdata.com/](https://www.braintrustdata.com/)
 </details>
 
-## Intelligence Layer
+## INTELLIGENCE LAYER
 
-### FRAMEWORKS
+### Frameworks
 
 Core libraries and building blocks for AI application development
 
@@ -1030,7 +1030,7 @@ Core libraries and building blocks for AI application development
 <details>
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 - No description available
@@ -1042,7 +1042,7 @@ Intelligence Layer - FRAMEWORKS
 <details>
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 - No description available
@@ -1054,7 +1054,7 @@ Intelligence Layer - FRAMEWORKS
 <details>
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 - No description available
@@ -1066,7 +1066,7 @@ Intelligence Layer - FRAMEWORKS
 <details>
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 - No description available
@@ -1077,10 +1077,10 @@ Intelligence Layer - FRAMEWORKS
 #### [Pydantic AI](https://ai.pydantic.dev/)
 <details>
 
-![Pydantic AI](./assets/pydantic-ai.svg)
+![Pydantic AI](./public/images/pydantic-ai.svg)
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 - No description available
@@ -1092,10 +1092,10 @@ Intelligence Layer - FRAMEWORKS
 #### [Letta](https://www.letta.com/)
 <details>
 
-![Letta](./assets/letta.png)
+![Letta](./public/images/letta.png)
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 Provides an agent development platform with advanced memory management for LLMs, enabling developers to build, deploy, and scale production-ready AI agents with transparent reasoning and model-agnostic flexibility.
@@ -1108,7 +1108,7 @@ Provides an agent development platform with advanced memory management for LLMs,
 <details>
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 Framework for developing LLM applications with multiple conversational agents that collaborate and interact with humans.
@@ -1121,7 +1121,7 @@ Framework for developing LLM applications with multiple conversational agents th
 <details>
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 A framework for creating and managing workflows and tasks for AI agents.
@@ -1134,7 +1134,7 @@ A framework for creating and managing workflows and tasks for AI agents.
 <details>
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 Toolhouse provides a cloud infrastructure platform and universal SDK that enables developers to equip LLMs with actions and knowledge through a Tool Store, offering pre-built optimized functions, low-latency execution, and cross-LLM compatibility with just three lines of code.
@@ -1147,7 +1147,7 @@ Toolhouse provides a cloud infrastructure platform and universal SDK that enable
 <details>
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 Composio provides an integration platform for AI agents and LLMs with 250+ pre-built tools, managed authentication, and RPA capabilities, enabling developers to easily connect their AI applications with various services while maintaining SOC-2 compliance and supporting multiple agent frameworks.
@@ -1160,7 +1160,7 @@ Composio provides an integration platform for AI agents and LLMs with 250+ pre-b
 <details>
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 CrewAI provides a comprehensive platform for building, deploying, and managing multi-agent AI systems, offering both open-source framework and enterprise solutions with support for any LLM and cloud platform, enabling organizations to create automated workflows across various industries.
@@ -1173,7 +1173,7 @@ CrewAI provides a comprehensive platform for building, deploying, and managing m
 <details>
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 AI Suite provides a unified interface for multiple LLM providers (OpenAI, Anthropic, Azure, Google, AWS, Groq, Mistral, etc.), offering standardized API access with OpenAI-compatible syntax, easy provider switching, and seamless integration capabilities, available as an open-source MIT-licensed framework.
@@ -1186,7 +1186,7 @@ AI Suite provides a unified interface for multiple LLM providers (OpenAI, Anthro
 <details>
 
 ##### Category
-Intelligence Layer - FRAMEWORKS
+INTELLIGENCE LAYER - Frameworks
 
 ##### Description
 Promptflow is Microsoft's open-source development framework for LLM applications, offering tools for flow creation, testing, evaluation, and deployment, featuring visual flow design through VS Code extension, built-in evaluation metrics, and CI/CD integration capabilities.
@@ -1195,7 +1195,7 @@ Promptflow is Microsoft's open-source development framework for LLM applications
 - [https://microsoft.github.io/promptflow/index.html](https://microsoft.github.io/promptflow/index.html)
 </details>
 
-### KNOWLEDGE ENGINES
+### Knowledge Engines
 
 Systems for managing and retrieving information
 
@@ -1203,7 +1203,7 @@ Systems for managing and retrieving information
 <details>
 
 ##### Category
-Intelligence Layer - KNOWLEDGE ENGINES
+INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
 - No description available
@@ -1215,7 +1215,7 @@ Intelligence Layer - KNOWLEDGE ENGINES
 <details>
 
 ##### Category
-Intelligence Layer - KNOWLEDGE ENGINES
+INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
 - No description available
@@ -1227,7 +1227,7 @@ Intelligence Layer - KNOWLEDGE ENGINES
 <details>
 
 ##### Category
-Intelligence Layer - KNOWLEDGE ENGINES
+INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
 - No description available
@@ -1239,7 +1239,7 @@ Intelligence Layer - KNOWLEDGE ENGINES
 <details>
 
 ##### Category
-Intelligence Layer - KNOWLEDGE ENGINES
+INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
 - No description available
@@ -1251,7 +1251,7 @@ Intelligence Layer - KNOWLEDGE ENGINES
 <details>
 
 ##### Category
-Intelligence Layer - KNOWLEDGE ENGINES
+INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
 - No description available
@@ -1263,7 +1263,7 @@ Intelligence Layer - KNOWLEDGE ENGINES
 <details>
 
 ##### Category
-Intelligence Layer - KNOWLEDGE ENGINES
+INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
 - No description available
@@ -1275,7 +1275,7 @@ Intelligence Layer - KNOWLEDGE ENGINES
 <details>
 
 ##### Category
-Intelligence Layer - KNOWLEDGE ENGINES
+INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
 - No description available
@@ -1286,10 +1286,10 @@ Intelligence Layer - KNOWLEDGE ENGINES
 #### [Contextual AI](https://contextual.ai/)
 <details>
 
-![Contextual AI](./assets/contextualai.webp)
+![Contextual AI](./public/images/contextualai.webp)
 
 ##### Category
-Intelligence Layer - KNOWLEDGE ENGINES
+INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
 Contextual AI provides enterprise-grade RAG (Retrieval-Augmented Generation) solutions that enable organizations in regulated industries to build and deploy production-ready AI applications for searching and analyzing large volumes of business-critical documents.
@@ -1302,7 +1302,7 @@ Contextual AI provides enterprise-grade RAG (Retrieval-Augmented Generation) sol
 <details>
 
 ##### Category
-Intelligence Layer - KNOWLEDGE ENGINES
+INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
 Platform for working with unstructured data, offering tools for data pre-processing, ETL, and integration with LLMs.
@@ -1315,7 +1315,7 @@ Platform for working with unstructured data, offering tools for data pre-process
 <details>
 
 ##### Category
-Intelligence Layer - KNOWLEDGE ENGINES
+INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
 SciPhi offers R2R, an all-in-one RAG (Retrieval Augmented Generation) solution that enables developers to build and scale AI applications with advanced features including document management, hybrid vector search, and knowledge graphs, while providing superior ingestion performance compared to competitors.
@@ -1328,7 +1328,7 @@ SciPhi offers R2R, an all-in-one RAG (Retrieval Augmented Generation) solution t
 <details>
 
 ##### Category
-Intelligence Layer - KNOWLEDGE ENGINES
+INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
 pgAI is a PostgreSQL extension that enables AI capabilities directly in the database, featuring automated vector embedding creation, RAG implementation, semantic search, and LLM integration (OpenAI, Claude, Cohere, Llama) with support for high-performance vector operations through pgvector and pgvectorscale.
@@ -1337,7 +1337,7 @@ pgAI is a PostgreSQL extension that enables AI capabilities directly in the data
 - [https://github.com/timescale/pgai](https://github.com/timescale/pgai)
 </details>
 
-### SPECIALIZED CODING MODELS
+### Specialized Coding Models
 
 AI models optimized for software development
 
@@ -1345,7 +1345,7 @@ AI models optimized for software development
 <details>
 
 ##### Category
-Intelligence Layer - SPECIALIZED CODING MODELS
+INTELLIGENCE LAYER - Specialized Coding Models
 
 ##### Description
 Codestral is Mistral AI's specialized 22B code generation model supporting 80+ programming languages, featuring a 32k context window, fill-in-the-middle capabilities, and state-of-the-art performance on coding benchmarks, available through API endpoints and IDE integrations.
@@ -1358,7 +1358,7 @@ Codestral is Mistral AI's specialized 22B code generation model supporting 80+ p
 <details>
 
 ##### Category
-Intelligence Layer - SPECIALIZED CODING MODELS
+INTELLIGENCE LAYER - Specialized Coding Models
 
 ##### Description
 Claude 3.5 Sonnet is Anthropic's frontier AI model offering state-of-the-art performance in reasoning, coding, and vision tasks, featuring a 200K token context window, computer use capabilities, and enhanced safety measures, available through multiple platforms including Claude.ai and major cloud providers.
@@ -1371,7 +1371,7 @@ Claude 3.5 Sonnet is Anthropic's frontier AI model offering state-of-the-art per
 <details>
 
 ##### Category
-Intelligence Layer - SPECIALIZED CODING MODELS
+INTELLIGENCE LAYER - Specialized Coding Models
 
 ##### Description
 Qwen2.5-Coder is a specialized code-focused model matching GPT-4's coding capabilities, featuring 32B parameters, 128K token context window, support for 80+ programming languages, and state-of-the-art performance on coding benchmarks, available as an open-source Apache 2.0 licensed model.
@@ -1384,7 +1384,7 @@ Qwen2.5-Coder is a specialized code-focused model matching GPT-4's coding capabi
 <details>
 
 ##### Category
-Intelligence Layer - SPECIALIZED CODING MODELS
+INTELLIGENCE LAYER - Specialized Coding Models
 
 ##### Description
 OpenCoder is an open-source family of code-specialized LLMs (1.5B and 8B parameters) trained on 2.5T tokens, featuring base and chat models with English/Chinese support, complete with training data, processing pipeline, and reproducible protocols, achieving top-tier code LLM performance.
@@ -1393,19 +1393,19 @@ OpenCoder is an open-source family of code-specialized LLMs (1.5B and 8B paramet
 - [https://arxiv.org/pdf/2411.04905](https://arxiv.org/pdf/2411.04905)
 </details>
 
-## Infrastructure Layer
+## INFRASTRUCTURE LAYER
 
-### WORKSPACES
+### Workspaces
 
 Development environments for sandboxing and building AI applications
 
 #### [Daytona](https://daytona.io/)
 <details>
 
-![Daytona](./assets/daytonaio.png)
+![Daytona](./public/images/daytonaio.png)
 
 ##### Category
-Infrastructure Layer - WORKSPACES
+INFRASTRUCTURE LAYER - Workspaces
 
 ##### Description
 Daytona.io is an open-source Development Environment Manager designed to simplify the setup and management of development environments across various platforms, including local, remote, and cloud infrastructures.
@@ -1418,7 +1418,7 @@ Daytona.io is an open-source Development Environment Manager designed to simplif
 <details>
 
 ##### Category
-Infrastructure Layer - WORKSPACES
+INFRASTRUCTURE LAYER - Workspaces
 
 ##### Description
 Runloop provides a secure, high-performance infrastructure platform that enables developers to build, scale, and deploy AI-powered coding solutions with seamless integration and real-time monitoring capabilities.
@@ -1431,7 +1431,7 @@ Runloop provides a secure, high-performance infrastructure platform that enables
 <details>
 
 ##### Category
-Infrastructure Layer - WORKSPACES
+INFRASTRUCTURE LAYER - Workspaces
 
 ##### Description
 E2B provides an open-source runtime platform that enables developers to securely execute AI-generated code in cloud sandboxes, supporting multiple languages and frameworks for AI-powered development use cases.
@@ -1443,10 +1443,10 @@ E2B provides an open-source runtime platform that enables developers to securely
 #### [Modal](https://modal.com/)
 <details>
 
-![Modal](./assets/modal.svg)
+![Modal](./public/images/modal.svg)
 
 ##### Category
-Infrastructure Layer - WORKSPACES
+INFRASTRUCTURE LAYER - Workspaces
 
 ##### Description
 Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.
@@ -1459,7 +1459,7 @@ Modal offers a serverless cloud platform for AI and ML applications that enables
 <details>
 
 ##### Category
-Infrastructure Layer - WORKSPACES
+INFRASTRUCTURE LAYER - Workspaces
 
 ##### Description
 Morph Labs provides infrastructure for developing and deploying autonomous software engineers at scale, offering Infinibranch for Morph Cloud and focusing on advanced infrastructure for AI-powered development, backed by partnerships with Together AI, Nomic AI, and other leading AI companies.
@@ -1468,17 +1468,17 @@ Morph Labs provides infrastructure for developing and deploying autonomous softw
 - [https://morph.so/](https://morph.so/)
 </details>
 
-### MODEL ACCESS & DEPLOYMENT
+### Model Access & Deployment
 
 Services for deploying and running AI models
 
 #### [OpenAI](https://openai.com/)
 <details>
 
-![OpenAI](./assets/openai.png)
+![OpenAI](./public/images/openai.png)
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, and Sora, focusing on creating safe AGI that benefits humanity through products spanning language models, image generation, and video creation while maintaining leadership in AI research and safety.
@@ -1491,7 +1491,7 @@ OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, an
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.
@@ -1504,7 +1504,7 @@ Anthropic provides frontier AI models through the Claude family, emphasizing saf
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.
@@ -1517,7 +1517,7 @@ Mistral AI provides frontier AI models with emphasis on openness and portability
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 Poolside provides a specialized AI foundation model (Malibu) built specifically for software engineering, featuring Reinforcement Learning from Code Execution Feedback, custom fine-tuning on company codebases, and a fully integrated development assistant with IDE support, all deployable within private infrastructure.
@@ -1530,7 +1530,7 @@ Poolside provides a specialized AI foundation model (Malibu) built specifically 
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 Groq provides ultra-fast AI inference infrastructure for openly-available models like Llama 3.1, Mixtral, and Gemma, offering OpenAI-compatible API endpoints with industry-leading speed and simple three-line integration for existing applications.
@@ -1542,10 +1542,10 @@ Groq provides ultra-fast AI inference infrastructure for openly-available models
 #### [AI21labs](https://www.ai21.com/)
 <details>
 
-![AI21labs](./assets/ai21labs.svg)
+![AI21labs](./public/images/ai21labs.svg)
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 AI21 Labs delivers enterprise-grade generative AI solutions through its Jamba foundation model and RAG engine, enabling organizations to build secure, production-ready AI applications with flexible deployment options and dedicated integration support.
@@ -1557,10 +1557,10 @@ AI21 Labs delivers enterprise-grade generative AI solutions through its Jamba fo
 #### [Cohere](https://cohere.com/)
 <details>
 
-![Cohere](./assets/cohere.svg)
+![Cohere](./public/images/cohere.svg)
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 Cohere provides an enterprise AI platform featuring advanced language models, embedding, and retrieval capabilities that enables businesses to build production-ready AI applications with flexible deployment options across cloud or on-premises environments.
@@ -1572,10 +1572,10 @@ Cohere provides an enterprise AI platform featuring advanced language models, em
 #### [Hugging Face](https://huggingface.co/)
 <details>
 
-![Hugging Face](./assets/huggingface.png)
+![Hugging Face](./public/images/huggingface.png)
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 Hugging Face provides fully managed inference infrastructure for ML models with support for multiple hardware options (CPU, GPU, TPU) across various cloud providers, offering autoscaling and dedicated deployments with enterprise-grade security.
@@ -1588,7 +1588,7 @@ Hugging Face provides fully managed inference infrastructure for ML models with 
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 Cartesia AI delivers real-time multimodal intelligence through state space models that enable fast, private, and offline inference capabilities across devices, offering streaming-first solutions with constant memory usage and low latency.
@@ -1601,7 +1601,7 @@ Cartesia AI delivers real-time multimodal intelligence through state space model
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 Provides easy access to open-source language models through a simple API, similar to offerings from closed-source providers.
@@ -1614,7 +1614,7 @@ Provides easy access to open-source language models through a simple API, simila
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 Offers an API for accessing and running open-source LLMs, facilitating seamless integration into AI applications.
@@ -1627,7 +1627,7 @@ Offers an API for accessing and running open-source LLMs, facilitating seamless 
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 End-to-end platform for deploying and managing AI models, including LLMs, with integrated tools for monitoring, versioning, and scaling.
@@ -1640,7 +1640,7 @@ End-to-end platform for deploying and managing AI models, including LLMs, with i
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 Amazon Nova provides state-of-the-art foundation models through Amazon Bedrock, offering multiple model variants (Micro, Lite, Pro, Canvas, Reel) for text, image, and video processing with industry-leading price-performance, fine-tuning capabilities, and enterprise-grade features.
@@ -1653,7 +1653,7 @@ Amazon Nova provides state-of-the-art foundation models through Amazon Bedrock, 
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 Serverless platform for running machine learning models, allowing developers to deploy and scale models without managing infrastructure.
@@ -1666,7 +1666,7 @@ Serverless platform for running machine learning models, allowing developers to 
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 SambaNova provides custom AI infrastructure featuring their SN40L Reconfigurable Dataflow Unit (RDU), offering world-record inference speeds for large language models, with integrated fine-tuning capabilities and enterprise-grade security, delivered through both cloud and on-premises solutions.
@@ -1679,7 +1679,7 @@ SambaNova provides custom AI infrastructure featuring their SN40L Reconfigurable
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 BentoML provides an open-source unified inference platform that enables organizations to build, deploy, and scale AI systems across any cloud with high performance and flexibility, while offering enterprise features like auto-scaling, rapid iteration, and SOC II compliance.
@@ -1692,7 +1692,7 @@ BentoML provides an open-source unified inference platform that enables organiza
 <details>
 
 ##### Category
-Infrastructure Layer - MODEL ACCESS & DEPLOYMENT
+INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
 OpenRouter provides a unified OpenAI-compatible API for accessing 282+ models across multiple providers, offering standardized access, provider routing, and model rankings, with support for multiple SDKs and framework integrations.
@@ -1701,7 +1701,7 @@ OpenRouter provides a unified OpenAI-compatible API for accessing 282+ models ac
 - [https://openrouter.ai/](https://openrouter.ai/)
 </details>
 
-### CLOUD PROVIDERS
+### Cloud Providers
 
 Computing infrastructure that powers AI systems and their workspaces
 
@@ -1709,7 +1709,7 @@ Computing infrastructure that powers AI systems and their workspaces
 <details>
 
 ##### Category
-Infrastructure Layer - CLOUD PROVIDERS
+INFRASTRUCTURE LAYER - Cloud Providers
 
 ##### Description
 - No description available
@@ -1721,7 +1721,7 @@ Infrastructure Layer - CLOUD PROVIDERS
 <details>
 
 ##### Category
-Infrastructure Layer - CLOUD PROVIDERS
+INFRASTRUCTURE LAYER - Cloud Providers
 
 ##### Description
 - No description available
@@ -1733,7 +1733,7 @@ Infrastructure Layer - CLOUD PROVIDERS
 <details>
 
 ##### Category
-Infrastructure Layer - CLOUD PROVIDERS
+INFRASTRUCTURE LAYER - Cloud Providers
 
 ##### Description
 - No description available
@@ -1745,7 +1745,7 @@ Infrastructure Layer - CLOUD PROVIDERS
 <details>
 
 ##### Category
-Infrastructure Layer - CLOUD PROVIDERS
+INFRASTRUCTURE LAYER - Cloud Providers
 
 ##### Description
 - No description available
@@ -1757,7 +1757,7 @@ Infrastructure Layer - CLOUD PROVIDERS
 <details>
 
 ##### Category
-Infrastructure Layer - CLOUD PROVIDERS
+INFRASTRUCTURE LAYER - Cloud Providers
 
 ##### Description
 - No description available
@@ -1769,7 +1769,7 @@ Infrastructure Layer - CLOUD PROVIDERS
 <details>
 
 ##### Category
-Infrastructure Layer - CLOUD PROVIDERS
+INFRASTRUCTURE LAYER - Cloud Providers
 
 ##### Description
 - No description available
@@ -1781,7 +1781,7 @@ Infrastructure Layer - CLOUD PROVIDERS
 <details>
 
 ##### Category
-Infrastructure Layer - CLOUD PROVIDERS
+INFRASTRUCTURE LAYER - Cloud Providers
 
 ##### Description
 - No description available
@@ -1793,7 +1793,7 @@ Infrastructure Layer - CLOUD PROVIDERS
 <details>
 
 ##### Category
-Infrastructure Layer - CLOUD PROVIDERS
+INFRASTRUCTURE LAYER - Cloud Providers
 
 ##### Description
 Koyeb provides a high-performance serverless platform specifically optimized for AI workloads, offering GPU/NPU infrastructure, global deployment across 50+ locations, and seamless scaling capabilities for ML model inference and training with built-in observability.
