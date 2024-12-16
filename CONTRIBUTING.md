@@ -10,7 +10,7 @@ Thank you for your interest in contributing to the AI Enablement Stack! We welco
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to the project maintainers.
+This project and everyone participating in it is governed by our Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to the community leaders at `codeofconduct@daytona.io`.
 
 ## How to Contribute
 
@@ -18,7 +18,7 @@ This project and everyone participating in it is governed by our Code of Conduct
 
 1. Fork the repository
 2. Add the company logo to the `./public/images/` folder (if available)
-   - Image should be high quality and preferably in SVG, PNG, or WebP format
+   - Image should be high quality and preferably in transparent SVG or PNG format (crop them tight)
    - Name the file consistently with the company/product name
 3. Add your entry to the `ai-enablement-stack.json` file in the appropriate category
 4. Submit a pull request
@@ -56,7 +56,7 @@ Ensure your entry falls into one of these main layers and their respective subca
 - Intelligence Layer
   - FRAMEWORKS
   - KNOWLEDGE ENGINES
-  - SPECIALIZED CODING MODELS
+    - SPECIALIZED CODING MODELS
 - Infrastructure Layer
   - WORKSPACES
   - MODEL ACCESS & DEPLOYMENT
