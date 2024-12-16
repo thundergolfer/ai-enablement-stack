@@ -17,11 +17,14 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20 # or your desired node version
+          node-version: 20
 
       - name: Install dependencies
         run: yarn install
@@ -29,21 +32,13 @@ jobs:
       - name: Generate files
         run: yarn run generate
 
-      - name: Configure Git
+      - name: Configure Git and Push
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-
-      - name: Add files
-        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git add ai-enablement-stack.png
-
-      - name: Commit files
-        run: git commit -m "Update README.md and ai-enablement-stack.png"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            branch: ${{ github.ref_name }}
+          git commit -m "Update README.md and ai-enablement-stack.png"
+          git push origin HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
