@@ -391,7 +391,7 @@ Portkey provides a comprehensive AI gateway and control panel that enables teams
 OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
 ##### Description
-Baseten provides inference infrastructure featuring up to 1,500 tokens/second throughput, sub-100ms latency, and GPU autoscaling, with Truss open-source model packaging, enterprise security (SOC2, HIPAA), and support for deployment in customer clouds or self-hosted environments.
+Baseten provides inference infrastructure featuring up to 1.500 tokens/second throughput, sub-100ms latency, and GPU autoscaling, with Truss open-source model packaging, enterprise security (SOC2, HIPAA), and support for deployment in customer clouds or self-hosted environments.
 
 ##### Links
 - [https://baseten.co/](https://baseten.co/)
@@ -1343,7 +1343,7 @@ Poolside Malibu is an enterprise-focused code generation model trained using Rei
 
 ## INFRASTRUCTURE LAYER
 
-### Workspaces
+### AI Workspaces
 
 Development environments for sandboxing and building AI applications
 
@@ -1353,7 +1353,7 @@ Development environments for sandboxing and building AI applications
 ![Daytona](./public/images/daytonaio.png)
 
 ##### Category
-INFRASTRUCTURE LAYER - Workspaces
+INFRASTRUCTURE LAYER - AI Workspaces
 
 ##### Description
 Daytona.io is an open-source Development Environment Manager designed to simplify the setup and management of development environments across various platforms, including local, remote, and cloud infrastructures.
@@ -1366,7 +1366,7 @@ Daytona.io is an open-source Development Environment Manager designed to simplif
 <details>
 
 ##### Category
-INFRASTRUCTURE LAYER - Workspaces
+INFRASTRUCTURE LAYER - AI Workspaces
 
 ##### Description
 Runloop provides a secure, high-performance infrastructure platform that enables developers to build, scale, and deploy AI-powered coding solutions with seamless integration and real-time monitoring capabilities.
@@ -1379,7 +1379,7 @@ Runloop provides a secure, high-performance infrastructure platform that enables
 <details>
 
 ##### Category
-INFRASTRUCTURE LAYER - Workspaces
+INFRASTRUCTURE LAYER - AI Workspaces
 
 ##### Description
 E2B provides an open-source runtime platform that enables developers to securely execute AI-generated code in cloud sandboxes, supporting multiple languages and frameworks for AI-powered development use cases.
@@ -1392,7 +1392,7 @@ E2B provides an open-source runtime platform that enables developers to securely
 <details>
 
 ##### Category
-INFRASTRUCTURE LAYER - Workspaces
+INFRASTRUCTURE LAYER - AI Workspaces
 
 ##### Description
 Morph Labs provides infrastructure for developing and deploying autonomous software engineers at scale, offering Infinibranch for Morph Cloud and focusing on advanced infrastructure for AI-powered development, backed by partnerships with Together AI, Nomic AI, and other leading AI companies.
@@ -1427,7 +1427,7 @@ OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, an
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
-Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.
+Anthropic provides AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.
 
 ##### Links
 - [https://www.anthropic.com/](https://www.anthropic.com/)
@@ -1440,7 +1440,7 @@ Anthropic provides frontier AI models through the Claude family, emphasizing saf
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
-Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.
+Mistral AI provides AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.
 
 ##### Links
 - [https://mistral.ai/](https://mistral.ai/)
