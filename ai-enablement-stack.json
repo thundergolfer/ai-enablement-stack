@@ -32,12 +32,6 @@
               "link": "https://e2b.dev/"
             },
             {
-              "name": "Modal",
-              "description": "Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.",
-              "logo": "./public/images/modal.svg",
-              "link": "https://modal.com/"
-            },
-            {
               "name": "Morph Labs",
               "description": "Morph Labs provides infrastructure for developing and deploying autonomous software engineers at scale, offering Infinibranch for Morph Cloud and focusing on advanced infrastructure for AI-powered development, backed by partnerships with Together AI, Nomic AI, and other leading AI companies.",
               "logo": "",
@@ -66,12 +60,6 @@
               "description": "Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.",
               "logo": "",
               "link": "https://mistral.ai/"
-            },
-            {
-              "name": "Poolside",
-              "description": "Poolside provides a specialized AI foundation model (Malibu) built specifically for software engineering, featuring Reinforcement Learning from Code Execution Feedback, custom fine-tuning on company codebases, and a fully integrated development assistant with IDE support, all deployable within private infrastructure.",
-              "logo": "",
-              "link": "https://poolside.ai/"
             },
             {
               "name": "Groq",
@@ -158,30 +146,6 @@
           "description": "Computing infrastructure that powers AI systems and their workspaces",
           "companies": [
             {
-              "name": "Nvidia",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
-              "name": "AMD",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
-              "name": "Intel",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
-              "name": "SambaNova",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
               "name": "AWS",
               "description": "",
               "logo": "",
@@ -204,6 +168,18 @@
               "description": "Koyeb provides a high-performance serverless platform specifically optimized for AI workloads, offering GPU/NPU infrastructure, global deployment across 50+ locations, and seamless scaling capabilities for ML model inference and training with built-in observability.",
               "logo": "",
               "link": "https://www.koyeb.com/"
+            },
+            {
+              "name": "CoreWeave",
+              "description": "CoreWeave is an AI-focused cloud provider offering Kubernetes-native infrastructure optimized for GPU workloads, featuring 11+ NVIDIA GPU types, up to 35x faster performance and 80% cost reduction compared to traditional providers, with specialized solutions for ML/AI, VFX, and inference at scale.",
+              "logo": "",
+              "link": "https://coreweave.com/"
+            },
+            {
+              "name": "Nebius",
+              "description": "Nebius provides an AI-optimized cloud platform featuring latest NVIDIA GPUs (H200, H100, L40S) with InfiniBand networking, offering managed Kubernetes and Slurm clusters, MLflow integration, and specialized infrastructure for AI training, fine-tuning, and inference workloads.",
+              "logo": "",
+              "link": "https://nebius.com/"
             }
           ]
         }
@@ -295,6 +271,12 @@
               "description": "Promptflow is Microsoft's open-source development framework for LLM applications, offering tools for flow creation, testing, evaluation, and deployment, featuring visual flow design through VS Code extension, built-in evaluation metrics, and CI/CD integration capabilities.",
               "logo": "",
               "link": "https://microsoft.github.io/promptflow/index.html"
+            },
+            {
+              "name": "LLMStack",
+              "description": "LLMStack is an open-source platform for building AI agents, workflows, and applications, featuring model chaining across major providers, data integration from multiple sources (PDFs, URLs, Audio, Drive), and collaborative development capabilities with granular permissions.",
+              "logo": "",
+              "link": "https://llmstack.ai/"
             }
           ]
         },
@@ -340,9 +322,9 @@
             },
             {
               "name": "Supabase",
-              "description": "",
+              "description": "Supabase Vector provides an open-source vector database built on Postgres and pgvector, offering scalable embedding storage, indexing, and querying capabilities with integrated AI tooling for OpenAI and Hugging Face, featuring enterprise-grade security and global deployment options.",
               "logo": "",
-              "link": ""
+              "link": "https://supabase.com/modules/vector"
             },
             {
               "name": "Contextual AI",
@@ -397,6 +379,12 @@
               "description": "OpenCoder is an open-source family of code-specialized LLMs (1.5B and 8B parameters) trained on 2.5T tokens, featuring base and chat models with English/Chinese support, complete with training data, processing pipeline, and reproducible protocols, achieving top-tier code LLM performance.",
               "logo": "",
               "link": "https://arxiv.org/pdf/2411.04905"
+            },
+            {
+              "name": "Poolside Malibu",
+              "description": "Poolside Malibu is an enterprise-focused code generation model trained using Reinforcement Learning from Code Execution Feedback (RLCEF), featuring 100K token context, custom fine-tuning capabilities, and deep integration with development environments, available through Amazon Bedrock for secure deployment.",
+              "logo": "",
+              "link": "https://aws.amazon.com/bedrock/poolside/"
             }
           ]
         }
@@ -424,37 +412,19 @@
               "link": "https://www.predibase.com/"
             },
             {
+              "name": "Modal",
+              "description": "Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.",
+              "logo": "./public/images/modal.svg",
+              "link": "https://modal.com/"
+            },
+            {
               "name": "Bloop",
               "description": "",
               "logo": "",
               "link": ""
             },
             {
-              "name": "Hex Magic",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
               "name": "Julius",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
-              "name": "Flowise",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
-              "name": "LLM Stack",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
-              "name": "broadn",
               "description": "",
               "logo": "",
               "link": ""
@@ -470,6 +440,12 @@
               "description": "Provides workspaces with GPU",
               "logo": "",
               "link": ""
+            },
+            {
+              "name": "Lightning AI",
+              "description": "Lightning AI provides a comprehensive platform for building AI products, featuring GPU access, development environments, training capabilities, and deployment tools, with support for enterprise-grade security, multi-cloud deployment, and team collaboration, used by major organizations like NVIDIA and Microsoft.",
+              "logo": "",
+              "link": "https://lightning.ai/"
             }
           ]
         },
@@ -477,18 +453,6 @@
           "name": "Tools",
           "description": "Development utilities, libraries and services for building AI applications",
           "companies": [
-            {
-              "name": "Codegen",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
-              "name": "Hide.sh",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
             {
               "name": "Relevance AI",
               "description": "Relevance AI provides a no-code AI workforce platform that enables businesses to build, customize, and manage AI agents and tools for various functions like sales and support, featuring Bosh, their AI Sales Agent, while ensuring enterprise-grade security and compliance.",
@@ -544,10 +508,10 @@
               "link": "https://www.jigsawstack.com/"
             },
             {
-              "name": "LSProxy",
-              "description": "LSProxy provides IDE-like code analysis and navigation functionality through a REST API in a Docker container, supporting multiple programming languages via Language Servers and ast-grep, enabling precise code navigation and symbol resolution for AI assistants and custom code RAG systems.",
+              "name": "Flowise",
+              "description": "",
               "logo": "",
-              "link": "https://github.com/agentic-labs/lsproxy"
+              "link": ""
             }
           ]
         },
@@ -636,28 +600,10 @@
               "link": ""
             },
             {
-              "name": "Kong",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
-              "name": "Apigee",
-              "description": "",
-              "logo": "",
-              "link": ""
-            },
-            {
               "name": "Stack AI",
               "description": "Stack AI provides an enterprise generative AI platform for building and deploying AI applications with a no-code interface, offering pre-built templates, workflow automation, enterprise security features (SOC2, HIPAA, GDPR), and on-premise deployment options with support for multiple AI models and data sources.",
               "logo": "",
               "link": "https://www.stack-ai.com/"
-            },
-            {
-              "name": "Lightning AI",
-              "description": "Lightning AI provides a comprehensive platform for building AI products, featuring GPU access, development environments, training capabilities, and deployment tools, with support for enterprise-grade security, multi-cloud deployment, and team collaboration, used by major organizations like NVIDIA and Microsoft.",
-              "logo": "",
-              "link": "https://lightning.ai/"
             }
           ]
         },
@@ -748,6 +694,12 @@
               "description": "LiteLLM provides a unified API gateway for managing 100+ LLM providers with OpenAI-compatible formatting, offering features like authentication, load balancing, spend tracking, and monitoring integrations, available both as an open-source solution and enterprise service.",
               "logo": "",
               "link": "https://litellm.ai/"
+            },
+            {
+              "name": "Martian",
+              "description": "Martian provides an intelligent LLM routing system that dynamically selects the optimal model for each request, featuring performance prediction, automatic failover, cost optimization (up to 98% savings), and simplified integration, outperforming single models like GPT-4 while ensuring high uptime.",
+              "logo": "",
+              "link": "https://withmartian.com/"
             }
           ]
         }
@@ -809,24 +761,6 @@
               "description": "Morph AI delivers an enterprise-grade developer assistant that automates engineering tasks across multiple languages and frameworks, enabling developers to focus on high-impact work while ensuring code quality through automated testing and compliance.",
               "logo": "./public/images/morph.svg",
               "link": ""
-            },
-            {
-              "name": "GoCharlie",
-              "description": "Multimodal content creation autonomous agent.",
-              "logo": "",
-              "link": "https://gocharlie.ai/"
-            },
-            {
-              "name": "Kubiya",
-              "description": "Kubiya provides AI-powered teammates for operations teams, enabling automated task delegation and execution across DevOps workflows, with hallucination-free operations, enterprise-grade security, and native integration with tools like Slack, Jira, and Terraform.",
-              "logo": "",
-              "link": "https://www.kubiya.ai/"
-            },
-            {
-              "name": "Goose",
-              "description": "Goose is an open-source autonomous developer agent that operates directly on your machine, capable of executing shell commands, debugging code, managing dependencies, and interacting with development tools like GitHub and Jira, featuring extensible toolkits and support for multiple LLM providers.",
-              "logo": "",
-              "link": "https://github.com/block/goose"
             }
           ]
         },
@@ -871,16 +805,22 @@
               "link": "https://supermaven.com/"
             },
             {
-              "name": "Pieces",
-              "description": "Pieces provides an on-device AI companion that captures and maintains long-term memory across the developer workflow, offering snippet management, multi-LLM support, and context-aware assistance while processing all data locally for enhanced security and privacy.",
+              "name": "Windsurf",
+              "description": "Windsurf provides an agentic IDE that combines copilot and agent capabilities through 'Flows', featuring Cascade for deep contextual awareness, multi-file editing, command suggestions, and LLM-based search tools, all integrated into a VS Code-based editor for seamless AI-human collaboration.",
               "logo": "",
-              "link": "https://pieces.app/"
+              "link": "https://windsurf.dev/"
             },
             {
-              "name": "Aider",
-              "description": "Aider provides AI pair programming in the terminal, enabling direct code editing in git repositories with support for multiple LLMs (GPT-4, Claude 3.5), featuring multi-file editing, voice coding, image support, and automatic git commits, with top-tier performance on software engineering benchmarks.",
+              "name": "Goose",
+              "description": "Goose is an open-source autonomous developer agent that operates directly on your machine, capable of executing shell commands, debugging code, managing dependencies, and interacting with development tools like GitHub and Jira, featuring extensible toolkits and support for multiple LLM providers.",
               "logo": "",
-              "link": "https://aider.chat/"
+              "link": "https://github.com/block/goose"
+            },
+            {
+              "name": "Hex",
+              "description": "Hex provides an AI-powered analytics platform featuring Magic AI for query writing, chart building, and debugging, combining LLM capabilities with data warehouse context and semantic models to assist with SQL, Python, and visualization tasks while maintaining enterprise-grade security.",
+              "logo": "",
+              "link": "https://hex.tech/"
             }
           ]
         },
@@ -923,6 +863,12 @@
               "description": "Codemod provides AI-powered code migration agents that automate framework migrations, API upgrades, and refactoring at scale, featuring a community registry of migration recipes, AI-assisted codemod creation, and comprehensive migration management capabilities.",
               "logo": "",
               "link": "https://codemod.com/"
+            },
+            {
+              "name": "Codegen",
+              "description": "Codegen provides enterprise-grade static analysis and codemod capabilities for large-scale code transformations, featuring advanced visualization tools, automated documentation generation, and platform engineering templates, with SOC 2 Type II certification for secure refactoring at scale.",
+              "logo": "",
+              "link": "https://codegen.com/"
             }
           ]
         }

@@ -148,45 +148,6 @@ Morph AI delivers an enterprise-grade developer assistant that automates enginee
 ##### Links
 </details>
 
-#### [GoCharlie](https://gocharlie.ai/)
-<details>
-
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
-
-##### Description
-Multimodal content creation autonomous agent.
-
-##### Links
-- [https://gocharlie.ai/](https://gocharlie.ai/)
-</details>
-
-#### [Kubiya](https://www.kubiya.ai/)
-<details>
-
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
-
-##### Description
-Kubiya provides AI-powered teammates for operations teams, enabling automated task delegation and execution across DevOps workflows, with hallucination-free operations, enterprise-grade security, and native integration with tools like Slack, Jira, and Terraform.
-
-##### Links
-- [https://www.kubiya.ai/](https://www.kubiya.ai/)
-</details>
-
-#### [Goose](https://github.com/block/goose)
-<details>
-
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
-
-##### Description
-Goose is an open-source autonomous developer agent that operates directly on your machine, capable of executing shell commands, debugging code, managing dependencies, and interacting with development tools like GitHub and Jira, featuring extensible toolkits and support for multiple LLM providers.
-
-##### Links
-- [https://github.com/block/goose](https://github.com/block/goose)
-</details>
-
 ### Assistive Agents
 
 AI tools that enhance human capabilities and workflow efficiency
@@ -266,30 +227,43 @@ Supermaven provides ultra-fast code completion and assistance with a 1M token co
 - [https://supermaven.com/](https://supermaven.com/)
 </details>
 
-#### [Pieces](https://pieces.app/)
+#### [Windsurf](https://windsurf.dev/)
 <details>
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Description
-Pieces provides an on-device AI companion that captures and maintains long-term memory across the developer workflow, offering snippet management, multi-LLM support, and context-aware assistance while processing all data locally for enhanced security and privacy.
+Windsurf provides an agentic IDE that combines copilot and agent capabilities through 'Flows', featuring Cascade for deep contextual awareness, multi-file editing, command suggestions, and LLM-based search tools, all integrated into a VS Code-based editor for seamless AI-human collaboration.
 
 ##### Links
-- [https://pieces.app/](https://pieces.app/)
+- [https://windsurf.dev/](https://windsurf.dev/)
 </details>
 
-#### [Aider](https://aider.chat/)
+#### [Goose](https://github.com/block/goose)
 <details>
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
 
 ##### Description
-Aider provides AI pair programming in the terminal, enabling direct code editing in git repositories with support for multiple LLMs (GPT-4, Claude 3.5), featuring multi-file editing, voice coding, image support, and automatic git commits, with top-tier performance on software engineering benchmarks.
+Goose is an open-source autonomous developer agent that operates directly on your machine, capable of executing shell commands, debugging code, managing dependencies, and interacting with development tools like GitHub and Jira, featuring extensible toolkits and support for multiple LLM providers.
 
 ##### Links
-- [https://aider.chat/](https://aider.chat/)
+- [https://github.com/block/goose](https://github.com/block/goose)
+</details>
+
+#### [Hex](https://hex.tech/)
+<details>
+
+##### Category
+AGENT CONSUMER LAYER - Assistive Agents
+
+##### Description
+Hex provides an AI-powered analytics platform featuring Magic AI for query writing, chart building, and debugging, combining LLM capabilities with data warehouse context and semantic models to assist with SQL, Python, and visualization tasks while maintaining enterprise-grade security.
+
+##### Links
+- [https://hex.tech/](https://hex.tech/)
 </details>
 
 ### Specialized Agents
@@ -376,6 +350,19 @@ Codemod provides AI-powered code migration agents that automate framework migrat
 - [https://codemod.com/](https://codemod.com/)
 </details>
 
+#### [Codegen](https://codegen.com/)
+<details>
+
+##### Category
+AGENT CONSUMER LAYER - Specialized Agents
+
+##### Description
+Codegen provides enterprise-grade static analysis and codemod capabilities for large-scale code transformations, featuring advanced visualization tools, automated documentation generation, and platform engineering templates, with SOC 2 Type II certification for secure refactoring at scale.
+
+##### Links
+- [https://codegen.com/](https://codegen.com/)
+</details>
+
 ## OBSERVABILITY AND GOVERNANCE LAYER
 
 ### Development Pipeline
@@ -419,30 +406,6 @@ OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 ##### Links
 </details>
 
-#### [Kong]()
-<details>
-
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [Apigee]()
-<details>
-
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
 #### [Stack AI](https://www.stack-ai.com/)
 <details>
 
@@ -454,19 +417,6 @@ Stack AI provides an enterprise generative AI platform for building and deployin
 
 ##### Links
 - [https://www.stack-ai.com/](https://www.stack-ai.com/)
-</details>
-
-#### [Lightning AI](https://lightning.ai/)
-<details>
-
-##### Category
-OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
-
-##### Description
-Lightning AI provides a comprehensive platform for building AI products, featuring GPU access, development environments, training capabilities, and deployment tools, with support for enterprise-grade security, multi-cloud deployment, and team collaboration, used by major organizations like NVIDIA and Microsoft.
-
-##### Links
-- [https://lightning.ai/](https://lightning.ai/)
 </details>
 
 ### Evaluation & Monitoring
@@ -633,6 +583,19 @@ LiteLLM provides a unified API gateway for managing 100+ LLM providers with Open
 - [https://litellm.ai/](https://litellm.ai/)
 </details>
 
+#### [Martian](https://withmartian.com/)
+<details>
+
+##### Category
+OBSERVABILITY AND GOVERNANCE LAYER - Security & Access Control
+
+##### Description
+Martian provides an intelligent LLM routing system that dynamically selects the optimal model for each request, featuring performance prediction, automatic failover, cost optimization (up to 98% savings), and simplified integration, outperforming single models like GPT-4 while ensuring high uptime.
+
+##### Links
+- [https://withmartian.com/](https://withmartian.com/)
+</details>
+
 ## ENGINEERING LAYER
 
 ### Training & Fine-Tuning
@@ -665,6 +628,21 @@ Platform for building and deploying machine learning models, with a focus on sim
 - [https://www.predibase.com/](https://www.predibase.com/)
 </details>
 
+#### [Modal](https://modal.com/)
+<details>
+
+![Modal](./public/images/modal.svg)
+
+##### Category
+ENGINEERING LAYER - Training & Fine-Tuning
+
+##### Description
+Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.
+
+##### Links
+- [https://modal.com/](https://modal.com/)
+</details>
+
 #### [Bloop]()
 <details>
 
@@ -677,55 +655,7 @@ ENGINEERING LAYER - Training & Fine-Tuning
 ##### Links
 </details>
 
-#### [Hex Magic]()
-<details>
-
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
 #### [Julius]()
-<details>
-
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [Flowise]()
-<details>
-
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [LLM Stack]()
-<details>
-
-##### Category
-ENGINEERING LAYER - Training & Fine-Tuning
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [broadn]()
 <details>
 
 ##### Category
@@ -761,33 +691,22 @@ Provides workspaces with GPU
 ##### Links
 </details>
 
+#### [Lightning AI](https://lightning.ai/)
+<details>
+
+##### Category
+ENGINEERING LAYER - Training & Fine-Tuning
+
+##### Description
+Lightning AI provides a comprehensive platform for building AI products, featuring GPU access, development environments, training capabilities, and deployment tools, with support for enterprise-grade security, multi-cloud deployment, and team collaboration, used by major organizations like NVIDIA and Microsoft.
+
+##### Links
+- [https://lightning.ai/](https://lightning.ai/)
+</details>
+
 ### Tools
 
 Development utilities, libraries and services for building AI applications
-
-#### [Codegen]()
-<details>
-
-##### Category
-ENGINEERING LAYER - Tools
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [Hide.sh]()
-<details>
-
-##### Category
-ENGINEERING LAYER - Tools
-
-##### Description
-- No description available
-
-##### Links
-</details>
 
 #### [Relevance AI](https://relevanceai.com/)
 <details>
@@ -904,17 +823,16 @@ JigsawStack provides a comprehensive suite of AI APIs including web scraping, tr
 - [https://www.jigsawstack.com/](https://www.jigsawstack.com/)
 </details>
 
-#### [LSProxy](https://github.com/agentic-labs/lsproxy)
+#### [Flowise]()
 <details>
 
 ##### Category
 ENGINEERING LAYER - Tools
 
 ##### Description
-LSProxy provides IDE-like code analysis and navigation functionality through a REST API in a Docker container, supporting multiple programming languages via Language Servers and ast-grep, enabling precise code navigation and symbol resolution for AI assistants and custom code RAG systems.
+- No description available
 
 ##### Links
-- [https://github.com/agentic-labs/lsproxy](https://github.com/agentic-labs/lsproxy)
 </details>
 
 ### Testing & Quality Assurance
@@ -1195,6 +1113,19 @@ Promptflow is Microsoft's open-source development framework for LLM applications
 - [https://microsoft.github.io/promptflow/index.html](https://microsoft.github.io/promptflow/index.html)
 </details>
 
+#### [LLMStack](https://llmstack.ai/)
+<details>
+
+##### Category
+INTELLIGENCE LAYER - Frameworks
+
+##### Description
+LLMStack is an open-source platform for building AI agents, workflows, and applications, featuring model chaining across major providers, data integration from multiple sources (PDFs, URLs, Audio, Drive), and collaborative development capabilities with granular permissions.
+
+##### Links
+- [https://llmstack.ai/](https://llmstack.ai/)
+</details>
+
 ### Knowledge Engines
 
 Systems for managing and retrieving information
@@ -1271,16 +1202,17 @@ INTELLIGENCE LAYER - Knowledge Engines
 ##### Links
 </details>
 
-#### [Supabase]()
+#### [Supabase](https://supabase.com/modules/vector)
 <details>
 
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
 
 ##### Description
-- No description available
+Supabase Vector provides an open-source vector database built on Postgres and pgvector, offering scalable embedding storage, indexing, and querying capabilities with integrated AI tooling for OpenAI and Hugging Face, featuring enterprise-grade security and global deployment options.
 
 ##### Links
+- [https://supabase.com/modules/vector](https://supabase.com/modules/vector)
 </details>
 
 #### [Contextual AI](https://contextual.ai/)
@@ -1393,6 +1325,19 @@ OpenCoder is an open-source family of code-specialized LLMs (1.5B and 8B paramet
 - [https://arxiv.org/pdf/2411.04905](https://arxiv.org/pdf/2411.04905)
 </details>
 
+#### [Poolside Malibu](https://aws.amazon.com/bedrock/poolside/)
+<details>
+
+##### Category
+INTELLIGENCE LAYER - Specialized Coding Models
+
+##### Description
+Poolside Malibu is an enterprise-focused code generation model trained using Reinforcement Learning from Code Execution Feedback (RLCEF), featuring 100K token context, custom fine-tuning capabilities, and deep integration with development environments, available through Amazon Bedrock for secure deployment.
+
+##### Links
+- [https://aws.amazon.com/bedrock/poolside/](https://aws.amazon.com/bedrock/poolside/)
+</details>
+
 ## INFRASTRUCTURE LAYER
 
 ### Workspaces
@@ -1438,21 +1383,6 @@ E2B provides an open-source runtime platform that enables developers to securely
 
 ##### Links
 - [https://e2b.dev/](https://e2b.dev/)
-</details>
-
-#### [Modal](https://modal.com/)
-<details>
-
-![Modal](./public/images/modal.svg)
-
-##### Category
-INFRASTRUCTURE LAYER - Workspaces
-
-##### Description
-Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.
-
-##### Links
-- [https://modal.com/](https://modal.com/)
 </details>
 
 #### [Morph Labs](https://morph.so/)
@@ -1511,19 +1441,6 @@ Mistral AI provides frontier AI models with emphasis on openness and portability
 
 ##### Links
 - [https://mistral.ai/](https://mistral.ai/)
-</details>
-
-#### [Poolside](https://poolside.ai/)
-<details>
-
-##### Category
-INFRASTRUCTURE LAYER - Model Access & Deployment
-
-##### Description
-Poolside provides a specialized AI foundation model (Malibu) built specifically for software engineering, featuring Reinforcement Learning from Code Execution Feedback, custom fine-tuning on company codebases, and a fully integrated development assistant with IDE support, all deployable within private infrastructure.
-
-##### Links
-- [https://poolside.ai/](https://poolside.ai/)
 </details>
 
 #### [Groq](https://groq.com/)
@@ -1705,54 +1622,6 @@ OpenRouter provides a unified OpenAI-compatible API for accessing 282+ models ac
 
 Computing infrastructure that powers AI systems and their workspaces
 
-#### [Nvidia]()
-<details>
-
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [AMD]()
-<details>
-
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [Intel]()
-<details>
-
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [SambaNova]()
-<details>
-
-##### Category
-INFRASTRUCTURE LAYER - Cloud Providers
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
 #### [AWS]()
 <details>
 
@@ -1800,6 +1669,32 @@ Koyeb provides a high-performance serverless platform specifically optimized for
 
 ##### Links
 - [https://www.koyeb.com/](https://www.koyeb.com/)
+</details>
+
+#### [CoreWeave](https://coreweave.com/)
+<details>
+
+##### Category
+INFRASTRUCTURE LAYER - Cloud Providers
+
+##### Description
+CoreWeave is an AI-focused cloud provider offering Kubernetes-native infrastructure optimized for GPU workloads, featuring 11+ NVIDIA GPU types, up to 35x faster performance and 80% cost reduction compared to traditional providers, with specialized solutions for ML/AI, VFX, and inference at scale.
+
+##### Links
+- [https://coreweave.com/](https://coreweave.com/)
+</details>
+
+#### [Nebius](https://nebius.com/)
+<details>
+
+##### Category
+INFRASTRUCTURE LAYER - Cloud Providers
+
+##### Description
+Nebius provides an AI-optimized cloud platform featuring latest NVIDIA GPUs (H200, H100, L40S) with InfiniBand networking, offering managed Kubernetes and Slurm clusters, MLflow integration, and specialized infrastructure for AI training, fine-tuning, and inference workloads.
+
+##### Links
+- [https://nebius.com/](https://nebius.com/)
 </details>
 
 
