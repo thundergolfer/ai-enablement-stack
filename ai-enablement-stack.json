@@ -589,7 +589,7 @@
             },
             {
               "name": "Baseten",
-              "description": "Baseten provides inference infrastructure featuring up to 1,500 tokens/second throughput, sub-100ms latency, and GPU autoscaling, with Truss open-source model packaging, enterprise security (SOC2, HIPAA), and support for deployment in customer clouds or self-hosted environments.",
+              "description": "Baseten provides inference infrastructure featuring up to 1.500 tokens/second throughput, sub-100ms latency, and GPU autoscaling, with Truss open-source model packaging, enterprise security (SOC2, HIPAA), and support for deployment in customer clouds or self-hosted environments.",
               "logo": "./public/images/baseten.png",
               "link": "https://baseten.co/"
             },
