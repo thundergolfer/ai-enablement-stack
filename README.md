@@ -385,6 +385,8 @@ Portkey provides a comprehensive AI gateway and control panel that enables teams
 #### [Baseten](https://baseten.co/)
 <details>
 
+![Baseten](./public/images/baseten.png)
+
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
