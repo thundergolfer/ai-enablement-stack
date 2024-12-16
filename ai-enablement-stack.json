@@ -10,7 +10,7 @@
       "description": "The foundation that powers AI development and deployment. This includes development workspaces, model serving infrastructure, and cloud computing resources. It provides the essential computing backbone that supports all AI operations.",
       "sections": [
         {
-          "name": "Workspaces",
+          "name": "AI Workspaces",
           "description": "Development environments for sandboxing and building AI applications",
           "companies": [
             {
