@@ -1,0 +1,45 @@
+name: Generate and Commit Files
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+
+jobs:
+  generate-and-commit:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20 # or your desired node version
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Generate files
+        run: yarn run generate
+
+      - name: Configure Git
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+      - name: Add files
+        run: |
+          git add README.md
+          git add ai-enablement-stack.png
+
+      - name: Commit files
+        run: git commit -m "Update README.md and ai-enablement-stack.png"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            branch: ${{ github.ref_name }}
