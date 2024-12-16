@@ -35,6 +35,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}
 
       - name: Add files
         run: |
@@ -45,7 +46,6 @@ jobs:
         run: git commit -m "Update README.md and ai-enablement-stack.png"
 
       - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.PAT }}
-          branch: main
+        run: git push origin ${{ github.ref_name }}
+    env:
+      PAT: ${{ secrets.PAT }}
