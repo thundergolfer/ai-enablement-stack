@@ -34,7 +34,7 @@
             {
               "name": "Morph Labs",
               "description": "Morph Labs provides infrastructure for developing and deploying autonomous software engineers at scale, offering Infinibranch for Morph Cloud and focusing on advanced infrastructure for AI-powered development, backed by partnerships with Together AI, Nomic AI, and other leading AI companies.",
-              "logo": "./public/images/morph.png",
+              "logo": "./public/images/morph.svg",
               "link": "https://morph.so/"
             }
           ]
@@ -106,7 +106,7 @@
             {
               "name": "Google Vertex AI",
               "description": "End-to-end platform for deploying and managing AI models, including LLMs, with integrated tools for monitoring, versioning, and scaling.",
-              "logo": "./public/images/vertex-ai.png",
+              "logo": "./public/images/vertex.png",
               "link": "https://cloud.google.com/vertex-ai"
             },
             {
@@ -197,7 +197,7 @@
             {
               "name": "LangChain",
               "description": "",
-              "logo": "./public/images/langchain.svg",
+              "logo": "./public/images/langchain.png",
               "link": ""
             },
             {
@@ -335,7 +335,7 @@
             {
               "name": "Unstructured",
               "description": "Platform for working with unstructured data, offering tools for data pre-processing, ETL, and integration with LLMs.",
-              "logo": "./public/images/unstructured.png",
+              "logo": "./public/images/unstructured.avif",
               "link": "https://unstructured.io/"
             },
             {
@@ -426,7 +426,7 @@
             {
               "name": "Julius",
               "description": "",
-              "logo": "./public/images/julius.png",
+              "logo": "./public/images/julius.svg",
               "link": ""
             },
             {
@@ -444,7 +444,7 @@
             {
               "name": "Lightning AI",
               "description": "Lightning AI provides a comprehensive platform for building AI products, featuring GPU access, development environments, training capabilities, and deployment tools, with support for enterprise-grade security, multi-cloud deployment, and team collaboration, used by major organizations like NVIDIA and Microsoft.",
-              "logo": "./public/images/lightningai.svg",
+              "logo": "./public/images/lightningai.png",
               "link": "https://lightning.ai/"
             }
           ]
@@ -540,7 +540,7 @@
             {
               "name": "Weight & Biases",
               "description": "",
-              "logo": "./public/images/weights-and-biases.svg",
+              "logo": "./public/images/w&b.png",
               "link": ""
             },
             {
@@ -674,13 +674,13 @@
             {
               "name": "Guardrails AI",
               "description": "",
-              "logo": "./public/images/guardrailsai.png",
+              "logo": "./public/images/guardrailsai.svg",
               "link": ""
             },
             {
               "name": "Lakera",
               "description": "",
-              "logo": "./public/images/lakera-ai.svg",
+              "logo": "./public/images/lakera-ai.png",
               "link": ""
             }
           ]
@@ -698,7 +698,7 @@
             {
               "name": "Martian",
               "description": "Martian provides an intelligent LLM routing system that dynamically selects the optimal model for each request, featuring performance prediction, automatic failover, cost optimization (up to 98% savings), and simplified integration, outperforming single models like GPT-4 while ensuring high uptime.",
-              "logo": "./public/images/martian.svg",
+              "logo": "./public/images/martian.png",
               "link": "https://withmartian.com/"
             }
           ]
@@ -729,7 +729,7 @@
             {
               "name": "Lovable",
               "description": "",
-              "logo": "./public/images/loveable.png",
+              "logo": "./public/images/loveable.svg",
               "link": ""
             },
             {
@@ -759,7 +759,7 @@
             {
               "name": "Morph",
               "description": "Morph AI delivers an enterprise-grade developer assistant that automates engineering tasks across multiple languages and frameworks, enabling developers to focus on high-impact work while ensuring code quality through automated testing and compliance.",
-              "logo": "./public/images/morph.png",
+              "logo": "./public/images/morph.svg",
               "link": "https://www.morph.ai/"
             }
           ]
@@ -795,7 +795,7 @@
             {
               "name": "Tabnine",
               "description": "Tabnine provides a privacy-focused AI code assistant that offers personalized code generation, testing, and review capabilities, featuring bespoke models trained on team codebases, zero data retention, and enterprise-grade security with support for on-premises deployment.",
-              "logo": "./public/images/tabnine.svg",
+              "logo": "./public/images/tabnine.png",
               "link": "https://www.tabnine.com/"
             },
             {
