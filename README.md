@@ -62,8 +62,10 @@ Cognition develops Devin, the world's first AI software engineer, designed to wo
 - [https://devin.ai/](https://devin.ai/)
 </details>
 
-#### [OpenHands]()
+#### [OpenHands](https://www.all-hands.dev/)
 <details>
+
+![OpenHands](./public/images/openhands.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Autonomous Agents
@@ -72,10 +74,13 @@ AGENT CONSUMER LAYER - Autonomous Agents
 - No description available
 
 ##### Links
+- [https://www.all-hands.dev/](https://www.all-hands.dev/)
 </details>
 
 #### [Lovable]()
 <details>
+
+![Lovable](./public/images/loveable.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Autonomous Agents
@@ -89,6 +94,8 @@ AGENT CONSUMER LAYER - Autonomous Agents
 #### [AutoGen]()
 <details>
 
+![AutoGen](./public/images/autogen.svg)
+
 ##### Category
 AGENT CONSUMER LAYER - Autonomous Agents
 
@@ -101,17 +108,7 @@ AGENT CONSUMER LAYER - Autonomous Agents
 #### [BabyAGI]()
 <details>
 
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [AgentGPT]()
-<details>
+![BabyAGI](./public/images/babyagi.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Autonomous Agents
@@ -122,8 +119,10 @@ AGENT CONSUMER LAYER - Autonomous Agents
 ##### Links
 </details>
 
-#### [Superagent]()
+#### [AgentGPT](https://agentgpt.reworkd.ai/)
 <details>
+
+![AgentGPT](./public/images/agentGPT.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Autonomous Agents
@@ -132,12 +131,28 @@ AGENT CONSUMER LAYER - Autonomous Agents
 - No description available
 
 ##### Links
+- [https://agentgpt.reworkd.ai/](https://agentgpt.reworkd.ai/)
 </details>
 
-#### [Morph]()
+#### [Superagent](https://docs.superagent.sh/overview/overview/introduction)
 <details>
 
-![Morph](./public/images/morph.svg)
+![Superagent](./public/images/superagent.png)
+
+##### Category
+AGENT CONSUMER LAYER - Autonomous Agents
+
+##### Description
+- No description available
+
+##### Links
+- [https://docs.superagent.sh/overview/overview/introduction](https://docs.superagent.sh/overview/overview/introduction)
+</details>
+
+#### [Morph](https://www.morph.ai/)
+<details>
+
+![Morph](./public/images/morph.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Autonomous Agents
@@ -146,6 +161,7 @@ AGENT CONSUMER LAYER - Autonomous Agents
 Morph AI delivers an enterprise-grade developer assistant that automates engineering tasks across multiple languages and frameworks, enabling developers to focus on high-impact work while ensuring code quality through automated testing and compliance.
 
 ##### Links
+- [https://www.morph.ai/](https://www.morph.ai/)
 </details>
 
 ### Assistive Agents
@@ -155,6 +171,8 @@ AI tools that enhance human capabilities and workflow efficiency
 #### [Copilot]()
 <details>
 
+![Copilot](./public/images/copilot.png)
+
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
 
@@ -164,8 +182,10 @@ AGENT CONSUMER LAYER - Assistive Agents
 ##### Links
 </details>
 
-#### [Continue.dev]()
+#### [Continue.dev](https://www.continue.dev/)
 <details>
+
+![Continue.dev](./public/images/continue-dev.svg)
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
@@ -174,10 +194,13 @@ AGENT CONSUMER LAYER - Assistive Agents
 - No description available
 
 ##### Links
+- [https://www.continue.dev/](https://www.continue.dev/)
 </details>
 
 #### [Cody](https://sourcegraph.com/cody)
 <details>
+
+![Cody](./public/images/sourcegraph.svg)
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
@@ -189,8 +212,10 @@ Sourcegraph's Cody is an AI coding assistant that combines the latest LLM models
 - [https://sourcegraph.com/cody](https://sourcegraph.com/cody)
 </details>
 
-#### [Cursor]()
+#### [Cursor](https://www.cursor.com/)
 <details>
+
+![Cursor](./public/images/cursor.svg)
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
@@ -199,10 +224,13 @@ AGENT CONSUMER LAYER - Assistive Agents
 - No description available
 
 ##### Links
+- [https://www.cursor.com/](https://www.cursor.com/)
 </details>
 
 #### [Tabnine](https://www.tabnine.com/)
 <details>
+
+![Tabnine](./public/images/tabnine.svg)
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
@@ -217,6 +245,8 @@ Tabnine provides a privacy-focused AI code assistant that offers personalized co
 #### [Supermaven](https://supermaven.com/)
 <details>
 
+![Supermaven](./public/images/supermaven.svg)
+
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
 
@@ -229,6 +259,8 @@ Supermaven provides ultra-fast code completion and assistance with a 1M token co
 
 #### [Windsurf](https://windsurf.dev/)
 <details>
+
+![Windsurf](./public/images/goose.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
@@ -256,6 +288,8 @@ Goose is an open-source autonomous developer agent that operates directly on you
 #### [Hex](https://hex.tech/)
 <details>
 
+![Hex](./public/images/hex.svg)
+
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
 
@@ -270,8 +304,10 @@ Hex provides an AI-powered analytics platform featuring Magic AI for query writi
 
 Purpose-built AI agents designed for specific functions, like PR reviews and similar.
 
-#### [CodeRabbit]()
+#### [CodeRabbit](https://www.coderabbit.ai/)
 <details>
+
+![CodeRabbit](./public/images/coderabbit.svg)
 
 ##### Category
 AGENT CONSUMER LAYER - Specialized Agents
@@ -280,10 +316,13 @@ AGENT CONSUMER LAYER - Specialized Agents
 - No description available
 
 ##### Links
+- [https://www.coderabbit.ai/](https://www.coderabbit.ai/)
 </details>
 
-#### [Qodo]()
+#### [Qodo](https://www.qodo.ai/)
 <details>
+
+![Qodo](./public/images/qodo.svg)
 
 ##### Category
 AGENT CONSUMER LAYER - Specialized Agents
@@ -292,6 +331,7 @@ AGENT CONSUMER LAYER - Specialized Agents
 - No description available
 
 ##### Links
+- [https://www.qodo.ai/](https://www.qodo.ai/)
 </details>
 
 #### [Ellipsis](https://www.ellipsis.dev/)
@@ -340,6 +380,8 @@ Superflex is a VSCode Extension that builds features from Figma designs, images 
 #### [Codemod](https://codemod.com/)
 <details>
 
+![Codemod](./public/images/codemod.svg)
+
 ##### Category
 AGENT CONSUMER LAYER - Specialized Agents
 
@@ -352,6 +394,8 @@ Codemod provides AI-powered code migration agents that automate framework migrat
 
 #### [Codegen](https://codegen.com/)
 <details>
+
+![Codegen](./public/images/codegen.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Specialized Agents
@@ -372,6 +416,8 @@ Tools for managing and monitoring AI application lifecycles
 #### [Portkey](https://portkey.ai/)
 <details>
 
+![Portkey](./public/images/portkey.png)
+
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
@@ -383,6 +429,7 @@ Portkey provides a comprehensive AI gateway and control panel that enables teams
 </details>
 
 #### [Baseten](https://baseten.co/)
+#### [Baseten](https://baseten.co/)
 <details>
 
 ![Baseten](./public/images/baseten.png)
@@ -391,14 +438,15 @@ Portkey provides a comprehensive AI gateway and control panel that enables teams
 OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
 ##### Description
-Baseten provides inference infrastructure featuring up to 1.500 tokens/second throughput, sub-100ms latency, and GPU autoscaling, with Truss open-source model packaging, enterprise security (SOC2, HIPAA), and support for deployment in customer clouds or self-hosted environments.
+Baseten provides high-performance inference infrastructure featuring up to 1,500 tokens/second throughput, sub-100ms latency, and GPU autoscaling, with Truss open-source model packaging, enterprise security (SOC2, HIPAA), and support for deployment in customer clouds or self-hosted environments.
 
 ##### Links
-- [https://baseten.co/](https://baseten.co/)
 </details>
 
 #### [LangServe]()
 <details>
+
+![LangServe](./public/images/langserve.svg)
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
@@ -411,6 +459,8 @@ OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 
 #### [Stack AI](https://www.stack-ai.com/)
 <details>
+
+![Stack AI](./public/images/stackai.svg)
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
@@ -429,6 +479,8 @@ Systems for tracking AI performance and behavior
 #### [Pydantic Logfire]()
 <details>
 
+![Pydantic Logfire](./public/images/pydantic-ai.svg)
+
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
@@ -440,6 +492,8 @@ OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
 #### [Cleanlab](https://cleanlab.ai/)
 <details>
+
+![Cleanlab](./public/images/cleanlab.png)
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
@@ -454,6 +508,8 @@ Cleanlab provides an AI-powered data curation platform that helps organizations 
 #### [Patronus](https://www.patronus.ai/)
 <details>
 
+![Patronus](./public/images/patronusai.svg)
+
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
@@ -466,6 +522,8 @@ Patronus provides a comprehensive AI evaluation platform built on industry-leadi
 
 #### [Log10](https://www.log10.io/)
 <details>
+
+![Log10](./public/images/log10.png)
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
@@ -480,6 +538,8 @@ Log10 provides an end-to-end AI accuracy platform for evaluating and monitoring 
 #### [Traceloop](https://traceloop.com/)
 <details>
 
+![Traceloop](./public/images/traceloop.png)
+
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
@@ -492,6 +552,8 @@ Traceloop provides open-source LLM monitoring through OpenLLMetry, offering real
 
 #### [WhyLabs](https://whylabs.ai/)
 <details>
+
+![WhyLabs](./public/images/whylabs.svg)
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
@@ -506,6 +568,8 @@ WhyLabs provides a comprehensive AI Control Center for monitoring, securing, and
 #### [OpenLLMetry](https://openllmetry.org/)
 <details>
 
+![OpenLLMetry](./public/images/openllmetry.png)
+
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
 
@@ -518,6 +582,8 @@ OpenLLMetry provides an open-source observability solution for LLMs built on Ope
 
 #### [LangWatch](https://langwatch.ai/)
 <details>
+
+![LangWatch](./public/images/langwatch.png)
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
@@ -536,6 +602,8 @@ Frameworks for ensuring responsible AI use and regulatory compliance
 #### [Alinia]()
 <details>
 
+![Alinia](./public/images/alinia.svg)
+
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 
@@ -548,6 +616,8 @@ OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 #### [Guardrails AI]()
 <details>
 
+![Guardrails AI](./public/images/guardrailsai.png)
+
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 
@@ -559,6 +629,8 @@ OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 
 #### [Lakera]()
 <details>
+
+![Lakera](./public/images/lakera-ai.svg)
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
@@ -576,6 +648,8 @@ Tools for protecting AI systems and managing access and user permissions
 #### [LiteLLM](https://litellm.ai/)
 <details>
 
+![LiteLLM](./public/images/litellm.png)
+
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Security & Access Control
 
@@ -588,6 +662,8 @@ LiteLLM provides a unified API gateway for managing 100+ LLM providers with Open
 
 #### [Martian](https://withmartian.com/)
 <details>
+
+![Martian](./public/images/martian.svg)
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Security & Access Control
@@ -608,6 +684,8 @@ Resources for customizing and optimizing AI models
 #### [Lamini](https://lamini.ai/)
 <details>
 
+![Lamini](./public/images/lamini.svg)
+
 ##### Category
 ENGINEERING LAYER - Training & Fine-Tuning
 
@@ -620,6 +698,8 @@ Provides tools for efficient fine-tuning of large language models, including tec
 
 #### [Predibase](https://www.predibase.com/)
 <details>
+
+![Predibase](./public/images/predibase.svg)
 
 ##### Category
 ENGINEERING LAYER - Training & Fine-Tuning
@@ -649,6 +729,8 @@ Modal offers a serverless cloud platform for AI and ML applications that enables
 #### [Bloop]()
 <details>
 
+![Bloop](./public/images/bloopai.svg)
+
 ##### Category
 ENGINEERING LAYER - Training & Fine-Tuning
 
@@ -660,6 +742,8 @@ ENGINEERING LAYER - Training & Fine-Tuning
 
 #### [Julius]()
 <details>
+
+![Julius](./public/images/julius.png)
 
 ##### Category
 ENGINEERING LAYER - Training & Fine-Tuning
@@ -673,6 +757,8 @@ ENGINEERING LAYER - Training & Fine-Tuning
 #### [Fine Tuner]()
 <details>
 
+![Fine Tuner](./public/images/fine-tuners.png)
+
 ##### Category
 ENGINEERING LAYER - Training & Fine-Tuning
 
@@ -685,6 +771,8 @@ ENGINEERING LAYER - Training & Fine-Tuning
 #### [Codeanywhere]()
 <details>
 
+![Codeanywhere](./public/images/codeanywhere.svg)
+
 ##### Category
 ENGINEERING LAYER - Training & Fine-Tuning
 
@@ -696,6 +784,8 @@ Provides workspaces with GPU
 
 #### [Lightning AI](https://lightning.ai/)
 <details>
+
+![Lightning AI](./public/images/lightningai.svg)
 
 ##### Category
 ENGINEERING LAYER - Training & Fine-Tuning
@@ -714,6 +804,8 @@ Development utilities, libraries and services for building AI applications
 #### [Relevance AI](https://relevanceai.com/)
 <details>
 
+![Relevance AI](./public/images/relevanceai.svg)
+
 ##### Category
 ENGINEERING LAYER - Tools
 
@@ -727,6 +819,8 @@ Relevance AI provides a no-code AI workforce platform that enables businesses to
 #### [Greptile](https://www.greptile.com/)
 <details>
 
+![Greptile](./public/images/greptile.png)
+
 ##### Category
 ENGINEERING LAYER - Tools
 
@@ -739,6 +833,8 @@ Greptile provides an AI-powered code analysis platform that helps software teams
 
 #### [Sourcegraph](https://sourcegraph.com/)
 <details>
+
+![Sourcegraph](./public/images/sourcegraph.svg)
 
 ##### Category
 ENGINEERING LAYER - Tools
@@ -768,6 +864,8 @@ PromptLayer provides a comprehensive prompt engineering platform that enables te
 #### [Gretel.ai]()
 <details>
 
+![Gretel.ai](./public/images/gretel.svg)
+
 ##### Category
 ENGINEERING LAYER - Tools
 
@@ -779,6 +877,8 @@ ENGINEERING LAYER - Tools
 
 #### [Mostly.ai]()
 <details>
+
+![Mostly.ai](./public/images/mostlyai.svg)
 
 ##### Category
 ENGINEERING LAYER - Tools
@@ -792,6 +892,8 @@ ENGINEERING LAYER - Tools
 #### [Tonic.ai]()
 <details>
 
+![Tonic.ai](./public/images/tonic.svg)
+
 ##### Category
 ENGINEERING LAYER - Tools
 
@@ -803,6 +905,8 @@ ENGINEERING LAYER - Tools
 
 #### [Rockfish.ai]()
 <details>
+
+![Rockfish.ai](./public/images/rockfishdata.png)
 
 ##### Category
 ENGINEERING LAYER - Tools
@@ -816,6 +920,8 @@ ENGINEERING LAYER - Tools
 #### [JigsawStack](https://www.jigsawstack.com/)
 <details>
 
+![JigsawStack](./public/images/jigsawstack.svg)
+
 ##### Category
 ENGINEERING LAYER - Tools
 
@@ -828,6 +934,8 @@ JigsawStack provides a comprehensive suite of AI APIs including web scraping, tr
 
 #### [Flowise]()
 <details>
+
+![Flowise](./public/images/flowiseai.png)
 
 ##### Category
 ENGINEERING LAYER - Tools
@@ -845,6 +953,8 @@ Systems for validating AI performance and reliability
 #### [LangSmith]()
 <details>
 
+![LangSmith](./public/images/langsmith.svg)
+
 ##### Category
 ENGINEERING LAYER - Testing & Quality Assurance
 
@@ -856,6 +966,8 @@ ENGINEERING LAYER - Testing & Quality Assurance
 
 #### [Galileo]()
 <details>
+
+![Galileo](./public/images/galileo.png)
 
 ##### Category
 ENGINEERING LAYER - Testing & Quality Assurance
@@ -869,6 +981,8 @@ ENGINEERING LAYER - Testing & Quality Assurance
 #### [Arize]()
 <details>
 
+![Arize](./public/images/arize-ai.svg)
+
 ##### Category
 ENGINEERING LAYER - Testing & Quality Assurance
 
@@ -881,6 +995,8 @@ ENGINEERING LAYER - Testing & Quality Assurance
 #### [Weight & Biases]()
 <details>
 
+![Weight & Biases](./public/images/weights-and-biases.svg)
+
 ##### Category
 ENGINEERING LAYER - Testing & Quality Assurance
 
@@ -892,6 +1008,8 @@ ENGINEERING LAYER - Testing & Quality Assurance
 
 #### [AgentOps]()
 <details>
+
+![AgentOps](./public/images/agentops.svg)
 
 ##### Category
 ENGINEERING LAYER - Testing & Quality Assurance
@@ -917,6 +1035,8 @@ Confident AI provides an LLM evaluation platform that enables organizations to b
 
 #### [ContextQA](https://contextqa.com/)
 <details>
+
+![ContextQA](./public/images/contextqa.svg)
 
 ##### Category
 ENGINEERING LAYER - Testing & Quality Assurance
@@ -950,6 +1070,8 @@ Core libraries and building blocks for AI application development
 #### [LangChain]()
 <details>
 
+![LangChain](./public/images/langchain.svg)
+
 ##### Category
 INTELLIGENCE LAYER - Frameworks
 
@@ -961,6 +1083,8 @@ INTELLIGENCE LAYER - Frameworks
 
 #### [LlamaIndex]()
 <details>
+
+![LlamaIndex](./public/images/llamaindex.svg)
 
 ##### Category
 INTELLIGENCE LAYER - Frameworks
@@ -974,6 +1098,8 @@ INTELLIGENCE LAYER - Frameworks
 #### [Haystack]()
 <details>
 
+![Haystack](./public/images/haystack.png)
+
 ##### Category
 INTELLIGENCE LAYER - Frameworks
 
@@ -985,6 +1111,8 @@ INTELLIGENCE LAYER - Frameworks
 
 #### [DSPy]()
 <details>
+
+![DSPy](./public/images/dspy.png)
 
 ##### Category
 INTELLIGENCE LAYER - Frameworks
@@ -1028,6 +1156,8 @@ Provides an agent development platform with advanced memory management for LLMs,
 #### [AutoGen](https://github.com/microsoft/autogen)
 <details>
 
+![AutoGen](./public/images/autogen.svg)
+
 ##### Category
 INTELLIGENCE LAYER - Frameworks
 
@@ -1041,6 +1171,8 @@ Framework for developing LLM applications with multiple conversational agents th
 #### [TaskWeaver](https://github.com/microsoft/TaskWeaver)
 <details>
 
+![TaskWeaver](./public/images/taskweaver.svg)
+
 ##### Category
 INTELLIGENCE LAYER - Frameworks
 
@@ -1051,8 +1183,10 @@ A framework for creating and managing workflows and tasks for AI agents.
 - [https://github.com/microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver)
 </details>
 
-#### [Toolhouse](https://toolhouse.io/)
+#### [Toolhouse](https://toolhouse.ai/)
 <details>
+
+![Toolhouse](./public/images/toolhouse.svg)
 
 ##### Category
 INTELLIGENCE LAYER - Frameworks
@@ -1061,11 +1195,13 @@ INTELLIGENCE LAYER - Frameworks
 Toolhouse provides a cloud infrastructure platform and universal SDK that enables developers to equip LLMs with actions and knowledge through a Tool Store, offering pre-built optimized functions, low-latency execution, and cross-LLM compatibility with just three lines of code.
 
 ##### Links
-- [https://toolhouse.io/](https://toolhouse.io/)
+- [https://toolhouse.ai/](https://toolhouse.ai/)
 </details>
 
-#### [Composio](https://www.composio.com/)
+#### [Composio](https://composio.dev/agentauth/)
 <details>
+
+![Composio](./public/images/composio.svg)
 
 ##### Category
 INTELLIGENCE LAYER - Frameworks
@@ -1074,11 +1210,13 @@ INTELLIGENCE LAYER - Frameworks
 Composio provides an integration platform for AI agents and LLMs with 250+ pre-built tools, managed authentication, and RPA capabilities, enabling developers to easily connect their AI applications with various services while maintaining SOC-2 compliance and supporting multiple agent frameworks.
 
 ##### Links
-- [https://www.composio.com/](https://www.composio.com/)
+- [https://composio.dev/agentauth/](https://composio.dev/agentauth/)
 </details>
 
 #### [CrewAI](https://www.crewai.io/)
 <details>
+
+![CrewAI](./public/images/crewai.svg)
 
 ##### Category
 INTELLIGENCE LAYER - Frameworks
@@ -1106,6 +1244,8 @@ AI Suite provides a unified interface for multiple LLM providers (OpenAI, Anthro
 #### [Promptflow](https://microsoft.github.io/promptflow/index.html)
 <details>
 
+![Promptflow](./public/images/promptflow.svg)
+
 ##### Category
 INTELLIGENCE LAYER - Frameworks
 
@@ -1118,6 +1258,8 @@ Promptflow is Microsoft's open-source development framework for LLM applications
 
 #### [LLMStack](https://llmstack.ai/)
 <details>
+
+![LLMStack](./public/images/llmstack.svg)
 
 ##### Category
 INTELLIGENCE LAYER - Frameworks
@@ -1136,6 +1278,8 @@ Systems for managing and retrieving information
 #### [Pinecone]()
 <details>
 
+![Pinecone](./public/images/pinecone.svg)
+
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
 
@@ -1147,6 +1291,8 @@ INTELLIGENCE LAYER - Knowledge Engines
 
 #### [Weaviate]()
 <details>
+
+![Weaviate](./public/images/weaviate.png)
 
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
@@ -1160,6 +1306,8 @@ INTELLIGENCE LAYER - Knowledge Engines
 #### [Chroma]()
 <details>
 
+![Chroma](./public/images/chroma.png)
+
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
 
@@ -1171,6 +1319,8 @@ INTELLIGENCE LAYER - Knowledge Engines
 
 #### [Milvus]()
 <details>
+
+![Milvus](./public/images/milvus.svg)
 
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
@@ -1184,6 +1334,8 @@ INTELLIGENCE LAYER - Knowledge Engines
 #### [Qdrant]()
 <details>
 
+![Qdrant](./public/images/qdrant.png)
+
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
 
@@ -1196,6 +1348,8 @@ INTELLIGENCE LAYER - Knowledge Engines
 #### [MongoDB Atlas]()
 <details>
 
+![MongoDB Atlas](./public/images/mongodb.svg)
+
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
 
@@ -1207,6 +1361,8 @@ INTELLIGENCE LAYER - Knowledge Engines
 
 #### [Supabase](https://supabase.com/modules/vector)
 <details>
+
+![Supabase](./public/images/supabase.png)
 
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
@@ -1221,7 +1377,7 @@ Supabase Vector provides an open-source vector database built on Postgres and pg
 #### [Contextual AI](https://contextual.ai/)
 <details>
 
-![Contextual AI](./public/images/contextualai.webp)
+![Contextual AI](./public/images/contextualai.png)
 
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
@@ -1236,6 +1392,8 @@ Contextual AI provides enterprise-grade RAG (Retrieval-Augmented Generation) sol
 #### [Unstructured](https://unstructured.io/)
 <details>
 
+![Unstructured](./public/images/unstructured.png)
+
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
 
@@ -1249,6 +1407,8 @@ Platform for working with unstructured data, offering tools for data pre-process
 #### [Sciphi](https://www.sciphi.ai/)
 <details>
 
+![Sciphi](./public/images/sciphi.png)
+
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
 
@@ -1261,6 +1421,8 @@ SciPhi offers R2R, an all-in-one RAG (Retrieval Augmented Generation) solution t
 
 #### [pgAI](https://github.com/timescale/pgai)
 <details>
+
+![pgAI](./public/images/pgai.png)
 
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
@@ -1279,6 +1441,8 @@ AI models optimized for software development
 #### [Codestral](https://mistral.ai/news/codestral/)
 <details>
 
+![Codestral](./public/images/mistral-ai.svg)
+
 ##### Category
 INTELLIGENCE LAYER - Specialized Coding Models
 
@@ -1291,6 +1455,8 @@ Codestral is Mistral AI's specialized 22B code generation model supporting 80+ p
 
 #### [Claude 3.5 Sonnet](https://www.anthropic.com/claude)
 <details>
+
+![Claude 3.5 Sonnet](./public/images/claude-ai.png)
 
 ##### Category
 INTELLIGENCE LAYER - Specialized Coding Models
@@ -1305,6 +1471,8 @@ Claude 3.5 Sonnet is Anthropic's frontier AI model offering state-of-the-art per
 #### [Qwen2.5-Coder-32B](https://huggingface.co/Qwen/Qwen2.5-Coder-32B)
 <details>
 
+![Qwen2.5-Coder-32B](./public/images/qwen-2.5-coder.png)
+
 ##### Category
 INTELLIGENCE LAYER - Specialized Coding Models
 
@@ -1318,6 +1486,8 @@ Qwen2.5-Coder is a specialized code-focused model matching GPT-4's coding capabi
 #### [OpenCoder](https://arxiv.org/pdf/2411.04905)
 <details>
 
+![OpenCoder](./public/images/opencoder.svg)
+
 ##### Category
 INTELLIGENCE LAYER - Specialized Coding Models
 
@@ -1330,6 +1500,8 @@ OpenCoder is an open-source family of code-specialized LLMs (1.5B and 8B paramet
 
 #### [Poolside Malibu](https://aws.amazon.com/bedrock/poolside/)
 <details>
+
+![Poolside Malibu](./public/images/poolside.png)
 
 ##### Category
 INTELLIGENCE LAYER - Specialized Coding Models
@@ -1365,6 +1537,8 @@ Daytona.io is an open-source Development Environment Manager designed to simplif
 #### [RunloopAI](https://www.runloop.ai/)
 <details>
 
+![RunloopAI](./public/images/runloop.png)
+
 ##### Category
 INFRASTRUCTURE LAYER - AI Workspaces
 
@@ -1378,6 +1552,8 @@ Runloop provides a secure, high-performance infrastructure platform that enables
 #### [E2B](https://e2b.dev/)
 <details>
 
+![E2B](./public/images/e2b-dev.png)
+
 ##### Category
 INFRASTRUCTURE LAYER - AI Workspaces
 
@@ -1390,6 +1566,8 @@ E2B provides an open-source runtime platform that enables developers to securely
 
 #### [Morph Labs](https://morph.so/)
 <details>
+
+![Morph Labs](./public/images/morph.png)
 
 ##### Category
 INFRASTRUCTURE LAYER - AI Workspaces
@@ -1423,6 +1601,8 @@ OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, an
 #### [Anthropic](https://www.anthropic.com/)
 <details>
 
+![Anthropic](./public/images/anthropic.svg)
+
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
@@ -1435,6 +1615,8 @@ Anthropic provides AI models through the Claude family, emphasizing safety and r
 
 #### [Mistral AI](https://mistral.ai/)
 <details>
+
+![Mistral AI](./public/images/mistral-ai.svg)
 
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
@@ -1449,6 +1631,8 @@ Mistral AI provides AI models with emphasis on openness and portability, offerin
 #### [Groq](https://groq.com/)
 <details>
 
+![Groq](./public/images/groq.svg)
+
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
@@ -1462,7 +1646,7 @@ Groq provides ultra-fast AI inference infrastructure for openly-available models
 #### [AI21labs](https://www.ai21.com/)
 <details>
 
-![AI21labs](./public/images/ai21labs.svg)
+![AI21labs](./public/images/AI21labs.svg)
 
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
@@ -1507,6 +1691,8 @@ Hugging Face provides fully managed inference infrastructure for ML models with 
 #### [Cartesia](https://www.cartesia.ai/)
 <details>
 
+![Cartesia](./public/images/cartesia.svg)
+
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
@@ -1519,6 +1705,8 @@ Cartesia AI delivers real-time multimodal intelligence through state space model
 
 #### [Fireworks](https://fireworks.ai/)
 <details>
+
+![Fireworks](./public/images/fireworks-ai.svg)
 
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
@@ -1533,6 +1721,8 @@ Provides easy access to open-source language models through a simple API, simila
 #### [Together.AI](https://together.ai/)
 <details>
 
+![Together.AI](./public/images/together-ai.svg)
+
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
@@ -1545,6 +1735,8 @@ Offers an API for accessing and running open-source LLMs, facilitating seamless 
 
 #### [Google Vertex AI](https://cloud.google.com/vertex-ai)
 <details>
+
+![Google Vertex AI](./public/images/vertex-ai.png)
 
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
@@ -1559,6 +1751,8 @@ End-to-end platform for deploying and managing AI models, including LLMs, with i
 #### [Amazon Nova](https://aws.amazon.com/ai/generative-ai/nova/)
 <details>
 
+![Amazon Nova](./public/images/amazon-nova.png)
+
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
@@ -1571,6 +1765,8 @@ Amazon Nova provides state-of-the-art foundation models through Amazon Bedrock, 
 
 #### [Replicate](https://replicate.com/)
 <details>
+
+![Replicate](./public/images/replicate.svg)
 
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
@@ -1585,6 +1781,8 @@ Serverless platform for running machine learning models, allowing developers to 
 #### [SambaNova](https://sambanova.ai/)
 <details>
 
+![SambaNova](./public/images/sambanova.png)
+
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
@@ -1598,6 +1796,8 @@ SambaNova provides custom AI infrastructure featuring their SN40L Reconfigurable
 #### [BentoML](https://www.bentoml.com/)
 <details>
 
+![BentoML](./public/images/bentoml.svg)
+
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
@@ -1610,6 +1810,8 @@ BentoML provides an open-source unified inference platform that enables organiza
 
 #### [OpenRouter](https://openrouter.ai/)
 <details>
+
+![OpenRouter](./public/images/openrouter.svg)
 
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment
