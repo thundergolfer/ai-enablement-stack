@@ -560,19 +560,21 @@
             {
               "name": "Confident AI",
               "description": "Confident AI provides an LLM evaluation platform that enables organizations to benchmark, unit test, and monitor their LLM applications through automated regression testing, A/B testing, and synthetic dataset generation, while offering research-backed evaluation metrics and comprehensive observability features.",
-              "logo": "",
+              "logo": "./public/images/confidentai.svg",
+              "zoom":"150",
               "link": "https://www.confident-ai.com/"
             },
             {
               "name": "ContextQA",
               "description": "AI agent specifically designed for software testing and quality assurance, automating the testing process and providing comprehensive test coverage.",
               "logo": "./public/images/contextqa.svg",
+              "zoom": "150",
               "link": "https://contextqa.com/"
             },
             {
               "name": "Braintrust",
               "description": "Braintrust provides an end-to-end platform for evaluating and testing LLM applications, offering features like prompt testing, custom scoring, dataset management, real-time tracing, and production monitoring, with support for both UI-based and SDK-driven workflows.",
-              "logo": "",
+              "logo": "./public/images/braintrust.svg",
               "link": "https://www.braintrustdata.com/"
             }
 
@@ -689,6 +691,7 @@
               "name": "Lakera",
               "description": "",
               "logo": "./public/images/lakera-ai.png",
+              "zoom":"80",
               "link": ""
             }
           ]
@@ -708,6 +711,7 @@
               "name": "Martian",
               "description": "Martian provides an intelligent LLM routing system that dynamically selects the optimal model for each request, featuring performance prediction, automatic failover, cost optimization (up to 98% savings), and simplified integration, outperforming single models like GPT-4 while ensuring high uptime.",
               "logo": "./public/images/martian.png",
+              "zoom":"120",
               "link": "https://withmartian.com/"
             }
           ]
@@ -765,7 +769,8 @@
               "name": "Morph",
               "description": "Morph AI delivers an enterprise-grade developer assistant that automates engineering tasks across multiple languages and frameworks, enabling developers to focus on high-impact work while ensuring code quality through automated testing and compliance.",
               "logo": "./public/images/morph.svg",
-              "link": "https://www.morph.ai/"
+              "link": "https://www.morph.ai/",
+              "hidden":"true"
             }
           ]
         },
@@ -776,7 +781,8 @@
             {
               "name": "Copilot",
               "description": "",
-              "logo": "./public/images/copilot.png",
+              "logo": "./public/images/githubcopilot.png",
+              "zoom": "80",
               "link": ""
             },
             {
@@ -795,7 +801,7 @@
             {
               "name": "Cursor",
               "description": "",
-              "logo": "./public/images/cursor.svg",
+              "logo": "./public/images/cursor-ai.png",
               "link": "https://www.cursor.com/"
             },
             {
@@ -853,7 +859,7 @@
             {
               "name": "Ellipsis",
               "description": "Ellipsis provides AI-powered code reviews and automated bug fixes for GitHub repositories, offering features like style guide enforcement, code generation, and automated testing while maintaining SOC 2 Type 1 compliance and secure processing without data retention.",
-              "logo": "",
+              "logo": "./public/images/elipsis.png",
               "link": "https://www.ellipsis.dev/"
             },
             {

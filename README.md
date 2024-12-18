@@ -157,7 +157,7 @@ AI tools that enhance human capabilities and workflow efficiency
 #### [Copilot]()
 <details>
 
-![Copilot](./public/images/copilot.png)
+![Copilot](./public/images/githubcopilot.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
@@ -201,7 +201,7 @@ Sourcegraph's Cody is an AI coding assistant that combines the latest LLM models
 #### [Cursor](https://www.cursor.com/)
 <details>
 
-![Cursor](./public/images/cursor.svg)
+![Cursor](./public/images/cursor-ai.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
@@ -324,6 +324,8 @@ AGENT CONSUMER LAYER - Specialized Agents
 
 #### [Ellipsis](https://www.ellipsis.dev/)
 <details>
+
+![Ellipsis](./public/images/elipsis.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Specialized Agents
@@ -997,6 +999,8 @@ ENGINEERING LAYER - Testing & Quality Assurance
 #### [Confident AI](https://www.confident-ai.com/)
 <details>
 
+![Confident AI](./public/images/confidentai.svg)
+
 ##### Category
 ENGINEERING LAYER - Testing & Quality Assurance
 
@@ -1024,6 +1028,8 @@ AI agent specifically designed for software testing and quality assurance, autom
 
 #### [Braintrust](https://www.braintrustdata.com/)
 <details>
+
+![Braintrust](./public/images/braintrust.svg)
 
 ##### Category
 ENGINEERING LAYER - Testing & Quality Assurance
