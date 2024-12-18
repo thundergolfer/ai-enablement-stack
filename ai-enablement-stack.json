@@ -435,6 +435,7 @@
               "name": "Julius",
               "description": "",
               "logo": "./public/images/julius.svg",
+              "zoom":"140",
               "link": ""
             },
             {
