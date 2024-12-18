@@ -80,7 +80,7 @@ AGENT CONSUMER LAYER - Autonomous Agents
 #### [Lovable]()
 <details>
 
-![Lovable](./public/images/loveable.png)
+![Lovable](./public/images/loveable.svg)
 
 ##### Category
 AGENT CONSUMER LAYER - Autonomous Agents
@@ -95,20 +95,6 @@ AGENT CONSUMER LAYER - Autonomous Agents
 <details>
 
 ![AutoGen](./public/images/autogen.svg)
-
-##### Category
-AGENT CONSUMER LAYER - Autonomous Agents
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
-#### [BabyAGI]()
-<details>
-
-![BabyAGI](./public/images/babyagi.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Autonomous Agents
@@ -152,7 +138,7 @@ AGENT CONSUMER LAYER - Autonomous Agents
 #### [Morph](https://www.morph.ai/)
 <details>
 
-![Morph](./public/images/morph.png)
+![Morph](./public/images/morph.svg)
 
 ##### Category
 AGENT CONSUMER LAYER - Autonomous Agents
@@ -230,7 +216,7 @@ AGENT CONSUMER LAYER - Assistive Agents
 #### [Tabnine](https://www.tabnine.com/)
 <details>
 
-![Tabnine](./public/images/tabnine.svg)
+![Tabnine](./public/images/tabnine.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
@@ -257,10 +243,10 @@ Supermaven provides ultra-fast code completion and assistance with a 1M token co
 - [https://supermaven.com/](https://supermaven.com/)
 </details>
 
-#### [Windsurf](https://windsurf.dev/)
+#### [Windsurf](https://codeium.com/windsurf)
 <details>
 
-![Windsurf](./public/images/goose.png)
+![Windsurf](./public/images/windsurf.svg)
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
@@ -269,11 +255,13 @@ AGENT CONSUMER LAYER - Assistive Agents
 Windsurf provides an agentic IDE that combines copilot and agent capabilities through 'Flows', featuring Cascade for deep contextual awareness, multi-file editing, command suggestions, and LLM-based search tools, all integrated into a VS Code-based editor for seamless AI-human collaboration.
 
 ##### Links
-- [https://windsurf.dev/](https://windsurf.dev/)
+- [https://codeium.com/windsurf](https://codeium.com/windsurf)
 </details>
 
 #### [Goose](https://github.com/block/goose)
 <details>
+
+![Goose](./public/images/goose.png)
 
 ##### Category
 AGENT CONSUMER LAYER - Assistive Agents
@@ -429,7 +417,6 @@ Portkey provides a comprehensive AI gateway and control panel that enables teams
 </details>
 
 #### [Baseten](https://baseten.co/)
-#### [Baseten](https://baseten.co/)
 <details>
 
 ![Baseten](./public/images/baseten.png)
@@ -441,6 +428,7 @@ OBSERVABILITY AND GOVERNANCE LAYER - Development Pipeline
 Baseten provides high-performance inference infrastructure featuring up to 1,500 tokens/second throughput, sub-100ms latency, and GPU autoscaling, with Truss open-source model packaging, enterprise security (SOC2, HIPAA), and support for deployment in customer clouds or self-hosted environments.
 
 ##### Links
+- [https://baseten.co/](https://baseten.co/)
 </details>
 
 #### [LangServe]()
@@ -616,7 +604,7 @@ OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 #### [Guardrails AI]()
 <details>
 
-![Guardrails AI](./public/images/guardrailsai.png)
+![Guardrails AI](./public/images/guardrailsai.svg)
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
@@ -630,7 +618,7 @@ OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
 #### [Lakera]()
 <details>
 
-![Lakera](./public/images/lakera-ai.svg)
+![Lakera](./public/images/lakera-ai.png)
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Risk & Compliance
@@ -663,7 +651,7 @@ LiteLLM provides a unified API gateway for managing 100+ LLM providers with Open
 #### [Martian](https://withmartian.com/)
 <details>
 
-![Martian](./public/images/martian.svg)
+![Martian](./public/images/martian.png)
 
 ##### Category
 OBSERVABILITY AND GOVERNANCE LAYER - Security & Access Control
@@ -743,7 +731,7 @@ ENGINEERING LAYER - Training & Fine-Tuning
 #### [Julius]()
 <details>
 
-![Julius](./public/images/julius.png)
+![Julius](./public/images/julius.svg)
 
 ##### Category
 ENGINEERING LAYER - Training & Fine-Tuning
@@ -785,7 +773,7 @@ Provides workspaces with GPU
 #### [Lightning AI](https://lightning.ai/)
 <details>
 
-![Lightning AI](./public/images/lightningai.svg)
+![Lightning AI](./public/images/lightningai.png)
 
 ##### Category
 ENGINEERING LAYER - Training & Fine-Tuning
@@ -932,20 +920,6 @@ JigsawStack provides a comprehensive suite of AI APIs including web scraping, tr
 - [https://www.jigsawstack.com/](https://www.jigsawstack.com/)
 </details>
 
-#### [Flowise]()
-<details>
-
-![Flowise](./public/images/flowiseai.png)
-
-##### Category
-ENGINEERING LAYER - Tools
-
-##### Description
-- No description available
-
-##### Links
-</details>
-
 ### Testing & Quality Assurance
 
 Systems for validating AI performance and reliability
@@ -995,7 +969,7 @@ ENGINEERING LAYER - Testing & Quality Assurance
 #### [Weight & Biases]()
 <details>
 
-![Weight & Biases](./public/images/weights-and-biases.svg)
+![Weight & Biases](./public/images/w&b.png)
 
 ##### Category
 ENGINEERING LAYER - Testing & Quality Assurance
@@ -1070,7 +1044,7 @@ Core libraries and building blocks for AI application development
 #### [LangChain]()
 <details>
 
-![LangChain](./public/images/langchain.svg)
+![LangChain](./public/images/langchain.png)
 
 ##### Category
 INTELLIGENCE LAYER - Frameworks
@@ -1171,8 +1145,6 @@ Framework for developing LLM applications with multiple conversational agents th
 #### [TaskWeaver](https://github.com/microsoft/TaskWeaver)
 <details>
 
-![TaskWeaver](./public/images/taskweaver.svg)
-
 ##### Category
 INTELLIGENCE LAYER - Frameworks
 
@@ -1244,8 +1216,6 @@ AI Suite provides a unified interface for multiple LLM providers (OpenAI, Anthro
 #### [Promptflow](https://microsoft.github.io/promptflow/index.html)
 <details>
 
-![Promptflow](./public/images/promptflow.svg)
-
 ##### Category
 INTELLIGENCE LAYER - Frameworks
 
@@ -1303,10 +1273,10 @@ INTELLIGENCE LAYER - Knowledge Engines
 ##### Links
 </details>
 
-#### [Chroma]()
+#### [Chroma](https://www.trychroma.com/)
 <details>
 
-![Chroma](./public/images/chroma.png)
+![Chroma](./public/images/chroma.svg)
 
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
@@ -1315,6 +1285,7 @@ INTELLIGENCE LAYER - Knowledge Engines
 - No description available
 
 ##### Links
+- [https://www.trychroma.com/](https://www.trychroma.com/)
 </details>
 
 #### [Milvus]()
@@ -1392,7 +1363,7 @@ Contextual AI provides enterprise-grade RAG (Retrieval-Augmented Generation) sol
 #### [Unstructured](https://unstructured.io/)
 <details>
 
-![Unstructured](./public/images/unstructured.png)
+![Unstructured](./public/images/unstructured.avif)
 
 ##### Category
 INTELLIGENCE LAYER - Knowledge Engines
@@ -1456,7 +1427,7 @@ Codestral is Mistral AI's specialized 22B code generation model supporting 80+ p
 #### [Claude 3.5 Sonnet](https://www.anthropic.com/claude)
 <details>
 
-![Claude 3.5 Sonnet](./public/images/claude-ai.png)
+![Claude 3.5 Sonnet](./public/images/claudeai.svg)
 
 ##### Category
 INTELLIGENCE LAYER - Specialized Coding Models
@@ -1471,7 +1442,7 @@ Claude 3.5 Sonnet is Anthropic's frontier AI model offering state-of-the-art per
 #### [Qwen2.5-Coder-32B](https://huggingface.co/Qwen/Qwen2.5-Coder-32B)
 <details>
 
-![Qwen2.5-Coder-32B](./public/images/qwen-2.5-coder.png)
+![Qwen2.5-Coder-32B](./public/images/qwen.png)
 
 ##### Category
 INTELLIGENCE LAYER - Specialized Coding Models
@@ -1483,25 +1454,10 @@ Qwen2.5-Coder is a specialized code-focused model matching GPT-4's coding capabi
 - [https://huggingface.co/Qwen/Qwen2.5-Coder-32B](https://huggingface.co/Qwen/Qwen2.5-Coder-32B)
 </details>
 
-#### [OpenCoder](https://arxiv.org/pdf/2411.04905)
-<details>
-
-![OpenCoder](./public/images/opencoder.svg)
-
-##### Category
-INTELLIGENCE LAYER - Specialized Coding Models
-
-##### Description
-OpenCoder is an open-source family of code-specialized LLMs (1.5B and 8B parameters) trained on 2.5T tokens, featuring base and chat models with English/Chinese support, complete with training data, processing pipeline, and reproducible protocols, achieving top-tier code LLM performance.
-
-##### Links
-- [https://arxiv.org/pdf/2411.04905](https://arxiv.org/pdf/2411.04905)
-</details>
-
 #### [Poolside Malibu](https://aws.amazon.com/bedrock/poolside/)
 <details>
 
-![Poolside Malibu](./public/images/poolside.png)
+![Poolside Malibu](./public/images/poolside.svg)
 
 ##### Category
 INTELLIGENCE LAYER - Specialized Coding Models
@@ -1534,10 +1490,10 @@ Daytona.io is an open-source Development Environment Manager designed to simplif
 - [https://daytona.io/](https://daytona.io/)
 </details>
 
-#### [RunloopAI](https://www.runloop.ai/)
+#### [Runloop](https://www.runloop.ai/)
 <details>
 
-![RunloopAI](./public/images/runloop.png)
+![Runloop](./public/images/runloop.svg)
 
 ##### Category
 INFRASTRUCTURE LAYER - AI Workspaces
@@ -1567,7 +1523,7 @@ E2B provides an open-source runtime platform that enables developers to securely
 #### [Morph Labs](https://morph.so/)
 <details>
 
-![Morph Labs](./public/images/morph.png)
+![Morph Labs](./public/images/morph.svg)
 
 ##### Category
 INFRASTRUCTURE LAYER - AI Workspaces
@@ -1607,7 +1563,7 @@ OpenAI develops advanced artificial intelligence systems like ChatGPT, GPT-4, an
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
-Anthropic provides AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.
+Anthropic provides frontier AI models through the Claude family, emphasizing safety and reliability, with offerings including Claude 3.5 Sonnet and Haiku. Their models feature advanced capabilities in reasoning, coding, and computer use, while maintaining strong safety standards through Constitutional AI and comprehensive testing.
 
 ##### Links
 - [https://www.anthropic.com/](https://www.anthropic.com/)
@@ -1622,7 +1578,7 @@ Anthropic provides AI models through the Claude family, emphasizing safety and r
 INFRASTRUCTURE LAYER - Model Access & Deployment
 
 ##### Description
-Mistral AI provides AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.
+Mistral AI provides frontier AI models with emphasis on openness and portability, offering both open-weight models (Mistral 7B, Mixtral 8x7B) and commercial models (Mistral Large 2), available through multiple deployment options including serverless APIs, cloud services, and on-premise deployment.
 
 ##### Links
 - [https://mistral.ai/](https://mistral.ai/)
@@ -1736,7 +1692,7 @@ Offers an API for accessing and running open-source LLMs, facilitating seamless 
 #### [Google Vertex AI](https://cloud.google.com/vertex-ai)
 <details>
 
-![Google Vertex AI](./public/images/vertex-ai.png)
+![Google Vertex AI](./public/images/vertex.png)
 
 ##### Category
 INFRASTRUCTURE LAYER - Model Access & Deployment

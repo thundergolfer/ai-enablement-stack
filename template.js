@@ -184,6 +184,43 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
             gap: 8px;
         }
 
+        .company-zoom-30 img {
+            transform: scale(0.3);
+        }
+        .company-zoom-40 img {
+            transform: scale(0.4);
+        }
+        .company-zoom-50 img {
+            transform: scale(0.5);
+        }
+        .company-zoom-60 img {
+            transform: scale(0.6);
+        }
+        .company-zoom-70 img {
+            transform: scale(0.7);
+        }
+        .company-zoom-80 img {
+            transform: scale(0.8);
+        }
+        .company-zoom-90 img {
+            transform: scale(0.9);
+        }
+        .company-zoom-110 img {
+            transform: scale(1.1);
+        }
+        .company-zoom-120 img {
+            transform: scale(1.2);
+        }
+        .company-zoom-130 img {
+            transform: scale(1.3);
+        }
+        .company-zoom-140 img {
+            transform: scale(1.4);
+        }
+        .company-zoom-150 img {
+            transform: scale(1.5);
+        }
+
         .company {
             font-family: "Inter", sans-serif;
             font-optical-sizing: auto;
@@ -197,6 +234,10 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
             display: flex;
             align-items: center;
             justify-content: center;
+            overflow: visible; /* Allow zoomed content to overflow */
+            transform-origin: center;
+            min-height: 48px; /* Ensure consistent height */
+            min-width: 48px; /* Ensure minimum width */
         }
 
         .company img {
@@ -205,6 +246,23 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
             max-height: 24px;
             object-fit: contain;
             display: block;
+            width: auto;
+        }
+
+        .company img[src*='svg'] {
+            width: auto;
+            height: 32px; /* Increased from 24px */
+            min-width: auto; /* Remove min-width constraint */
+            object-fit: contain;
+            object-position: center;
+            padding: 4px; /* Add some padding if needed */
+        }
+
+        .company svg {
+            width: 100%;
+            height: 100%;
+            max-height: 24px;
+            min-width: 24px;
         }
 
         .company:hover {
@@ -293,10 +351,12 @@ const generateHTML = (data, bgImageDataUrl, dtnLogoUrl) => {
                         <div class="section">
                             <div class="section-title">${section.name}</div>
                             <div class="companies">
-                                ${section.companies.map(company => `
-                                    <div class="company">
+                                ${section.companies
+                                    .filter(company => !company.hidden) // Filter out companies with hidden: true
+                                    .map(company => `
+                                    <div class="company ${company.zoom ? `company-zoom-${company.zoom}` : ''}"}>
                                         ${company.logo
-                                            ? `<img src="${company.logo}" alt="${company.name}">`
+                                            ? `<img src="${company.logo}" alt="${company.name}" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'">`
                                             : company.name
                                         }
                                     </div>
