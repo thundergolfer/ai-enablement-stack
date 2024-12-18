@@ -34,8 +34,9 @@
             {
               "name": "Morph Labs",
               "description": "Morph Labs provides infrastructure for developing and deploying autonomous software engineers at scale, offering Infinibranch for Morph Cloud and focusing on advanced infrastructure for AI-powered development, backed by partnerships with Together AI, Nomic AI, and other leading AI companies.",
-              "logo": "./public/images/morph.svg",
-              "link": "https://morph.so/"
+              "logo": "",
+              "link": "https://morph.so/",
+              "hidden":"true"
             }
           ]
         },

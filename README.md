@@ -1529,8 +1529,6 @@ E2B provides an open-source runtime platform that enables developers to securely
 #### [Morph Labs](https://morph.so/)
 <details>
 
-![Morph Labs](./public/images/morph.svg)
-
 ##### Category
 INFRASTRUCTURE LAYER - AI Workspaces
 
