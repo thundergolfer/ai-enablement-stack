@@ -238,7 +238,7 @@ const generateHTML = (data, bgImageDataUrl = '', dtnLogoUrl = '/images/daytona.s
             font-weight: 400;
             font-style: normal;
             background: transparent;
-            padding: 12px 16px;
+            padding: 10px 16px;
             text-align: center;
             border: 1px solid var(--border-light);
             transition: all 0.2s ease;
@@ -405,15 +405,6 @@ const generateHTML = (data, bgImageDataUrl = '', dtnLogoUrl = '/images/daytona.s
             opacity: 1;
         }
 
-        /* Add extra padding for companies with tooltips */
-        .companies {
-            padding-top: 20px;
-            padding-bottom: 20px;
-            position: relative;
-            overflow: visible !important;
-        }
-
-        /* Ensure tooltips don't get cut off at screen edges */
         .company:hover .tooltip {
             white-space: normal;
             max-width: 300px;
@@ -488,7 +479,6 @@ const generateHTML = (data, bgImageDataUrl = '', dtnLogoUrl = '/images/daytona.s
     </div>
 
     <script>
-        // Add this script to handle tooltip positioning
         document.addEventListener('DOMContentLoaded', function() {
             const companies = document.querySelectorAll('.company');
 
