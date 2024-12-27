@@ -479,6 +479,14 @@
               "hidden": "true",
               "github": "https://github.com/timescale/pgai",
               "x": "@timescaledb"
+            },
+            {
+              "name": "FalkorDB",
+              "description": "FalkorDB provides a graph database platform optimized for AI applications, featuring GraphRAG technology for knowledge graph creation, sub-millisecond querying, and advanced relationship modeling, enabling more accurate and contextual LLM responses through graph-based data relationships.",
+              "logo": "./public/images/falkordb.svg",
+              "link": "https://falkordb.com/",
+              "github": "https://github.com/FalkorDB/falkordb",
+              "x": "@FalkorDB"
             }
           ]
         },
