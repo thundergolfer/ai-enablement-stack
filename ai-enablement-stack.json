@@ -45,6 +45,14 @@
               "hidden": "true",
               "github": "",
               "x": "@morph_labs"
+            },
+            {
+              "name": "Modal",
+              "description": "Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.",
+              "logo": "./public/images/modal.svg",
+              "link": "https://modal.com/",
+              "github": "",
+              "x": "@modal_labs"
             }
           ]
         },
@@ -184,6 +192,14 @@
               "link": "https://openrouter.ai/",
               "github": "",
               "x": "@OpenRouterAI"
+            },
+            {
+              "name": "Modal",
+              "description": "Modal offers a serverless cloud platform for AI and ML applications that enables developers to deploy and scale workloads instantly with simple Python code, featuring high-performance GPU infrastructure and pay-per-use pricing.",
+              "logo": "./public/images/modal.svg",
+              "link": "https://modal.com/",
+              "github": "",
+              "x": "@modal_labs"
             }
           ]
         },
